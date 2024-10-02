@@ -1,0 +1,4 @@
+On making Contact with [[Manoizy a Goddess of Numbing Madness|Manoizy]] your being can never be the same. Your mental understanding of the world arounds you shifts and you are cursed with a madness from men. The details of the curse are to be fleshed between player and DM however its effects are the same. 
+
+# Effects
+When facing the unimpaired effects of your madness you will gain a Stack of [[Madness]]. Madness effects worsen as it accumulates please check the Madness table for further effects. Madness is not lost on rest only fading deliberate efforts to ease your mind or the many effects of your Pack with Manoizy.
