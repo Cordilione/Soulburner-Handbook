@@ -1,1 +1,0 @@
-You need 4 stacks of deing to die fully.
