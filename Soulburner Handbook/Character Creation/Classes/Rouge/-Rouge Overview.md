@@ -17,15 +17,15 @@ Trained in one of the Following
 - Light bows
 - Light Crossbow
 
-| Level |        Core        | Major |        Minor        |
-| :---: | :----------------: | :---: | :-----------------: |
-|   1   | [[Stealth Attack]] | Feat  |        Feat         |
-|   2   |                    |       |                     |
-|   3   |  1 Ability Score   |       | Gain 2 Skill Points |
-|   4   |   1 General Feat   |       |                     |
-|   5   |                    |       |                     |
-|   6   |  1 Ability Score   |       | Gain 2 Skill Points |
-|   7   |                    |       |                     |
-|   8   |   1 General Feat   |       |                     |
-|   9   |  1 Ability Score   |       | Gain 2 Skill Points |
-|  10   |                    |       |                     |
+| Level |        Core        |        Major         |        Minor         |
+| :---: | :----------------: | :------------------: | :------------------: |
+|   1   | [[Stealth Attack]] | [[Major Rouge Feat]] | [[Minor Rouge Feat]] |
+|   2   |                    |                      |                      |
+|   3   |  1 Ability Score   |                      | Gain 2 Skill Points  |
+|   4   |   1 General Feat   |                      |                      |
+|   5   |                    |                      |                      |
+|   6   |  1 Ability Score   |                      | Gain 2 Skill Points  |
+|   7   |                    |                      |                      |
+|   8   |   1 General Feat   |                      |                      |
+|   9   |  1 Ability Score   |                      | Gain 2 Skill Points  |
+|  10   |                    |                      |                      |
