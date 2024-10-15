@@ -21,7 +21,7 @@ Trained in one of the Following
 | :---: | :----------------: | :------------------: | :------------------: |
 |   1   | [[Stealth Attack]] | [[Major Rouge Feat]] | [[Minor Rouge Feat]] |
 |   2   |                    |                      |                      |
-|   3   |  1 Ability Score   |                      | Gain 2 Skill Points  |
+|   3   |  1 Ability Score   |     +2 Acrobatic     | Gain 2 Skill Points  |
 |   4   |   1 General Feat   |                      |                      |
 |   5   |                    |                      |                      |
 |   6   |  1 Ability Score   |                      | Gain 2 Skill Points  |
