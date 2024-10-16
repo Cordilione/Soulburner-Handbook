@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "910cc880dc383028",
+        "id": "6dfbf77ccdca317d",
         "type": "tabs",
         "children": [
           {
-            "id": "529c455808c02515",
+            "id": "926be9214acea63b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/Classes/Rouge/-Rouge Overview.md",
+                "file": "Character Creation/Classes/Cook/-Cook Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1db284161773ad6e",
+            "id": "67d68ebc5f804503",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/Classes/Fighter/-Fighter Overview.md",
+                "file": "Character Creation/Classes/Cook/A Cooks Hand.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation/Classes/Fighter/-Fighter Overview.md",
+                "file": "Character Creation/Classes/Cook/-Cook Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/Classes/Fighter/-Fighter Overview.md",
+                "file": "Character Creation/Classes/Cook/-Cook Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/Classes/Fighter/-Fighter Overview.md"
+                "file": "Character Creation/Classes/Cook/-Cook Overview.md"
               }
             }
           }
@@ -159,17 +158,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1db284161773ad6e",
+  "active": "926be9214acea63b",
   "lastOpenFiles": [
-    "Party Panic.md",
+    "Character Creation/Classes/Cook/Signature Touch.md",
+    "Character Creation/Classes/Cook/-Cook Overview.md",
+    "Character Creation/Classes/Cook/Favored Cooking Style.md",
+    "Character Creation/Classes/Cook/A Cooks Hand.md",
+    "Game Systems/Trainings",
+    "Game Systems/Properties",
+    "Game Systems/Roll Tables",
+    "Game Systems",
+    "Character Creation/Classes/Cook/Cook Feats.md",
+    "Character Creation/Backgrounds/Artist.md",
+    "0-Images/Manoizy (Peter Mohrbacher).png",
+    "Character Creation/Races/Voa.md",
+    "Character Creation/Races",
+    "Character Creation/Backgrounds/Bounty Hunter.md",
+    "Character Creation/Backgrounds/Noble.md",
+    "Character Creation/Backgrounds/Mercenary.md",
+    "Magic/Personal Bases/Guarding Spirit.md",
+    "Character Creation/Backgrounds",
+    "Character Creation/Classes/Fighter/-Fighter Overview.md",
     "Combat Systems/Statuses/Madness.md",
     "Character Creation/Classes/Rouge/-Rouge Overview.md",
     "Magic/Personal Bases",
     "Magic",
     "Character Creation/Classes/Manoizy's Pack/Numbing Madness.md",
     "Character Creation/Classes/Manoizy's Pack/-Manoizy's Pack Overview.md",
-    "Character Creation/Classes/Fighter/-Fighter Overview.md",
-    "Character Creation/Classes/Cook/-Cook Overview.md",
     "Character Creation/Classes/Evocation Magic/-Evocation Overview.md",
     "Character Creation/Classes/Evocation Magic/Untitled.md",
     "Character Creation/Classes/Fighter/Minor Fighter Feat.md",
