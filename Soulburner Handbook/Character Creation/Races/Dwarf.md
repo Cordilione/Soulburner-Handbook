@@ -1,16 +1,17 @@
 ## Racial Gains
 ---
-**Sou, Cha, Dex**
+**Con, Int, Str**
 ## Racial Flaw
 ---
-**Con**
-## Racial Ability - Shifting Form
+**Sou**
+
+## Racial Ability
 ---
 #DEV_WORK_NEEDED
 
 ## Size, Speed and the Weeds
 ---
-**Racial HP**: 6
-**Base Speed**: 25
+**Racial HP**: 9
+**Base Speed**: 20
 **Racial Size**: Medium
 

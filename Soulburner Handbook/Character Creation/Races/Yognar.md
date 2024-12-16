@@ -1,16 +1,17 @@
 ## Racial Gains
 ---
-**Sou, Cha, Dex**
+**Str, Con, Wis**
 ## Racial Flaw
 ---
-**Con**
-## Racial Ability - Shifting Form
+**Dex**
+
+## Racial Ability -  Yognarian Focus
 ---
 #DEV_WORK_NEEDED
 
 ## Size, Speed and the Weeds
 ---
-**Racial HP**: 6
+**Racial HP**: 10
 **Base Speed**: 25
 **Racial Size**: Medium
 

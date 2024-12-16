@@ -15,10 +15,10 @@ Choose 1 Melee Weapon Style and 1 Armor Style then become Trained in one an Expe
 
 | Level |                      Core                      |              Major               |              Minor               |
 | :---: | :--------------------------------------------: | :------------------------------: | :------------------------------: |
-|   1   | [[Deathless]]<br>[[Attack of Opportunity]]<br> |     1 [[Major Fighter Feat]]     |     1 [[Minor Fighter Feat]]     |
-|   2   |               [[Combat Prowess]]               | Gain 1 [[Major Fighter Strikes]] | Gain 1 [[Minor Fighter Strikes]] |
+|   1   | [[Character Creation/Classes/Fighter/Attack of Opportunity]] of Opportuni[[Character Creation/Classes/Fighter/Major Fighter Feat]]or Fighter Fe[[Character Creation/Classes/Fighter/Minor Fighter Feat]]or Fighter Feat]]     |
+|   2 [[Character Creation/Classes/Fighter/Combat Prowess]][[Combat Prowess]]      [[Character Creation/Classes/Fighter/Major Fighter Strikes]] Fighter S[[Character Creation/Classes/Fighter/Minor Fighter Strikes]] Fighter Strikes]] |
 |   3   |                1 Ability Score                 |         +2 Intimidation          |       Gain 2 Skill Points        |
-|   4   |        1 General Feat<br>[[Toughness]]         |                                  |                                  |
+|   4   |      [[Character Creation/Classes/Fighter/Toughness]]eat<br>[[Toughness]]         |                                  |                                  |
 |   5   |                                                |                                  |                                  |
 |   6   |                1 Ability Score                 |                                  |       Gain 2 Skill Points        |
 |   7   |                                                |                                  |                                  |
