@@ -1,7 +1,7 @@
 # Untrained
 ---
 ## Penalty 
-strangth and phyisics knowledge -2 to damage
+Disadvantage to hit
 
 # Trained
 ---
@@ -9,8 +9,9 @@ strangth and phyisics knowledge -2 to damage
 #DEV_WORK_NEEDED 
 
 ## Weapons  
-[[Club]]
-[[Great Club]]
+[[Throwing Axe]]
+[[Throwing Dagger]]
+#DEV_WORK_NEEDED 
 
 # Expert
 ---
@@ -18,8 +19,7 @@ strangth and phyisics knowledge -2 to damage
 #DEV_WORK_NEEDED 
 
 ## Weapons  
-[[Mace]]
-[[Morningstar]]
+#DEV_WORK_NEEDED 
 
 # Master
 ---
@@ -27,8 +27,7 @@ strangth and phyisics knowledge -2 to damage
 #DEV_WORK_NEEDED 
 
 ## Weapons 
-[[Warpick]]
-[[Ball&Chain]]
+
 
 # Legendary
 ---
