@@ -6,15 +6,15 @@ Reload always cost <><><>
 # Trained
 ---
 ## Ability
-
+#DEV_WORK_NEEDED 
 
 ## Weapons  
-
+[[Heavycrossbow]]
 
 # Expert
 ---
 ## Ability
-
+#DEV_WORK_NEEDED 
 
 ## Weapons  
 
@@ -22,14 +22,14 @@ Reload always cost <><><>
 # Master
 ---
 ## Ability
-
+#DEV_WORK_NEEDED 
 
 ## Weapons 
-
+[[Mechanical Crossbow]]
 
 # Legendary
 ---
 ## Ability
-
+#DEV_WORK_NEEDED 
 
 ## Weapons 

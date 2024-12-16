@@ -26,7 +26,7 @@ The base for armor calculation in any unarmored is 13 instead of 10
 #DEV_WORK_NEEDED
 
 ## Armors 
-NA
+
 
 # Legendary
 ---
@@ -34,4 +34,3 @@ NA
 #DEV_WORK_NEEDED
 
 ## Armors 
-NA
