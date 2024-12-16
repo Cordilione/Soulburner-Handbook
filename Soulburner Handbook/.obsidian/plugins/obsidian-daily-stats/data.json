@@ -1,0 +1,16 @@
+{
+  "dayCounts": {
+    "2024/9/22": 0,
+    "2024/9/23": 3,
+    "2024/11/7": 498,
+    "2024/11/9": 731,
+    "2024/11/14": 123,
+    "2024/11/15": 1
+  },
+  "todaysWordCount": {
+    "Character Creation/Races/Rohakin.md": {
+      "initial": 64,
+      "current": 65
+    }
+  }
+}

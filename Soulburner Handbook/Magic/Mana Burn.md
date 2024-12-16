@@ -1,0 +1,2 @@
+
+As you cast past what you body can naturally work in a time period it starts to fall and instead pull on its self to cast. This is known to leave a wide range of effects on the body as you spells start to affect not only your surroundings but your body and soul. Each spell base has a unique scaling effect that affect the body when pulling past its limits. resertation

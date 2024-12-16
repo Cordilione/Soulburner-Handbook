@@ -1,0 +1,1 @@
+Spend reaction to attack a market that is leaving your effective combat range without the step action

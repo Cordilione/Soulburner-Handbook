@@ -1,0 +1,1 @@
+For each Rank of Toughness your character has they take 1 less point of melee damage from all sources
