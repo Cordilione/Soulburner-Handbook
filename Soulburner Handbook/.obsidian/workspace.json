@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/Races/Voa.md",
+                "file": "Character Creation/Classes/Hunter/-Hunter Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Voa"
+              "title": "-Hunter Overview"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/Races/Voa.md",
+                "file": "Character Creation/Classes/Hunter/-Hunter Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Voa"
+              "title": "Outgoing links from -Hunter Overview"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/Races/Voa.md"
+                "file": "Character Creation/Classes/Hunter/-Hunter Overview.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Voa"
+              "title": "Outline of -Hunter Overview"
             }
           },
           {
@@ -185,14 +185,20 @@
   },
   "active": "6e8441875fcd3c25",
   "lastOpenFiles": [
+    "Character Creation/Classes/Cook/-Cook Overview.md",
+    "Character Creation/Classes/Hunter/-Hunter Overview.md",
+    "Game Systems/Crafting/Cooking.md",
+    "Character Creation/Races/Dwarf.md",
+    "Game Systems/Crafting",
+    "Character Creation/Classes/Fighter a New Look/-Fighter Overview.md",
+    "Character Creation/Classes/Fighter a New Look/Attack of Opportunity.md",
+    "Character Creation/Races/Voa.md",
     "Character Creation/Races/Yognar.md",
     "Character Creation/Races/Therian.md",
-    "Character Creation/Races/Voa.md",
     "Character Creation/Races/Rohakin.md",
     "Character Creation/Races/Human.md",
     "Character Creation/Races/Gnome.md",
     "Character Creation/Races/Elf.md",
-    "Character Creation/Races/Dwarf.md",
     "Character Creation/Classes/Rouge/-Rouge Overview.md",
     "Magic/Personal Bases/Guarding Spirit.md",
     "Human",
@@ -208,19 +214,13 @@
     "Magic/Restoration Spell Bases/Stolen Vigor.md",
     "Notes/Fighter Notes from Goblin Slayer.md",
     "Magic/Illusion Spell Bases/Illusionary Barrier.md",
-    "Character Creation/Classes/Cook/-Cook Overview.md",
     "Character Creation/Classes/Fighter/-Fighter Overview.md",
-    "Character Creation/Classes/Fighter 2/-Fighter Overview.md",
-    "Character Creation/Classes/Illusionist/-Illusionist Overview.md",
-    "Character Creation/Classes/Illusionist/Untitled.md",
     "Character Creation/Classes/Illusionist",
-    "Character Creation/Classes/Evocation Magic - Copy/Untitled.md",
     "Character Creation/Classes/Evocation Magic - Copy",
     "Magic/Restoration Spell Bases",
-    "Character Creation/Classes/Fighter 2",
+    "Character Creation/Classes/Fighter a New Look",
     "Character Creation/Classes/Fighter - Copy",
     "Notes",
-    "Character Creation/Classes/Hunter",
-    "Game Systems/Materials"
+    "Character Creation/Classes/Hunter"
   ]
 }

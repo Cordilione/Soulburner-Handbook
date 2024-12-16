@@ -5,7 +5,7 @@
     "2024/11/7": 498,
     "2024/11/9": 731,
     "2024/11/14": 123,
-    "2024/11/15": 104
+    "2024/11/15": 139
   },
   "todaysWordCount": {
     "Character Creation/Races/Rohakin.md": {
@@ -39,6 +39,18 @@
     "Character Creation/Races/Yognar.md": {
       "initial": 18,
       "current": 27
+    },
+    "Character Creation/Classes/Fighter a New Look/-Fighter Overview.md": {
+      "initial": 255,
+      "current": 261
+    },
+    "Character Creation/Classes/Cook/-Cook Overview.md": {
+      "initial": 311,
+      "current": 320
+    },
+    "Character Creation/Classes/Hunter/-Hunter Overview.md": {
+      "initial": 63,
+      "current": 83
     }
   }
 }

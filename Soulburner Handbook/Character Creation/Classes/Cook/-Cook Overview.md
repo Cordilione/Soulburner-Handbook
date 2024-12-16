@@ -18,6 +18,9 @@
 |   8   |      1 General Feat       |                     |     |
 |   9   |      1 Ability Score      | Gain 2 Skill Points |     |
 |  10   |                           |                     |     |
+#DEV_WORK_NEEDED 
+	Move Cooking rules and format into a full class
+
 
 Meal sizes 
 

@@ -1,4 +1,6 @@
-
+#DEV_WORK_NEEDED 
+	https://app.milanote.com/1SHj4X1nFa6LeU?p=UPXIiGXbb9q
+	Class lives in wrong software and in a unfinalized state. Ideas also float around on world anvil if wanted.
 ### Ability Score: Dexterity
 
 ### Class Stats
