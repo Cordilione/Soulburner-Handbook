@@ -1,7 +1,7 @@
 # Untrained
 ---
 ## Penalty 
-
+You do not gain any resistances from light armor
 
 # Trained
 ---

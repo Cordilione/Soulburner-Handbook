@@ -1,7 +1,7 @@
 # Untrained
 ---
 ## Penalty 
-
+Can not store a loaded lightcrossbows
 
 # Trained
 ---

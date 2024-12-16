@@ -1,7 +1,7 @@
 # Untrained
 ---
 ## Penalty 
-
+if you attack atleast 3 times you become flat footed
 
 # Trained
 ---

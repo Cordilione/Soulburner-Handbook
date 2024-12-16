@@ -1,7 +1,7 @@
 # Untrained
 ---
 ## Penalty 
-
+-2 to Stealth
 
 # Trained
 ---

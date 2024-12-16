@@ -1,7 +1,7 @@
 # Untrained
 ---
 ## Penalty 
-
+You get no penalties for being untrained in unarmed
 
 # Trained
 ---

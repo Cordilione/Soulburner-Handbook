@@ -1,7 +1,7 @@
 # Untrained
 ---
 ## Penalty 
-
+Reload always cost <><><>
 
 # Trained
 ---

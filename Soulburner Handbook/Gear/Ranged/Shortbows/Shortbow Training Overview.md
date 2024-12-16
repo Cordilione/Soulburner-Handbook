@@ -1,7 +1,8 @@
 # Untrained
 ---
 ## Penalty 
-
+- Arrows: Unable to add arrow damage to attacks
+- Proper pull:  Max distance is halved
 
 # Trained
 ---

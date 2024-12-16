@@ -1,7 +1,7 @@
 # Untrained
 ---
 ## Penalty 
-
+strangth and phyisics knowledge -2 to damage
 
 # Trained
 ---

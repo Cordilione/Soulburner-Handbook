@@ -1,7 +1,7 @@
 # Untrained
 ---
 ## Penalty 
-
+after attacking you are off-guard 
 
 # Trained
 ---

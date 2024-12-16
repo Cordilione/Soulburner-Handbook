@@ -1,7 +1,7 @@
 # Untrained
 ---
 ## Penalty 
-
+-10 movement speed
 
 # Trained
 ---

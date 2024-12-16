@@ -1,7 +1,7 @@
 # Untrained
 ---
 ## Penalty 
-
+edge aliments a bitch -2 to hit
 
 # Trained
 ---
