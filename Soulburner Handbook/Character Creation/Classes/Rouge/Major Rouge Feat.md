@@ -1,5 +1,5 @@
 # Crucial Blow
-If you crit a flat footed target you gain an additional roll of you [[Stealth Attack]] die
+If you crit a flat footed target you gain an additional roll of you [[Surprise Attack]] die
 
 # Precise hands
 To crit you must be above 7 above the targets AC, if you take this feat you cannot take the Crucial Blow feat

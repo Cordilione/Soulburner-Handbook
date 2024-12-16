@@ -5,56 +5,21 @@
     "2024/11/7": 498,
     "2024/11/9": 731,
     "2024/11/14": 123,
-    "2024/11/15": 320
+    "2024/11/15": 320,
+    "2024/11/16": 270
   },
   "todaysWordCount": {
-    "Character Creation/Races/Rohakin.md": {
-      "initial": 64,
-      "current": 91
+    "Character Creation/Classes/Rouge/-Rouge Overview.md": {
+      "initial": 91,
+      "current": 93
     },
-    "Character Creation/Races/Dwarf.md": {
+    "Roguish Skill.md": {
       "initial": 0,
-      "current": 25
+      "current": 59
     },
-    "Character Creation/Races/Elf.md": {
-      "initial": 18,
-      "current": 26
-    },
-    "Character Creation/Races/Gnome.md": {
-      "initial": 18,
-      "current": 25
-    },
-    "Character Creation/Races/Human.md": {
-      "initial": 18,
-      "current": 27
-    },
-    "Character Creation/Races/Therian.md": {
-      "initial": 18,
-      "current": 27
-    },
-    "Character Creation/Races/Voa.md": {
-      "initial": 45,
-      "current": 55
-    },
-    "Character Creation/Races/Yognar.md": {
-      "initial": 18,
-      "current": 27
-    },
-    "Character Creation/Classes/Fighter a New Look/-Fighter Overview.md": {
-      "initial": 255,
-      "current": 261
-    },
-    "Character Creation/Classes/Cook/-Cook Overview.md": {
-      "initial": 311,
-      "current": 320
-    },
-    "Character Creation/Classes/Hunter/-Hunter Overview.md": {
-      "initial": 63,
-      "current": 83
-    },
-    "Game Systems/Crafting/Cooking.md": {
-      "initial": 0,
-      "current": 181
+    "Rouge Flair.md": {
+      "initial": 60,
+      "current": 269
     }
   }
 }
