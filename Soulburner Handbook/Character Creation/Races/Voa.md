@@ -12,3 +12,4 @@ lore lore lore
 | Fortified Arms  | +1 Str  |
 | Draconic Horned | +1 Soul |
 |                 |         |
+|                 |         |

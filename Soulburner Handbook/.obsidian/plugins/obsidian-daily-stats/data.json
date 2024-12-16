@@ -1,0 +1,23 @@
+{
+  "dayCounts": {
+    "2024/9/22": 0,
+    "2024/9/23": 3,
+    "2024/11/7": 498,
+    "2024/11/9": 731,
+    "2024/11/14": 123
+  },
+  "todaysWordCount": {
+    "Character Creation/Classes/Illusionist/Untitled.md": {
+      "initial": 11,
+      "current": 11
+    },
+    "Character Creation/Classes/Cook/-Cook Overview.md": {
+      "initial": 310,
+      "current": 310
+    },
+    "Illusionary Barrier.md": {
+      "initial": 2,
+      "current": 125
+    }
+  }
+}
