@@ -1,10 +1,11 @@
 ## Racial Gains
 ---
-**Sou, CHa, Dex**
+**Cha, Free**
 ## Racial Flaw
 ---
-**Int**
-## Racial Ability - Shifting Form
+**None**
+
+## Racial Ability - Elven Signs
 ---
 #DEV_WORK_NEEDED
 

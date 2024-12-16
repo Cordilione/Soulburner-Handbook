@@ -1,3 +1,22 @@
+## Racial Gains
+---
+**Con**
+## Racial Flaw
+---
+**Int**
+
+## Racial Ability - Rohakin Subrace
+---
+#DEV_WORK_NEEDED
+
+## Size, Speed and the Weeds
+---
+**Racial HP**: Subrace
+**Base Speed**: Subrace
+**Racial Size**: Subrace
+
+--- Old ---
+
 The god forged Reptilian Race
 
 Warrior

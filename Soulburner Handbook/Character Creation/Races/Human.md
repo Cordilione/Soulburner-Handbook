@@ -1,16 +1,17 @@
 ## Racial Gains
 ---
-**Sou, CHa, Dex**
+**Wis, Int, Con**
 ## Racial Flaw
 ---
-**Int**
-## Racial Ability - Shifting Form
+**Sou**
+
+## Racial Ability - Human Spirit
 ---
 #DEV_WORK_NEEDED
 
 ## Size, Speed and the Weeds
 ---
-**Racial HP**: 6
+**Racial HP**: 8
 **Base Speed**: 25
 **Racial Size**: Medium
 
