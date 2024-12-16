@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Restoration Spell Bases/Stolen Vigor.md",
+                "file": "Character Creation/Classes/Cook/-Cook Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stolen Vigor"
+              "title": "-Cook Overview"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,8 +130,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/Races/Rohakin.md",
+                "file": "Character Creation/Classes/Cook/-Cook Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rohakin"
+              "title": "Outgoing links from -Cook Overview"
             }
           },
           {
@@ -197,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/Races/Rohakin.md"
+                "file": "Character Creation/Classes/Cook/-Cook Overview.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Rohakin"
+              "title": "Outline of -Cook Overview"
             }
           },
           {
@@ -241,14 +240,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d549f1fd8ab72e1b",
+  "active": "5d4ac4cb9b3bbd1c",
   "lastOpenFiles": [
+    "Magic/Restoration Spell Bases/Stolen Vigor.md",
+    "Character Creation/Races/Rohakin.md",
     "Character Creation/Classes/Rouge/-Rouge Overview.md",
     "Character Creation/Classes/Fighter/-Fighter Overview.md",
     "Character Creation/Classes/Fighter 2/-Fighter Overview.md",
     "Character Creation/Classes/Cook/-Cook Overview.md",
     "Illusionary Barrier.md",
-    "Magic/Restoration Spell Bases/Stolen Vigor.md",
     "Magic/Mana Burn.md",
     "Character Creation/Classes/Illusionist/-Illusionist Overview.md",
     "Character Creation/Classes/Illusionist/Untitled.md",
@@ -258,7 +258,6 @@
     "Character Creation/Classes/Evocation Magic - Copy",
     "Character Creation/Classes/Evocation Magic/-Evocation Overview.md",
     "Character Creation/Classes/Hunter/-Hunter Overview.md",
-    "Character Creation/Races/Rohakin.md",
     "Magic/Personal Bases/Guarding Spirit.md",
     "Character Creation/Classes/Evocation Magic/Untitled.md",
     "Character Creation/Classes/Cook/Favored Cooking Style.md",

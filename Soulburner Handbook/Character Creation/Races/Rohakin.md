@@ -2,7 +2,7 @@ The god forged Reptilian Race
 
 Warrior
 lizard folk
-Croc based
+Croc based qweqwe
 Snake head (Goron)
 
 
