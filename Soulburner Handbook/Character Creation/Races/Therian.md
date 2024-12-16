@@ -1,9 +1,9 @@
 ## Racial Gains
 ---
-**Sou, CHa, Dex**
+**Sou, Cha, Dex**
 ## Racial Flaw
 ---
-**Int**
+**Con**
 ## Racial Ability - Shifting Form
 ---
 #DEV_WORK_NEEDED

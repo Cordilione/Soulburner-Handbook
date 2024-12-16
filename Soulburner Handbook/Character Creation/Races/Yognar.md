@@ -3,7 +3,7 @@
 **Str, Con, Wis**
 ## Racial Flaw
 ---
-**Int**
+**Dex**
 
 ## Racial Ability -  Yognarian Focus
 ---

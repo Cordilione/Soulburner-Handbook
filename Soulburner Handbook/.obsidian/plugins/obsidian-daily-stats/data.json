@@ -5,7 +5,7 @@
     "2024/11/7": 498,
     "2024/11/9": 731,
     "2024/11/14": 123,
-    "2024/11/15": 139
+    "2024/11/15": 320
   },
   "todaysWordCount": {
     "Character Creation/Races/Rohakin.md": {
@@ -51,6 +51,10 @@
     "Character Creation/Classes/Hunter/-Hunter Overview.md": {
       "initial": 63,
       "current": 83
+    },
+    "Game Systems/Crafting/Cooking.md": {
+      "initial": 0,
+      "current": 181
     }
   }
 }
