@@ -15,7 +15,7 @@ Trained in one of the Following
 - Knives
 - Swords
 - Light bows
-- Light Crossbow
+- Light Crossbow 
 
 | Level |        Core         |        Major         |        Minor         |
 | :---: | :-----------------: | :------------------: | :------------------: |
