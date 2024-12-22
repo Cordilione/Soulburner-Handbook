@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "-Rouge Overview"
             }
+          },
+          {
+            "id": "ff2507568c6c9f4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soulburner Handbook/Notes/Alex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alex"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 350.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,11 +188,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "122a1be9cc8e8d63",
+  "active": "ff2507568c6c9f4c",
   "lastOpenFiles": [
+    "Soulburner Handbook/Character Creation/Classes/Rouge/-Rouge Overview.md",
+    "Soulburner Handbook/Notes/Alex.md",
     "Soulburner Handbook/Character Creation/Classes/Rouge/Minor Rouge Feat.md",
     "Soulburner Handbook/Character Creation/Classes/Rouge/Major Rouge Feat.md",
-    "Soulburner Handbook/Character Creation/Classes/Rouge/-Rouge Overview.md",
     "Soulburner Handbook/Character Creation/Classes/Rouge/Quick Wit.md",
     "Soulburner Handbook/Character Creation/Classes/Fighter 2/Combat Prowess.md",
     "Soulburner Handbook/Character Creation/Classes/Fighter 2/-Fighter Overview.md",
@@ -200,7 +216,6 @@
     "Soulburner Handbook/Gear/Ranged/Heavycrossbows/Heavycrossbows Training Overview.md",
     "Soulburner Handbook/Gear/Melee/Unarmed/Unarmed Training Overview.md",
     "Soulburner Handbook/Gear/Melee/Staves/Staves Training Overview.md",
-    "Soulburner Handbook/Gear/Melee/Polearms/Polearms Training Overview.md",
     "Soulburner Handbook/Gear/Melee/Thrown",
     "Soulburner Handbook/Gear/Ranged/Heavycrossbows",
     "Soulburner Handbook/Gear/Ranged/Lightcrossbows",
