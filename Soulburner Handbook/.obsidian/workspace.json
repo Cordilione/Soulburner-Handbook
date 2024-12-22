@@ -6,7 +6,6 @@
       {
         "id": "cece7bbbaa18f54d",
         "type": "tabs",
-        "dimension": 83.38870431893687,
         "children": [
           {
             "id": "6e8441875fcd3c25",
@@ -14,33 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/Classes/Rouge/-Rouge Overview.md",
+                "file": "Magic/Restoration Spell Bases/Stolen Vigor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-Rouge Overview"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9dee5099bbf3561b",
-        "type": "tabs",
-        "dimension": 16.611295681063122,
-        "children": [
-          {
-            "id": "e9849c842970aa7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/Classes/Cook/-Cook Overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "-Cook Overview"
+              "title": "Stolen Vigor"
             }
           }
         ]
@@ -192,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,37 +183,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0419f554a0dff5cf",
+  "active": "6e8441875fcd3c25",
   "lastOpenFiles": [
     "Character Creation/Classes/Rouge/Rouge Flair.md",
-    "Character Creation/Classes/Rouge/Surprise Attack.md",
-    "Character Creation/Classes/Rouge/Rouge Flair.md",
-    "Gear/Melee/Thrown/Thrown Training Overview.md",
-    "Gear/Melee/Thrown",
     "Character Creation/Classes/Rouge/-Rouge Overview.md",
-    "conflict-files-obsidian-git.md",
-    "Character Creation/Classes/Rouge/Surprise Attack.md",
     "Character Creation/Classes/Fighter/-Fighter Overview.md",
-    "Character Creation/Classes/Fighter/Combat Prowess.md",
     "Character Creation/Classes/Fighter a New Look/-Fighter Overview.md",
-    "Notes/Fighter Notes from Goblin Slayer.md",
-    "Notes",
-    "Magic/Illusion Spell Bases/Illusionary Barrier.md",
-    "Magic/Illusion Spell Bases",
-    "Gear/Ranged/Shortbows/Shortbow Training Overview.md",
-    "Gear/Ranged/Longbows/Longbows Training Overview.md",
-    "Gear/Ranged/Lightcrossbows/Lightcrossbows Training Overview.md",
-    "Gear/Ranged/Heavycrossbows/Heavycrossbows Training Overview.md",
-    "Gear/Armor/Unarmored/Unarmored Armor Training Overview.md",
-    "Gear/Armor/Shield/Shield Training Overview.md",
-    "Gear/Armor/Medium Armor/Medium Armor Training Overview.md",
+    "Character Creation/Classes/Fighter a New Look/Enduring Body.md",
+    "Character Creation/Classes/Cook/-Cook Overview.md",
+    "Character Creation/Classes/Rouge/Surprise Attack.md",
+    "Character Creation/Classes/Rouge/Minor Rouge Feat.md",
+    "Character Creation/Classes/Rouge/Major Rouge Feat.md",
+    "Character Creation/Classes/Fighter/Combat Prowess.md",
+    "Character Creation/Classes/Fighter/Major Fighter Feat.md",
+    "Character Creation/Classes/Fighter/Minor Fighter Feat.md",
+    "Character Creation/Classes/Fighter/Major Fighter Strikes.md",
+    "Character Creation/Classes/Fighter/Attack of Opportunity.md",
+    "Magic/Restoration Spell Bases/Stolen Vigor.md",
+    "Game Systems/Crafting/Cooking.md",
+    "Character Creation/Classes/Cook/Cook Feats.md",
+    "Character Creation/Classes/Cook/A Cooks Hand.md",
+    "Character Creation/Backgrounds/Mercenary.md",
+    "Magic/Personal Bases/Guarding Spirit.md",
+    "Character Creation/Races/Rohakin.md",
     "Gear/Armor/Light Armor/Light Armor Training Overview.md",
     "Gear/Armor/Heavy Armor/Heavy Armor Training Overview.md",
-    "Gear/Melee/Swords/Swords Training Overview.md",
-    "Gear/Melee/Unarmed/Unarmed Training Overview.md",
-    "Gear/Melee/Staves/Staves Training Overview.md",
-    "Gear/Melee/Polearms/Polearms Training Overview.md",
-    "Gear/Melee/Knives/Knives Training Overview.md",
+    "Full plate.md",
+    "Gear/Melee/Thrown/Thrown Training Overview.md",
+    "Gear/Melee/Thrown",
+    "conflict-files-obsidian-git.md",
+    "Notes",
+    "Magic/Illusion Spell Bases",
     "Gear/Ranged/Shortbows",
     "Gear/Ranged/Longbows",
     "Gear/Ranged/Lightcrossbows",

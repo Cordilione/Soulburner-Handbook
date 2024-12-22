@@ -6,20 +6,13 @@
     "2024/11/9": 731,
     "2024/11/14": 123,
     "2024/11/15": 320,
-    "2024/11/16": 270
+    "2024/11/16": 270,
+    "2024/11/18": 70
   },
   "todaysWordCount": {
-    "Character Creation/Classes/Rouge/-Rouge Overview.md": {
-      "initial": 91,
-      "current": 93
-    },
-    "Roguish Skill.md": {
-      "initial": 0,
-      "current": 59
-    },
-    "Rouge Flair.md": {
-      "initial": 60,
-      "current": 269
+    "Magic/Restoration Spell Bases/Stolen Vigor.md": {
+      "initial": 330,
+      "current": 400
     }
   }
 }
