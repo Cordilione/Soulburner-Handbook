@@ -77,7 +77,7 @@ The character mind is long since broken leaving them with little mental fight. (
 All actions performed to meat the direct end of this characters dream receive a +1 to rolls. Examples include pushing through difficult terrain, insight against a lie, attacks made against a target directly related to the dream (rival dad murder, DM final say on if target counts).
 
 **Dreams of Future**
-Character has Deathless until they meat their pact dream. When failing a mental check or dropping bellow 15hp you can enter a state of blind divine passion. While in this state it is impossible to fail further Mental checks and all actions are considered as in the effort of your dream and the boost of Divine Dream is upped to +2. Each turn of combat in this state cost you 3 Mana to upkeep. The state can only last as long as the current event to trigure the state. When leaving this state take a level of Exhaustion and need to perform a long rest befor you can renter your state of divine passion.
+Character has Deathless until they meat their pact dream. When failing a mental check or dropping bellow 15hp you can enter a state of blind divine passion. While in this state it is impossible to fail further Mental checks and all actions are considered as in the effort of your dream and the boost of Divine Dream is upped to +2. Each turn of combat in this state cost you 3 Mana to upkeep. The state can only last as long as the current event to triggered the state. When leaving this state take a level of Exhaustion and need to perform a long rest befor you can renter your state of divine passion.
 *While in this state the golden glow of Dahmor is visible in your eyes* 
 
 ## Gear
