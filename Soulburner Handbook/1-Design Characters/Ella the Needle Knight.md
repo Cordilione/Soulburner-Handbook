@@ -1,3 +1,4 @@
+
 ![[Needle Knight- Asner Boi.png]]
 
 # Character Start (1st Level)
@@ -33,34 +34,22 @@ Insight: +4
 ## Combat Actions
 ---
 **Base Short Sword Strike**
-	**AP:** 
-	**Hit:** 
-	**Damage:** 
-	**Effect:** 
+	 
 
 **Base Ivoian Rapier**
-	**AP:** 
-	**Hit:** 
-	**Damage:** 
-	**Effect:** 
+	
 
 **Fallow Though**
-	**AP:** 
-	**Hit:** 
-	**Damage:** 
-	**Effect:** 
+	 
 
 **Raise Weapon**
-	**AP:** 
-	**Effect:** 
+	 
 
 **Cape Flair**
-	**AP:** 
-	**Effect:** 
+	
 
 **Quick Step**
-	**AP:** 
-	**Effect:** 
+	
 
 ## Spells
 ---
@@ -77,21 +66,21 @@ The character mind is long since broken leaving them with little mental fight. (
 All actions performed to meat the direct end of this characters dream receive a +1 to rolls. Examples include pushing through difficult terrain, insight against a lie, attacks made against a target directly related to the dream (rival dad murder, DM final say on if target counts).
 
 **Dreams of Future**
-Character has Deathless until they meat their pact dream. When failing a mental check or dropping bellow 15hp you can enter a state of blind divine passion. While in this state it is impossible to fail further Mental checks and all actions are considered as in the effort of your dream and the boost of Divine Dream is upped to +2. Each turn of combat in this state cost you 3 Mana to upkeep. The state can only last as long as the current event to triggered the state. When leaving this state take a level of Exhaustion and need to perform a long rest befor you can renter your state of divine passion.
+Character has Deathless until they meat their pact dream. When failing a mental check or dropping bellow 15hp you can enter a state of blind divine passion. While in this state it is impossible to fail further Mental checks and all actions are considered as in the effort of your dream and the boost of Divine Dream is upped to +2. Each turn of combat in this state cost you 3 Mana to upkeep. The state can only last as long as the current event to triggered the state. When leaving this state take a level of Exhaustion and need to perform a long rest before you can renter your state of divine passion.
 *While in this state the golden glow of Dahmor is visible in your eyes* 
 
 ## Gear
 ---
 #### Armor
-Army issued Chain Armor lightened by abending the normal limb armor in place of only standard clothing beneath and a lose fitting cape over top of it ie [[Light Chain]] with an added [[Cape]]
+Army issued Chain Armor lightened by abending the normal limb armor in place of only standard clothing beneath and a lose fitting cape over top of it ie [[Light Chain  - From Ella | Light Chain]] with an added [[Cape  - From Ella | Cape]]
 
 **Stats**
-AC bounus of 2
+AC bonus of 2
 -1 to dex saves due to cape
 ability to use a distracting flourish action using the cape to try and flat foot a target
 resistances -1 piercing
 #### Weapons
-Having been issued a [[short sword]] this still rests on her hip however she has taken a Rapier of poor quality taken from a bandit during her first operation. It blade holds a shine and weight she prefers in her hand. ie a [[Poor Quality]] [[Rapier]] made from [[Ivatight]]
+Having been issued a [[Short sword - From Ella | Short Sword]] this still rests on her hip however she has taken a Rapier of poor quality taken from a bandit during her first operation. It blade holds a shine and weight she prefers in her hand. ie a [[Poor Quality  - From Ella | Poor Quality]] [[Rapier  - From Ella | Rapier]] made from [[Ivatight  - From Ella | Ivatight]]
 
 **Stats Short Sword**
 Attack roll 1d20+dex to hit, 1d6+dex P/S damage
@@ -103,10 +92,10 @@ reduce MP cost of Divination, Charm, Illusion and totem upkeeps by 5 to a min of
 
 # Lore / Idea backdrop
 ---
-A Therian lost of will long since broken by life and taken to severing [[Dahmor]] the Goddess of Dreams. 
+A Therian lost of will long since broken by life and taken to severing [[Dahmor  - From Ella | Dahmor]] the Goddess of Dreams. 
 ## Start of Adventuring
 ---
-Ella is a therian who like many of her race have faced the depths of what man can bring to bear on soul. From great loss of both home and those close slowly here will in life has broken. This has left her with no drive or true will left in her life. It was likely to end how so many others do until a dream near hope fills her mind. It was birthed from the story of a Therian who was helping to make a new home or way to live. She did not fully understand what these [[Octain people]] meant but it must be better than the life she has lived so far between the crowns of the plans. This dream to not only live but make such a place fills her mind each night. It becomes the lone force that keeps her body moving as she unknowing makes a pack with [[Dahmor]]. It is this dream and unknowing pack that drives her to join a strike for this waring nation inspire of having lived only a life of hardship up till then. 
+Ella is a therian who like many of her race have faced the depths of what man can bring to bear on soul. From great loss of both home and those close slowly here will in life has broken. This has left her with no drive or true will left in her life. It was likely to end how so many others do until a dream near hope fills her mind. It was birthed from the story of a Therian who was helping to make a new home or way to live. She did not fully understand what these Octain people meant but it must be better than the life she has lived so far between the crowns of the plans. This dream to not only live but make such a place fills her mind each night. It becomes the lone force that keeps her body moving as she unknowing makes a pack with [[Dahmor  - From Ella | Dahmor]]. It is this dream and unknowing pack that drives her to join a strike for this waring nation inspire of having lived only a life of hardship up till then. 
 
 
 ## Design Ideas
