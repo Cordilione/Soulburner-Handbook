@@ -29,10 +29,6 @@ You burn Mana in place in physical resources like energy or adrenaline to fuel y
 **Time Scale**: each active turn add 3 to cost
 **Intensity**: 10 * Modifier
 **Cooldown**: Must wait 2 rounds (10 sec) before again activating effect
-### Enhance Constitution
----
-**Time Scale**:
-**Intensity**:
 ### Prevent the body from dropping at 0 HP
 ---
 **Time Scale**:
@@ -49,3 +45,13 @@ You burn Mana in place in physical resources like energy or adrenaline to fuel y
 	Gain a Temp +1 to STR and at the start of each of your turn if you wish to keep the effect pay a upkeep of 10 plus 3 for each round effect has been active. Can not be cast again until effect has not been active for at least 2 rounds
 # Mana Burn
 ---
+
+-1 - -50% of Max mana
+
+No longer able to start any effect can only maintain active upkeeps or start a Prevent drop effect.
+
+-50% - -100%
+At the start of each turn make a challenge roll against your CON vs SOU on a SOU win you take 1 random physicals type wound
+
+Anything past -100% 
+For each action you take take a physical wound. All close wound effects active change to their 0 cost end effect. 
