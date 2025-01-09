@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soulburner Handbook/Character Creation/Backgrounds/Traveling Merchant.md",
+                "file": "Soulburner Handbook/Character Creation/Classes/Alchemist/-Alchemist Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Traveling Merchant"
+              "title": "-Alchemist Overview"
             }
           }
         ]
@@ -175,15 +175,22 @@
   },
   "active": "122a1be9cc8e8d63",
   "lastOpenFiles": [
-    "Soulburner Handbook/Character Creation/Backgrounds/Noble.md",
-    "Soulburner Handbook/Character Creation/Backgrounds/Merchant.md",
+    "Soulburner Handbook/Character Creation/Classes/Rouge/-Rouge Overview.md",
+    "Soulburner Handbook/Character Creation/Classes/Alchemist/-Alchemist Overview.md",
+    "Soulburner Handbook/Character Creation/Classes/Illusionist/-Illusionist Overview.md",
+    "Soulburner Handbook/Character Creation/Classes/Fighter/-Fighter Overview.md",
+    "Soulburner Handbook/Character Creation/Classes/Hunter/-Hunter Overview.md",
+    "Soulburner Handbook/Character Creation/Classes/Evocation Magic/-Evocation Overview.md",
     "Soulburner Handbook/Character Creation/Backgrounds/Traveling Merchant.md",
+    "Soulburner Handbook/Character Creation/Classes/Alchemist",
+    "Soulburner Handbook/Character Creation/Backgrounds/Merchant.md",
     "Soulburner Handbook/Character Creation/Backgrounds/Conman.md",
+    "Soulburner Handbook/Gear/Ranged/Heavycrossbows/Heavycrossbows Training Overview.md",
+    "Soulburner Handbook/Character Creation/Backgrounds/Noble.md",
     "Soulburner Handbook/Character Creation/Backgrounds/Mercenary.md",
     "Soulburner Handbook/Character Creation/Backgrounds/Bounty Hunter.md",
     "Soulburner Handbook/Character Creation/Backgrounds/Artist.md",
     "Soulburner Handbook/Character Creation/Backgrounds/Untitled",
-    "Soulburner Handbook/Character Creation/Classes/Rouge/-Rouge Overview.md",
     "Soulburner Handbook/Character Creation/Classes/Rouge/Rouge Flair.md",
     "Soulburner Handbook/Character Creation/Classes/Rouge/Surprise Attack.md",
     "Soulburner Handbook/Notes/Fighter Notes from Goblin Slayer.md",
@@ -199,18 +206,11 @@
     "Soulburner Handbook/Character Creation/Races/Dwarf.md",
     "Soulburner Handbook/Character Creation/Classes/Fighter a New Look/Major Fighter Feat.md",
     "Soulburner Handbook/Character Creation/Classes/Fighter a New Look/Minor Fighter Strikes.md",
-    "Soulburner Handbook/Character Creation/Classes/Fighter a New Look/Toughness.md",
-    "Soulburner Handbook/Character Creation/Classes/Fighter a New Look/Minor Fighter Feat.md",
-    "Soulburner Handbook/Character Creation/Classes/Fighter a New Look/Major Fighter Strikes.md",
-    "Soulburner Handbook/Character Creation/Classes/Fighter a New Look/Combat Prowess.md",
-    "Soulburner Handbook/Character Creation/Classes/Fighter a New Look/Enduring Body.md",
-    "Soulburner Handbook/Character Creation/Classes/Fighter a New Look/Attack of Opportunity.md",
     "Soulburner Handbook/Character Creation/Classes/Fighter a New Look",
     "Soulburner Handbook/Gear/Melee/Thrown",
     "Soulburner Handbook/Gear/Ranged/Heavycrossbows",
     "Soulburner Handbook/Gear/Ranged/Lightcrossbows",
     "Soulburner Handbook/Gear/Ranged/Longbows",
-    "Soulburner Handbook/Gear/Ranged/Shortbows",
     "Soulburner Handbook/0-Images/Manoizy (Peter Mohrbacher).png"
   ]
 }
