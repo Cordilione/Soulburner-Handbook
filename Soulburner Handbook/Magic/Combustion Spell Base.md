@@ -44,6 +44,9 @@ examples:
 	dnd Firebolt:
 		(((12+2)1+(120/5)+0)+Y(0+(120/5)))1 = 38 + Y(24)
 		w/reduced range 14+9+0+Y(9 + 0) = 23 + Y(9)
+	dnd scorching ray:
+		(((7+2)2+(120/5)+0)+Y((120/5)+0))3 =126+Y(72)
+		w/reduced range (18+9+0+Y(9))3 = 81+Y(27)
 Mana burn effects
 	Tier 1 gain a burn
 	Tier 2 roll on the fire wound table and start burning
