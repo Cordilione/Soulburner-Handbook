@@ -9,7 +9,7 @@ if you attack atleast 3 times you become flat footed
 #DEV_WORK_NEEDED 
 
 ## Weapons  
-[[Dagger]]
+[[Dagger - from Fred]]
 [[Throwing Dagger]]
 
 # Expert

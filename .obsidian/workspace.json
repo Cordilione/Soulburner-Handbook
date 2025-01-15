@@ -8,20 +8,80 @@
         "type": "tabs",
         "children": [
           {
-            "id": "122a1be9cc8e8d63",
+            "id": "3e30620e13ffa7ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soulburner Handbook/Character Creation/Classes/Rouge/-Rouge Overview.md",
+
+                "file": "Soulburner Handbook/Game Systems/Materials/Troll Leather.md",
+
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-Rouge Overview"
+              "title": "Troll Leather"
+            }
+          },
+          {
+            "id": "8881ff4fec134d04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soulburner Handbook/Game Systems/Materials/Troll Leather.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Troll Leather"
+            }
+          },
+          {
+            "id": "370ff1a14f3f9a40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soulburner Handbook/Magic/Combustion Spell Base.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combustion Spell Base"
+
+            }
+          },
+          {
+            "id": "a20013ed62ae5f91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soulburner Handbook/Character Creation/Backgrounds/Artist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Artist"
+            }
+          },
+          {
+            "id": "1daf19243805805c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soulburner Handbook/Notes/Brandon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brandon"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +220,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+
+    "width": 350.5
+
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,16 +235,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "122a1be9cc8e8d63",
+  "active": "786e24e0be424b98",
   "lastOpenFiles": [
+    "Soulburner Handbook/Game Systems/Materials/Troll Leather.md",
+    "Soulburner Handbook/Magic/Combustion Spell Base.md",
+    "Soulburner Handbook/Game Systems/Materials/Totally not vibranium.md",
+    "Soulburner Handbook/Game Systems/Materials/Moon steel (warning all theory little mechanics).md",
+    "Soulburner Handbook/Notes/Alex.md",
+    "Soulburner Handbook/Notes/Fighter Notes from Goblin Slayer.md",
+    "Soulburner Handbook/Gear/Melee/Great Weapon/Greatsword.md",
+    "Soulburner Handbook/Gear/Melee/Great Weapon/Great Weapons Training Overview.md",
+    "Soulburner Handbook/Character Creation/Classes/Rouge/-Rouge Overview.md",
+    "README.md",
+    "Soulburner Handbook/Game Systems/Materials/Areo Crystal.md",
     "Soulburner Handbook/Character Creation/Classes/Rouge/Minor Rouge Feat.md",
     "Soulburner Handbook/Character Creation/Classes/Rouge/Major Rouge Feat.md",
-    "Soulburner Handbook/Character Creation/Classes/Rouge/-Rouge Overview.md",
     "Soulburner Handbook/Character Creation/Classes/Rouge/Quick Wit.md",
     "Soulburner Handbook/Character Creation/Classes/Fighter 2/Combat Prowess.md",
     "Soulburner Handbook/Character Creation/Classes/Fighter 2/-Fighter Overview.md",
     "Soulburner Handbook/Character Creation/Classes/Fighter/-Fighter Overview.md",
-    "Soulburner Handbook/Character Creation/Backgrounds/Artist.md",
     "Soulburner Handbook/Character Creation/Backgrounds/Bounty Hunter.md",
     "Soulburner Handbook/Character Creation/Backgrounds/Mercenary.md",
     "Soulburner Handbook/Character Creation/Backgrounds/Noble.md",
@@ -191,26 +262,11 @@
     "Soulburner Handbook/Gear/Ranged/Shortbows/Shortbow Training Overview.md",
     "Soulburner Handbook/Gear/Armor/Unarmored/Unarmored Armor Training Overview.md",
     "Soulburner Handbook/Gear/Armor/Shield/Shield Training Overview.md",
-    "Soulburner Handbook/Gear/Armor/Medium Armor/Medium Armor Training Overview.md",
-    "Soulburner Handbook/Gear/Armor/Light Armor/Light Armor Training Overview.md",
-    "Soulburner Handbook/Gear/Armor/Heavy Armor/Heavy Armor Training Overview.md",
-    "Soulburner Handbook/Gear/Melee/Swords/Swords Training Overview.md",
-    "Soulburner Handbook/Gear/Melee/Great Weapon/Great Weapons Training Overview.md",
-    "Soulburner Handbook/Gear/Ranged/Lightcrossbows/Lightcrossbows Training Overview.md",
-    "Soulburner Handbook/Gear/Ranged/Heavycrossbows/Heavycrossbows Training Overview.md",
-    "Soulburner Handbook/Gear/Melee/Unarmed/Unarmed Training Overview.md",
-    "Soulburner Handbook/Gear/Melee/Staves/Staves Training Overview.md",
-    "Soulburner Handbook/Gear/Melee/Polearms/Polearms Training Overview.md",
     "Soulburner Handbook/Gear/Melee/Thrown",
     "Soulburner Handbook/Gear/Ranged/Heavycrossbows",
     "Soulburner Handbook/Gear/Ranged/Lightcrossbows",
     "Soulburner Handbook/Gear/Ranged/Longbows",
     "Soulburner Handbook/Gear/Ranged/Shortbows",
-    "Soulburner Handbook/Gear/Melee/Swords",
-    "Soulburner Handbook/Gear/Melee/Staves",
-    "Soulburner Handbook/Gear/Melee/Polearms",
-    "Soulburner Handbook/Gear/Melee/Knives",
-    "Soulburner Handbook/Gear/Melee/Great Weapon",
     "Soulburner Handbook/0-Images/Manoizy (Peter Mohrbacher).png"
   ]
 }
