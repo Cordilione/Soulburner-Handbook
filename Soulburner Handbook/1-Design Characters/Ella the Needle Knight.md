@@ -33,11 +33,20 @@ Insight: +4
  
 ## Combat Actions
 ---
-**Base Short Sword Strike**
-	 
+**Weapon Strike** - *(General/Untrained)*
+	AP cost <><>
+	You perform a strike with your weapon on a target within its range. Unless you are trained in the weapons type this strike will not gain any modifiers from your stats
 
-**Base Ivoian Rapier**
-	
+
+**Focused Attack** - *(Short Sword Signature Strike)*
+	AP cost <>
+	*Requirements: Wielding a Short Sword*
+	Make a strike against a target you are engaged with with a -1 to core Damage. Each successful hit of this attack provides a +1 on hit to all further uses of this strike while engaged with this target until a different strike type is utilized. (Disengaging with target ends buildup of effect same as using a different strike)
+
+**Guarded Thrust** - *(Rapier Signature Strike)*
+	AP cost <><>
+	*Requirements: Wielding a Rapier*
+	You make a thrust at a target being sure to keep the blade ready to defend you if they attack back. You gain 1 ac against the target until end of turn on a successful attack.
 
 **Fallow Though**
 	 
@@ -51,11 +60,7 @@ Insight: +4
 **Quick Step**
 	
 
-## Spells
----
-**Arcane Truth**
 
-**Hallow Mind**
 
 ## Abilities
 ---
