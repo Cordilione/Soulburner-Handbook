@@ -10,7 +10,7 @@ polearms are a tripping hazard -5 ft of movement
 
 ## Weapons  
 [[Short Spear]]
-[[Spear]]
+[[Spear from Alex]]
 
 # Expert
 ---
