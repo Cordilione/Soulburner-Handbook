@@ -9,7 +9,7 @@ edge aliments a bitch -2 to hit
 #DEV_WORK_NEEDED 
 
 ## Weapons  
-[[Short Sword]]
+[[Short sword]]
 [[Saber]]
 
 # Expert

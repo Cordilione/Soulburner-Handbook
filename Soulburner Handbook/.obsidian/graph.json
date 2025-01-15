@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"1-Design Characters\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Gear",
+      "color": {
+        "a": 1,
+        "rgb": 15322518
+      }
+    },
+    {
+      "query": "path:\"Character Creation/Classes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2175301
+      }
+    },
+    {
+      "query": "path:\"Character Creation/Races\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Magic  ",
+      "color": {
+        "a": 1,
+        "rgb": 7389931
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1.0953125,
+  "lineSizeMultiplier": 1.52916666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.28125,
+  "repelStrength": 16.4583333333333,
+  "linkStrength": 0.354166666666667,
+  "linkDistance": 30,
+  "scale": 0.09392927902847271,
+  "close": true
+}
