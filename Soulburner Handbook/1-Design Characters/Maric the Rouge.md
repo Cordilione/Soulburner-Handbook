@@ -3,9 +3,10 @@
 ## Stats
 ---
 ### Core
-**HP:** 35
+**HP:** 22
 **MP:** 30
 **AC:** 16
+**Roughish Flair Pool:** 20
 **Resistances:** 1 Budging res
 
 ### Attributes and Saving Throws
@@ -27,28 +28,61 @@ Thievery +6
 Deception +4
 Insight +3
 Acrobatics +5
-Crafting +2
+Crafting +1
+Friezburg Lore +2
 
  
 ## Combat Actions
 ---
 
 Spear strike
+	ap 2
+	Gains +2 Core Damage against a target who has charged in their last turn.
 
 Dagger strike
+	ap 1
+	Dex only
+	Rapid Critical (On scoring a Crit hit perform 1 free version of this strike)
 
-Wounding strike
+Wounding Strike
+	ap 2
+	Roguish flair cost: 1
+	roll hit then target fort check on the hit
+	Deal no damage instead roll wound for chosen damage type
 
 Pocket Sand
+	ap 1 range Melee
+	Roguish flair cost: 2
+	Applies blinded for 1 turn
 
 Risky blow (Go for the legs he missed me)
+	ap Reaction
+	Tiger Engaged target misses a melee attack against you
+	Roguish flair cost: 7
+	Make a strike on that target with a +2 to hit. on a failed attack the targets attack counts as a hit.
+
 
 ## Abilities
 ---
 
 Roguish toys
-	collect of dumb rouge shit like cherry crackers and crap
-	acts like a reagents
+	Toys Count 3 (WIs score * 1/2rUp Level)
+	Done at start of day or short rest (allowed in plotting)
+	Choose your count of uses from roguish items to be used in the day
+	(Crafted and prepared from items through the day being recycled on next day)
+	---Item List---
+	Caltrops
+	Bag of Marbles(Barings)
+	Noise Maker
+	Cherry Popper
+	Flash bang/powder
+	Smoke Bomb
+	Bolus
+
+Plotting
+	At the cost of a Short rest
+	Gain 2 roguish flare per 15 mins of plotting
+	For every 30 mins of short rest spent plotting or 15mins and 10 mana to plan out a full 4 ap turn. These turn are lost on start of next day and when started in combat must be finished if a action become impossible it is skipped and turn continues to end. 
 
 ## Gear
 ---
@@ -60,7 +94,7 @@ base slandered kit
 
 #### Weapons
 
-[[Spear]]
+[[Spear from Alex]]
 **Stats**
 Hit 1d20+str
 Damage 1d8+str
@@ -69,7 +103,7 @@ Reach
 
 [[Fine]] [[Dagger - from Alex | Dagger]] 
 **Stats**
-Hit 1d20+dex
+Hit 1d20+1+dex
 Damage 1d4+2+dex/str P/S
 versatile
 

@@ -18,7 +18,7 @@ A great weapon is large with a very unique balance a lack of understanding when 
 ## Ability
 **Reach:** Great weapons are often as long as the wielder is tall use this extra reach to your advantage. +5 to weapon strike attack range with great weapons
 
-**Armor Breaker:** Great weapons are made to break defensive lines and create openings. 2 action cost attack against ajacent target applies -2 to target's ac
+**Armor Breaker:** Great weapons are made to break defensive lines and create openings. 2 action cost attack against adjacent target applies -2 to target's ac
 
 ## Weapons  
 
@@ -28,7 +28,7 @@ A great weapon is large with a very unique balance a lack of understanding when 
 ## Ability
 **The Greatest Build:** Negate Raised defenses and on miss against targets in cover destroy/damage the cover
 
-**Spear breaker:** Great weapons are made to break defensive lines and create openings. 2 action cost attack against polarms on hit convert polarm to quarterstaff and apply flat footed on wielder till your next turn.
+**Spear breaker:** Great weapons are made to break defensive lines and create openings. 2 action cost attack against polearms on hit convert polearm to quarterstaff and apply flat footed on wielder till your next turn.
 
 ## Weapons 
 
@@ -37,5 +37,5 @@ A great weapon is large with a very unique balance a lack of understanding when 
 ---
 ## Ability
 #DEV_WORK_NEEDED 
-
+Greatswords: After an attack enemies lose flanking bonuses against you till start of your next turn
 ## Weapons 
