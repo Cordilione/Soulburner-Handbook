@@ -13,7 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
+
                 "file": "Soulburner Handbook/Game Systems/Materials/Troll Leather.md",
+
                 "mode": "source",
                 "source": false
               },
@@ -47,6 +49,7 @@
               },
               "icon": "lucide-file",
               "title": "Combustion Spell Base"
+
             }
           }
         ],
@@ -235,11 +238,6 @@
     "Soulburner Handbook/Gear/Ranged/Lightcrossbows",
     "Soulburner Handbook/Gear/Ranged/Longbows",
     "Soulburner Handbook/Gear/Ranged/Shortbows",
-    "Soulburner Handbook/Gear/Melee/Swords",
-    "Soulburner Handbook/Gear/Melee/Staves",
-    "Soulburner Handbook/Gear/Melee/Polearms",
-    "Soulburner Handbook/Gear/Melee/Knives",
-    "Soulburner Handbook/Gear/Melee/Great Weapon",
     "Soulburner Handbook/0-Images/Manoizy (Peter Mohrbacher).png"
   ]
 }

@@ -1,6 +1,6 @@
 ## Ability Score
 Up: Str, Con, Free
-Down: CHa
+Down: Cha
 ## Skills
 Free Points: Wis
 # Trainings
