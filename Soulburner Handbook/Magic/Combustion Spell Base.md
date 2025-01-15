@@ -37,7 +37,7 @@ def costRadius(radius):
     if radius < 5:  
         return 0  
     else:  
-        return radius / 5
+        return (radius / 5) ** 2
 ```
 Difficulty of save:
 	base is 10+soul of caster reflex save
@@ -48,7 +48,7 @@ Difficulty of save:
 def costSave(aboveBase, castRange, radius):  
     totalCost = 0  
     for i in range(aboveBase):  
-        totalCost += costRange(castRange) + costRadius(radius)  
+        totalCost += costRange(castRange) + (radius/5)
     return totalCost
 ```
 Number of targets:
