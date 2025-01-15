@@ -51,6 +51,34 @@
               "title": "Combustion Spell Base"
 
             }
+          },
+          {
+            "id": "a20013ed62ae5f91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soulburner Handbook/Character Creation/Backgrounds/Artist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Artist"
+            }
+          },
+          {
+            "id": "1daf19243805805c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soulburner Handbook/Notes/Brandon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brandon"
+            }
           }
         ],
         "currentTab": 2
@@ -192,7 +220,9 @@
       }
     ],
     "direction": "horizontal",
+
     "width": 350.5
+
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,7 +254,6 @@
     "Soulburner Handbook/Character Creation/Classes/Fighter 2/Combat Prowess.md",
     "Soulburner Handbook/Character Creation/Classes/Fighter 2/-Fighter Overview.md",
     "Soulburner Handbook/Character Creation/Classes/Fighter/-Fighter Overview.md",
-    "Soulburner Handbook/Character Creation/Backgrounds/Artist.md",
     "Soulburner Handbook/Character Creation/Backgrounds/Bounty Hunter.md",
     "Soulburner Handbook/Character Creation/Backgrounds/Mercenary.md",
     "Soulburner Handbook/Character Creation/Backgrounds/Noble.md",
