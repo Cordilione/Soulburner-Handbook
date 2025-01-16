@@ -7,6 +7,7 @@ Long slim defensive blades the rapier is the weapon of a noble and duel not the 
 **Base Die:** 1d6 P
 **Weapon Traits:** [[Agile]], [[Finesse]]
 **Weapon Training:** [[0-Swords Training Overview | Swords]] 
+**Weapon Size:** Medium
 **Weapon Strike**
 	**Guarded Thrust**
 	AP cost <><>

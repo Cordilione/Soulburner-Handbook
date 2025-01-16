@@ -16,12 +16,12 @@
     "2025/0/7": 1347,
     "2025/0/8": 0,
     "2025/0/12": 238,
-    "2025/0/15": 572
+    "2025/0/15": 764
   },
   "todaysWordCount": {
     "1-Design Characters/Ella the Needle Knight.md": {
       "initial": 828,
-      "current": 979
+      "current": 1168
     },
     "Untitled.md": {
       "initial": 358,
@@ -30,6 +30,22 @@
     "Magic/Combustion Spell Base.md": {
       "initial": 358,
       "current": 779
+    },
+    "1-Design Characters/Fred build 1-5-25.md": {
+      "initial": 230,
+      "current": 218
+    },
+    "Gear/Traits/Finesse.md": {
+      "initial": 15,
+      "current": 15
+    },
+    "Gear/Melee/Swords/Short sword - From Ella.md": {
+      "initial": 108,
+      "current": 111
+    },
+    "Gear/Melee/Swords/Rapier  - From Ella.md": {
+      "initial": 89,
+      "current": 89
     }
   }
 }
