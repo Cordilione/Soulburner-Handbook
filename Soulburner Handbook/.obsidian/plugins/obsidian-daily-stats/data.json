@@ -16,7 +16,7 @@
     "2025/0/7": 1347,
     "2025/0/8": 0,
     "2025/0/12": 238,
-    "2025/0/15": 571
+    "2025/0/15": 151
   },
   "todaysWordCount": {
     "1-Design Characters/Ella the Needle Knight.md": {
@@ -26,10 +26,6 @@
     "Untitled.md": {
       "initial": 358,
       "current": 0
-    },
-    "Magic/Combustion Spell Base.md": {
-      "initial": 358,
-      "current": 778
     }
   }
 }

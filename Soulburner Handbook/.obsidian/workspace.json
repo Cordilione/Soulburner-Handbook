@@ -11,14 +11,17 @@
             "id": "5ca2675f97ed98ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1-Design Characters/Ella the Needle Knight.md",
-                "mode": "source",
-                "source": false
+                "file": "Weapon Quality.canvas",
+                "viewState": {
+                  "x": 1477.166745957497,
+                  "y": 326.8610223454488,
+                  "zoom": -0.28240602681616916
+                }
               },
-              "icon": "lucide-file",
-              "title": "Ella the Needle Knight"
+              "icon": "lucide-layout-dashboard",
+              "title": "Weapon Quality"
             }
           },
           {
@@ -213,11 +216,18 @@
   },
   "active": "5ca2675f97ed98ea",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Game Systems/Poor Quality  - From Ella.md",
+    "Notes/Brandon.md",
+    "Magic/Combustion Spell Base.md",
+    "Character Creation/Backgrounds/Traveling Merchant.md",
+    "Character Creation/Backgrounds/Merchant.md",
+    "Character Creation/Backgrounds/Conman.md",
+    "1-Design Characters/Maric the Rouge.md",
+    "Magic/Combustion Spell Base draft 2.md",
     "1-Design Characters/Ella the Needle Knight.md",
+    "Untitled.md",
     "Gear/Melee/Swords/Short sword - From Ella.md",
     "Gear/Melee/Swords/Rapier  - From Ella.md",
-    "1-Design Characters/Maric the Rouge.md",
     "1-Design Characters/Fred build 1-5-25.md",
     "1-Design Characters/Brandon Build 1-7-25.md",
     "Gear/Melee/Knives/Dagger - from Alex.md",
@@ -247,14 +257,7 @@
     "Gear/Traits/Versatile.md",
     "Gear/Traits/Light.md",
     "Gear/Traits/Finesse.md",
-    "Gear/Traits/Agile.md",
     "Gear/Traits",
-    "Gear/Melee/Swords/Rapier.md",
-    "Gear/Melee/Swords/Rapier - From Fred.md",
-    "Gear/Melee/Swords/0-Swords Training Overview.md",
-    "Gear/Melee/Knives/Dagger.md",
-    "Gear/Melee/Knives/Dagger - from Fred.md",
-    "Gear/Melee/Knives/0-Knives Training Overview.md",
     "0-Images/Needle Knight- Asner Boi.png",
     "0-Images/Manoizy - Peter Mohrbacher.png",
     "0-Images",
