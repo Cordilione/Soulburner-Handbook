@@ -8,20 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8beae5f647577d5",
+            "id": "7b2335839180a524",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Soulburner Handbook/Weapon Quality.canvas",
-                "viewState": {
-                  "x": 1457.1052036199096,
-                  "y": 483.4079939668176,
-                  "zoom": -0.22355767060493936
-                }
+                "file": "Soulburner Handbook/1-Design Characters/Maric the Rouge.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Weapon Quality"
+              "icon": "lucide-file",
+              "title": "Maric the Rouge"
             }
           }
         ]
@@ -176,21 +173,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8beae5f647577d5",
+  "active": "7b2335839180a524",
   "lastOpenFiles": [
+    "Soulburner Handbook/Character Creation/Classes/Rouge/Sneak attack.md",
+    "Soulburner Handbook/Character Creation/Classes/Rouge/Surprise Attack.md",
+    "Soulburner Handbook/Character Creation/Classes/Rouge/-Rouge Overview.md",
     "Soulburner Handbook/1-Design Characters/Maric the Rouge.md",
+    "Soulburner Handbook/Gear/Bandolier.md",
+    "Soulburner Handbook/Gear/Traits/Agile.md",
+    "Soulburner Handbook/Gear/Traits/Versatile.md",
+    "Soulburner Handbook/Gear/Traits/Light.md",
+    "Soulburner Handbook/Gear/Traits/Finesse.md",
+    "Soulburner Handbook/Weapon Quality.canvas",
+    "Soulburner Handbook/Magic/Combustion Spell Base draft 2.md",
     "Soulburner Handbook/Notes/Alex.md",
     "Soulburner Handbook/Game Systems/Materials/Troll Leather.md",
-    "Soulburner Handbook/Magic/Combustion Spell Base draft 2.md",
     "Soulburner Handbook/Magic/Mana Burn.md",
     "Soulburner Handbook/Magic/Restoration Spell Bases/Stolen Vigor.md",
     "Soulburner Handbook/Gear/Melee/Great Weapon/Greatsword.md",
     "Soulburner Handbook/Gear/Melee/Great Weapon/Great Sword.md",
     "Soulburner Handbook/Gear/Melee/Great Weapon/Great Weapons Training Overview.md",
-    "Soulburner Handbook/Gear/Traits/Light.md",
-    "Soulburner Handbook/Gear/Traits/Versatile.md",
-    "Soulburner Handbook/Gear/Traits/Finesse.md",
-    "Soulburner Handbook/Gear/Traits/Agile.md",
     "Soulburner Handbook/Gear/Traits",
     "Soulburner Handbook/z-Images/Rapier - Jesse Belsky Stage blades.png",
     "Soulburner Handbook/z-Images/Short Sword - Spartan Lakonia Strongblade.png",
@@ -207,7 +209,6 @@
     "Soulburner Handbook/Writing for Ideas/The Lost Village",
     "Soulburner Handbook/Writing for Ideas/Stromcoast",
     "Soulburner Handbook/Writing for Ideas",
-    "Soulburner Handbook/Weapon Quality.canvas",
     "Soulburner Handbook/Untitled.md",
     "Soulburner Handbook/Spear from Alex.md",
     "Soulburner Handbook/Magic/Gods/Dahmor  - From Ella.md",
@@ -216,10 +217,6 @@
     "Soulburner Handbook/Gear/Melee/Knives/Dagger - from Alex.md",
     "Soulburner Handbook/Gear/Melee/Knives/0-Knives Training Overview.md",
     "Soulburner Handbook/Gear/Armor/Light Chain  - From Ella.md",
-    "Soulburner Handbook/Gear/Armor/Cape  - From Ella.md",
-    "Soulburner Handbook/Game Systems/Poor Quality  - From Ella.md",
-    "Soulburner Handbook/Game Systems/Materials/Ivatight  - From Ella.md",
-    "Soulburner Handbook/Character Creation/Feats/General/Duel Wielding.md",
     "Soulburner Handbook/Character Creation/Feats/General",
     "Soulburner Handbook/Character Creation/Feats",
     "Soulburner Handbook/1-Design Characters",
