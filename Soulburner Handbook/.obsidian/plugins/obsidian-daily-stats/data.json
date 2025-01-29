@@ -18,12 +18,21 @@
     "2025/0/12": 238,
     "2025/0/15": 151,
     "2025/0/18": 60,
-    "2025/0/21": 8
+    "2025/0/21": 8,
+    "2025/0/29": 892
   },
   "todaysWordCount": {
-    "Kolbold Warrior.md": {
-      "initial": 4,
-      "current": 12
+    "0-GamePlay/Example MD Character Sheet.md": {
+      "initial": 20,
+      "current": 685
+    },
+    "1-Game Rules/Combat/Damage Types.md": {
+      "initial": 0,
+      "current": 157
+    },
+    "1-Game Rules/Items/Totems/Recon Raven Totem.md": {
+      "initial": 1,
+      "current": 71
     }
   }
 }
