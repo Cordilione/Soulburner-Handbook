@@ -66,12 +66,11 @@ can spend mana in the place of a crafting roll to maintain and repair the weapon
 hit 1d20 + str/dex
 dam 1d6+1d4+str/dex p
 #### General 
-50ft rope
+notebook
 metal sheets
 chalk
-maintance kit
-survivalist cooking kit
-hip lantern
+bandolier
+quick sheath 
 
 #### Team
 1 wax + activator (basic flame or cold ect)
