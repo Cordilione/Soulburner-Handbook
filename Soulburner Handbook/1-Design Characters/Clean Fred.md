@@ -33,6 +33,16 @@ Speed Shanking - Dagger
 	Damage: 1d4 + 3 P
 	If you crit you can make this strike again for free
 ___
+General Strike - Dagger
+	Cost: <><>
+	Hit: 1d20
+	Damage: 1d4P
+___
+General Strike - Rapier
+	Cost: <><>
+	Hit: 1d20 + 1 (fine)
+	Damage: 1d6P
+___
 Merge Similar - Foci
 	Cost: 3mp, <><>
 	bind 2 objects you can touch together making them one object for 2mp details like sigils are preserved and transferred, they must be within similar families, Gm can increase time to cast as needed (wood, metal, gem etc.)
@@ -61,9 +71,10 @@ metal sheets
 chalk
 bandolier
 quick sheath 
-1 1d6 Temp hp potion
+3 1d6 Temp hp potion
 Clothing
 Dagger
 Fine Rapier
+2 wax applications
 
 
