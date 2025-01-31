@@ -37,7 +37,20 @@
 		{"id":"5bd27957afa3daf6","type":"text","text":"-1 to hit","x":800,"y":85,"width":250,"height":60},
 		{"id":"d2776dd0e4261447","type":"text","text":"Subtract all Core Damage Die","x":805,"y":240,"width":250,"height":60},
 		{"id":"7f12538f01fc97b3","type":"text","text":"Ruined","x":1075,"y":240,"width":250,"height":60,"color":"1"},
-		{"id":"af9cd83647508704","type":"text","text":"Damaged","x":1075,"y":85,"width":250,"height":60,"color":"1"}
+		{"id":"af9cd83647508704","type":"text","text":"Damaged","x":1075,"y":85,"width":250,"height":60,"color":"1"},
+		{"id":"644fe81a14952834","type":"text","text":"Base","x":1325,"y":400,"width":250,"height":60},
+		{"id":"0e3cc467e75e2441","type":"text","text":"Fare","x":1575,"y":585,"width":250,"height":60,"color":"4"},
+		{"id":"595a5d2779d790a7","type":"text","text":"Resistance 1 to piercing,+1 max stat bonus to ac","x":1855,"y":585,"width":260,"height":60},
+		{"id":"a6f3e36222e6a942","type":"text","text":"reduce the level of wound rolls made against you by 1 ","x":1855,"y":660,"width":260,"height":100},
+		{"id":"bc07b331dac52a83","type":"text","text":"Good","x":1575,"y":505,"width":250,"height":60,"color":"4"},
+		{"id":"c779e98d318a78dd","type":"text","text":"+1 max stat bonus to ac","x":1855,"y":505,"width":260,"height":60},
+		{"id":"dc63cf5612c763b7","type":"text","text":"Weakness 1 to piercing,-1 max stat bonus to ac","x":780,"y":580,"width":270,"height":60},
+		{"id":"e7b894d8093f481f","type":"text","text":"Ruff","x":1075,"y":580,"width":250,"height":60,"color":"1"},
+		{"id":"d8bb0e1e16492469","type":"text","text":"-1 max stat bonus to ac","x":780,"y":500,"width":270,"height":60},
+		{"id":"5ae336b8618c4894","type":"text","text":"Damaged","x":1075,"y":500,"width":250,"height":60,"color":"1"},
+		{"id":"34449e3218ec02d4","type":"text","text":"Masterwork","x":1575,"y":681,"width":250,"height":60,"color":"4"},
+		{"id":"73d4df30d4ebe12a","type":"text","text":"Ruined","x":1075,"y":681,"width":250,"height":60,"color":"1"},
+		{"id":"465b4025ef45c008","type":"text","text":"Increase the level of wound rolls made against you by 1","x":780,"y":660,"width":275,"height":100}
 	],
 	"edges":[
 		{"id":"ed48b939782e45f6","fromNode":"62cdb110305fffd9","fromSide":"left","toNode":"55f88a11477c37fa","toSide":"top"},
@@ -74,6 +87,18 @@
 		{"id":"1e3b740cafe0714c","fromNode":"8d91b8b43d4c7f9f","fromSide":"bottom","toNode":"7f12538f01fc97b3","toSide":"top"},
 		{"id":"fba4ae218ab3fa8a","fromNode":"49b2854bba62eecd","fromSide":"right","toNode":"608a6a8e26f346da","toSide":"left"},
 		{"id":"b3cc5bb40fcec18e","fromNode":"88f8dd448f68189a","fromSide":"right","toNode":"1e07d2cdc0b52e7d","toSide":"top"},
-		{"id":"627c59aa37f4f3c2","fromNode":"c67c336fb4ad06f5","fromSide":"bottom","toNode":"49b2854bba62eecd","toSide":"top"}
+		{"id":"627c59aa37f4f3c2","fromNode":"c67c336fb4ad06f5","fromSide":"bottom","toNode":"49b2854bba62eecd","toSide":"top"},
+		{"id":"6e11a8fee242d0fd","fromNode":"644fe81a14952834","fromSide":"left","toNode":"5ae336b8618c4894","toSide":"top"},
+		{"id":"6323da3c4009e1a5","fromNode":"644fe81a14952834","fromSide":"right","toNode":"bc07b331dac52a83","toSide":"top"},
+		{"id":"7ad27d4d953f6f6b","fromNode":"0e3cc467e75e2441","fromSide":"right","toNode":"595a5d2779d790a7","toSide":"left"},
+		{"id":"8f94dc2aa096c735","fromNode":"0e3cc467e75e2441","fromSide":"bottom","toNode":"34449e3218ec02d4","toSide":"top"},
+		{"id":"23b75c38a89c2095","fromNode":"bc07b331dac52a83","fromSide":"bottom","toNode":"0e3cc467e75e2441","toSide":"top"},
+		{"id":"20731970105145fc","fromNode":"34449e3218ec02d4","fromSide":"right","toNode":"a6f3e36222e6a942","toSide":"left"},
+		{"id":"1842fa2104c1ca36","fromNode":"bc07b331dac52a83","fromSide":"right","toNode":"c779e98d318a78dd","toSide":"left"},
+		{"id":"359df9cd892f0d79","fromNode":"e7b894d8093f481f","fromSide":"left","toNode":"dc63cf5612c763b7","toSide":"right"},
+		{"id":"27d5ca126cec078f","fromNode":"e7b894d8093f481f","fromSide":"bottom","toNode":"73d4df30d4ebe12a","toSide":"top"},
+		{"id":"2bf07d76c89d401e","fromNode":"5ae336b8618c4894","fromSide":"bottom","toNode":"e7b894d8093f481f","toSide":"top"},
+		{"id":"55635c50568c8ea0","fromNode":"5ae336b8618c4894","fromSide":"left","toNode":"d8bb0e1e16492469","toSide":"right"},
+		{"id":"c2035342137756fa","fromNode":"73d4df30d4ebe12a","fromSide":"left","toNode":"465b4025ef45c008","toSide":"right"}
 	]
 }
