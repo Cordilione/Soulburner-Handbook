@@ -25,18 +25,20 @@
             "id": "64fa4f47ccb42afc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1-Game Rules/Items/Totems/Recon Raven Totem.md",
-                "mode": "source",
-                "source": false
+                "file": "1-Game Rules/Combat/Gear/Gear Condition.canvas",
+                "viewState": {
+                  "x": -175,
+                  "y": 240,
+                  "zoom": -2.574908836057233
+                }
               },
-              "icon": "lucide-file",
-              "title": "Recon Raven Totem"
+              "icon": "lucide-layout-dashboard",
+              "title": "Gear Condition"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,16 +151,6 @@
             }
           },
           {
-            "id": "f8865ef72af8ea60",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "3a1aaaec63b72d81",
             "type": "leaf",
             "state": {
@@ -179,13 +171,24 @@
               "icon": "bar-graph",
               "title": "Daily Stats"
             }
+          },
+          {
+            "id": "c20fbce23b37f921",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,23 +201,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64fa4f47ccb42afc",
+  "active": "6cf4bde338dc633c",
   "lastOpenFiles": [
+    "1-Game Rules/Combat/Gear/Gear Condition.canvas",
+    "1-Game Rules/Combat/Gear/Armor/Leather Armor.md",
+    "0-GamePlay/Example MD Character Sheet.md",
+    "1-Game Rules/Combat/Damage Types.md",
+    "1-Game Rules/Items/Totems/Communication Raven Totem.md",
+    "1-Design Characters/Brandon Build 1-7-25.md",
+    "1-Design Characters/Maric the Rouge.md",
     "9-Old Ideas/Character Creation/Classes/Rouge/-Rouge Overview.md",
     "9-Old Ideas/Character Creation/Classes/Rouge/Surprise Attack.md",
-    "0-GamePlay/Example MD Character Sheet.md",
-    "1-Game Rules/Items/Totems/Recon Raven Totem.md",
-    "1-Game Rules/Combat/Damage Types.md",
     "1-Game Rules/Items/Totems",
     "1-Game Rules/Items",
     "1-Design Characters/Ella the Needle Knight.md",
     "Notes/Old Notes/Armor Notes.canvas",
     "Notes/Old Notes",
     "9-Old Ideas/Game Systems/Materials/Ivatight  - From Ella.md",
-    "1-Game Rules/Combat/Gear/Armor/Leather Armor.md",
     "1-Game Rules/Combat/Gear/Weapons/Short sword - From Ella.md",
     "1-Game Rules/Combat/Gear/Weapons/Rapier  - From Ella.md",
-    "1-Game Rules/Combat/Gear/Gear Condition.canvas",
     "Notes/Old Notes/Weapon Quality.canvas",
     "Ivatight.md",
     "Condition.md",
@@ -233,13 +238,10 @@
     "Pasted image 20250121162409.png",
     "Notes/Old Notes/Markus Stat Spread.md",
     "1-Design Characters/Fred build 1-5-25.md",
-    "1-Design Characters/Maric the Rouge.md",
     "9-Old Ideas/Character Creation/Classes/Fighter/Attack of Opportunity.md",
-    "1-Design Characters/Brandon Build 1-7-25.md",
     "Notes/Old Notes/Full Plate Armor.md",
     "Notes/Old Notes/Scale Armor.md",
     "Notes/Old Notes/Defensive stat Idea.md",
-    "Notes/Old Notes/Damage Res idea.md",
     "z-Images/Short Sword - Spartan Lakonia Strongblade.png",
     "z-Images/The Aftermath Environment (Leartes Studios).png",
     "z-Images/Rapier - Jesse Belsky Stage blades.png",
