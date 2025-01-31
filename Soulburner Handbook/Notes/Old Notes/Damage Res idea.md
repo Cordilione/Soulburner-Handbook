@@ -1,0 +1,1 @@
+Damge res and vul are not Dam mods but ac mods to the damage type
