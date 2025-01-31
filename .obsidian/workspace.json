@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf8beb16a8572609",
+        "id": "1725664000bb3f81",
         "type": "tabs",
         "children": [
           {
-            "id": "122a1be9cc8e8d63",
+            "id": "7b2335839180a524",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +49,7 @@
               "title": "Brandon Build 1-7-25"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,9 +201,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1daf19243805805c",
+  "active": "7b2335839180a524",
   "lastOpenFiles": [
-    "Soulburner Handbook/Character Creation/Classes/Illusionist/-Illusionist Overview.md",
+    "Soulburner Handbook/Character Creation/Classes/Rouge/Sneak attack.md",
+    "Soulburner Handbook/Character Creation/Classes/Rouge/Surprise Attack.md",
+    "Soulburner Handbook/Character Creation/Classes/Rouge/-Rouge Overview.md",
+    "Soulburner Handbook/1-Design Characters/Maric the Rouge.md",
+    "Soulburner Handbook/Gear/Bandolier.md",
+    "Soulburner Handbook/Gear/Traits/Agile.md",
+    "Soulburner Handbook/Gear/Traits/Versatile.md",
+    "Soulburner Handbook/Gear/Traits/Light.md",
+    "Soulburner Handbook/Gear/Traits/Finesse.md",
+    "Soulburner Handbook/Weapon Quality.canvas",
+    "Soulburner Handbook/Magic/Combustion Spell Base draft 2.md",
+    "Soulburner Handbook/Notes/Alex.md",
+    "Soulburner Handbook/Game Systems/Materials/Troll Leather.md",
+    "Soulburner Handbook/Magic/Mana Burn.md",
+    "Soulburner Handbook/Magic/Restoration Spell Bases/Stolen Vigor.md",
+    "Soulburner Handbook/Gear/Melee/Great Weapon/Greatsword.md",
+    "Soulburner Handbook/Gear/Melee/Great Weapon/Great Sword.md",
+    "Soulburner Handbook/Gear/Melee/Great Weapon/Great Weapons Training Overview.md",
+    "Soulburner Handbook/Character Creation/Classes/Rouge/-Rouge Overview.md",
+    "README.md",
+    "Soulburner Handbook/Game Systems/Materials/Areo Crystal.md",
+    "Soulburner Handbook/Character Creation/Classes/Rouge/Minor Rouge Feat.md",
+    "Soulburner Handbook/Character Creation/Classes/Rouge/Major Rouge Feat.md",
+    "Soulburner Handbook/Character Creation/Classes/Rouge/Quick Wit.md",
+    "Soulburner Handbook/Character Creation/Classes/Fighter 2/Combat Prowess.md",
+    "Soulburner Handbook/Character Creation/Classes/Fighter 2/-Fighter Overview.md",
     "Soulburner Handbook/Character Creation/Classes/Fighter/-Fighter Overview.md",
     "Soulburner Handbook/1-Design Characters/Brandon Build 1-7-25.md",
     "Soulburner Handbook/1-Design Characters/Fred build 1-5-25.md",
