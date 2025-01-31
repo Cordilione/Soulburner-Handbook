@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"1-Design Characters\"  ",
@@ -45,7 +45,7 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.6,
+  "textFadeMultiplier": -2.7,
   "nodeSizeMultiplier": 1.0953125,
   "lineSizeMultiplier": 1.52916666666667,
   "collapse-forces": false,
@@ -53,6 +53,6 @@
   "repelStrength": 16.4583333333333,
   "linkStrength": 0.354166666666667,
   "linkDistance": 30,
-  "scale": 0.09392927902847271,
+  "scale": 0.36288736930122417,
   "close": true
 }
