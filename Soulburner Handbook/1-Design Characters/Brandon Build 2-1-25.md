@@ -1,33 +1,53 @@
 # Character Start (1st Level)
 ## Stats
 ---
-### Core
-**HP:** 23
-**MP:** 30
-**AC:** 14
+**HP:** 23/23 **MP:** 45/45 
+**AC:** 14 
 **Resistances:** 
+**Vulnerabilities:** 
+**For:** +4 
+**Ref:** +3 
+**Wil:** +1 
+### Strikes 
+Weapon Strike 
+	Cost: <><> 
+	Hit Roll: 1d20+4 
+	Short Sword Damage: 1d6+3[[Damage Types#Piercing|p]] 
+	Dagger Damage: 1d4+3[[Damage Types#Piercing|p]] 
+### Roll Checks 
+**For:** +4
+**Ref:** +3
+**Wil:** +1
 
-### Attributes and Saving Throws
-**Fortitude:** 4
-**Reflex:** 3
-**Willpower:** 1
-
-**Strength:** 2
-**Dexterity:** 3
+**Strength:** 2 
+**Dexterity:** 3 
 **Constitution:** 4
 **Intelligence:** 1
-**Wisdom:** -1
+**Wisdom:** -2
 **Charisma:** 2
 **Soul:** 1
 
+**Medicine:** +3 
+**Persuasion:** +4 
+**Faith:** +1
+**Insight:** +1
+**Athletics:** +2
 
-### Skills
-Medicine +3
-Persuasion +4
-Faith +1
-Insight +1
-Athletics: +2
- 
+## Inventory 
+Bandelier
+Sewing Kit
+Hand Mirror
+Journal, quill and ink
+Spyglass
+1use Cold Wax
+
+## Combat Actions
+**Weapon Strike**
+	AP Cost:<>
+	You perform a strike with your weapon on a target within its range. Unless you are trained in the weapons type this strike will not gain any modifiers from your stats or abilities.
+**Push/Kick**
+	AP Cost: 1
+	Perform a push/kick to create space.
 ## Combat Actions
 ---
 Weapon Strike
@@ -37,6 +57,12 @@ Push/kick
 Attack of Opportunity 
 	Spend reaction to attack a target that is leaving your effective combat range without the step action
 
+## Abilities
+**Bolstered Help**
+	WHen an ally gains health within 30ft of you, you can use your reation to heal an extra 1d4+Cha modifier
+**Devine Ritual of Healing**
+	You can perform a ritual to ask Airmed to fully restore HP of a creature. The ritual requires 30 minutes, burned incense and an effigy of Airmed.
+
 ## Spells
 ---
 Close Flesh 
@@ -45,13 +71,6 @@ Cure minor Ailment
 	Effect: A spell for flushing out minor poison and disease
 Healing Light
 	Effect: Heal HP equal to 1d6+cha
-## Abilities
----
-Bolstered Help
-	When an ally gains health within 30ft of you, you can use your reaction to heal an extra 1d4+Cha modifier
-Devine Ritual of Healing
-	You can perform a ritual to ask Airmed to fully restore HP of a creature. The ritual requires 30 minutes, burned incense and an effigy of Airmed.
-
 ## Gear
 ---
 med kit
@@ -68,17 +87,6 @@ Dam: 1d6+dex+2
 Dagger
 hit:1d20 + str
 dam:1d4+str
-#### Items
-Bandelier
-Sewing Kit
-Hand Mirror
-Half Burnt Tapestry with my mother's face
-Charred flute
-Journal, quill and ink
-Old colored inks
-
-
-
 # Lore / Idea backdrop
 ---
 A man who knows the pain of war wished to lessen it through healing the injured and comforting those who's will has been broken.
@@ -92,4 +100,4 @@ When his lord called for men to fight he answered the call. There he made many f
 #### Classes, Race, Background, and more
 ---
 Made on first pass of Character
-	Church of Ariiamd, solider background, fighter concepts
+	Church of Ariamd, solider background, fighter concepts
