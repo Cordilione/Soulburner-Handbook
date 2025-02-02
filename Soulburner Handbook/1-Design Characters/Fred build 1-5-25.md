@@ -5,8 +5,8 @@
 ---
 ### Core
 **HP:** 20
-**MP:** 15
-**AC:** 12-14
+**MP:** 25
+**AC:** 14
 **Resistances:** 
 
 ### Attributes and Saving Throws
@@ -14,21 +14,18 @@
 **Reflex:** 2
 **Willpower:** 4 
 
-**Strength:** -1 - 0
-**Dexterity:** 2-3
-**Constitution:** 0-2
-**Intelligence:** 4-5
-**Wisdom:** 2
-**Charisma:** 0-1
-**Soul:** -1
+**Strength:** -2
+**Dexterity:** 3
+**Constitution:** 0
+**Intelligence:** 4
+**Wisdom:** 3
+**Charisma:** 1
+**Soul:** 1
 
 
 ### Skills
-craft +6
 sigil lore +6
-history +4
-sociality +4
-insight +1
+insight +5
  
 ## Combat Actions
 ---
