@@ -1,7 +1,7 @@
 
 ![[Needle Knight- Asner Boi.png]]
 
-# Character Start (1st Level)
+# Character Stats
 ## Stats
 ---
 ### Core
