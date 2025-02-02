@@ -1,7 +1,7 @@
 **HP:** 22/22
 **MP:** 30/30 
 **AC:** 16
-Roguish Flair:20/20
+Roguish Flair: 20/20
 **Resistances:** 1b
 **Vulnerabilities:** 
 **For:** +1 
