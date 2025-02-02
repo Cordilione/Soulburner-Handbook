@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soulburner Handbook/1-Design Characters/Maric the Rouge.md",
+                "file": "Soulburner Handbook/1-Design Characters/Maric QRS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maric the Rouge"
+              "title": "Maric QRS"
+            }
+          },
+          {
+            "id": "fbe70c5472814c20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soulburner Handbook/Spear from Alex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spear from Alex"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -173,35 +189,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b2335839180a524",
+  "active": "fbe70c5472814c20",
   "lastOpenFiles": [
-    "Soulburner Handbook/Character Creation/Classes/Rouge/Sneak attack.md",
-    "Soulburner Handbook/Character Creation/Classes/Rouge/Surprise Attack.md",
-    "Soulburner Handbook/Character Creation/Classes/Rouge/-Rouge Overview.md",
-    "Soulburner Handbook/1-Design Characters/Maric the Rouge.md",
-    "Soulburner Handbook/Gear/Bandolier.md",
-    "Soulburner Handbook/Gear/Traits/Agile.md",
-    "Soulburner Handbook/Gear/Traits/Versatile.md",
-    "Soulburner Handbook/Gear/Traits/Light.md",
-    "Soulburner Handbook/Gear/Traits/Finesse.md",
     "Soulburner Handbook/Weapon Quality.canvas",
+    "Soulburner Handbook/Combat Systems/Statuses/Madness.md",
+    "Soulburner Handbook/1-Design Characters/Brandon Build 1-7-25.md",
+    "Soulburner Handbook/1-Design Characters/Maric QRS.md",
+    "Soulburner Handbook/1-Design Characters/Maric the Rouge.md",
+    "Soulburner Handbook/Gear/Melee/Polearms/Polearms Training Overview.md",
+    "Leather Armor.md",
+    "Soulburner Handbook/1-Design Characters/Ella the Needle Knight.md",
+    "Soulburner Handbook/1-Design Characters/Fred build 1-5-25.md",
+    "Soulburner Handbook/Spear from Alex.md",
     "Soulburner Handbook/Magic/Combustion Spell Base draft 2.md",
-    "Soulburner Handbook/Notes/Alex.md",
-    "Soulburner Handbook/Game Systems/Materials/Troll Leather.md",
-    "Soulburner Handbook/Magic/Mana Burn.md",
-    "Soulburner Handbook/Magic/Restoration Spell Bases/Stolen Vigor.md",
-    "Soulburner Handbook/Gear/Melee/Great Weapon/Greatsword.md",
-    "Soulburner Handbook/Gear/Melee/Great Weapon/Great Sword.md",
-    "Soulburner Handbook/Gear/Melee/Great Weapon/Great Weapons Training Overview.md",
-    "Soulburner Handbook/Gear/Traits",
-    "Soulburner Handbook/z-Images/Rapier - Jesse Belsky Stage blades.png",
-    "Soulburner Handbook/z-Images/Short Sword - Spartan Lakonia Strongblade.png",
+    "Soulburner Handbook/Character Creation/Classes/Rouge/Sneak attack.md",
     "Soulburner Handbook/z-Images/The Aftermath Environment (Leartes Studios).png",
-    "Soulburner Handbook/z-Images/Manoizy - Peter Mohrbacher.png",
+    "Soulburner Handbook/z-Images/Short Sword - Spartan Lakonia Strongblade.png",
+    "Soulburner Handbook/z-Images/Rapier - Jesse Belsky Stage blades.png",
     "Soulburner Handbook/z-Images/Needle Knight- Asner Boi.png",
     "Soulburner Handbook/z-Images/Ivatight Sword - Nuuskapeke47.png",
-    "Soulburner Handbook/z-Images/Dahmor - Peter Mohrbacher's Dumah.png",
     "Soulburner Handbook/z-Images/Breath in Squire (Youtube).png",
+    "Soulburner Handbook/z-Images/Manoizy - Peter Mohrbacher.png",
+    "Soulburner Handbook/z-Images/Dahmor - Peter Mohrbacher's Dumah.png",
     "Soulburner Handbook/z-Images",
     "Soulburner Handbook/Writing for Ideas/Stromcoast/The Forge the Heart of a People/Nature of a Strom Forge.md",
     "Soulburner Handbook/Writing for Ideas/The Lost Village/Set Dressing the Environment and Shit idk.md",
@@ -209,14 +218,20 @@
     "Soulburner Handbook/Writing for Ideas/The Lost Village",
     "Soulburner Handbook/Writing for Ideas/Stromcoast",
     "Soulburner Handbook/Writing for Ideas",
-    "Soulburner Handbook/Untitled.md",
-    "Soulburner Handbook/Spear from Alex.md",
+    "Soulburner Handbook/Notes/Brandon.md",
+    "Soulburner Handbook/Notes/Alex.md",
     "Soulburner Handbook/Magic/Gods/Dahmor  - From Ella.md",
     "Soulburner Handbook/Magic/Gods",
-    "Soulburner Handbook/Gear/Melee/Knives/Dagger - from Fred.md",
-    "Soulburner Handbook/Gear/Melee/Knives/Dagger - from Alex.md",
-    "Soulburner Handbook/Gear/Melee/Knives/0-Knives Training Overview.md",
-    "Soulburner Handbook/Gear/Armor/Light Chain  - From Ella.md",
+    "Soulburner Handbook/Magic/Combustion Spell Base.md",
+    "Soulburner Handbook/Gear/Traits/Finesse.md",
+    "Soulburner Handbook/Gear/Traits/Versatile.md",
+    "Soulburner Handbook/Gear/Traits/Light.md",
+    "Soulburner Handbook/Gear/Traits/Agile.md",
+    "Soulburner Handbook/Gear/Traits",
+    "Soulburner Handbook/Gear/Melee/Swords/Short sword - From Ella.md",
+    "Soulburner Handbook/Gear/Melee/Swords/Rapier.md",
+    "Soulburner Handbook/Gear/Melee/Swords/Rapier - From Fred.md",
+    "Soulburner Handbook/Gear/Melee/Swords/Rapier  - From Ella.md",
     "Soulburner Handbook/Character Creation/Feats/General",
     "Soulburner Handbook/Character Creation/Feats",
     "Soulburner Handbook/1-Design Characters",
