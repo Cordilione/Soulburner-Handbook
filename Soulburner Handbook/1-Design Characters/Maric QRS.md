@@ -88,13 +88,12 @@ Toys Count 3 (WIs score * 1/2rUp Level)
 	Choose your count of uses from roguish items to be used in the day
 	(Crafted and prepared from items through the day being recycled on next day)
 	---Item List---
-	Caltrops
-	Bag of Marbles(Barings)
-	Noise Maker
-	Cherry Popper
-	Flash bang/powder
-	Smoke Bomb
-	Bolus
+	Caltrops difficult terain dc14 2 p on fail
+	Bag of Marbles(Barings) sifficult terain
+	Noise Maker make noise for 3 rounds
+	Cherry Popper one quick distracting bang
+	Flash bang/powder reflex/ will save dc 14 on fail dazzled
+	Smoke Bomb obscured terrain 15ft sphere 3 round
 ## Gear 
 Gambeson
 Spear
