@@ -7,6 +7,7 @@ A short sword is a common weapon for the lower class. While they lack the reach 
 **Base Die:** 1d6 P
 **Weapon Traits:** [[Agile]], [[Versatile]] S, [[Finesse]], [[Light]]
 **Weapon Training:** [[0-Swords Training Overview | Swords]] 
+**Weapon Size:** Small
 **Weapon Strike**
 	**Focused Attack**
 	AP cost <>
