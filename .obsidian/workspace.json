@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soulburner Handbook/Character Creation/Backgrounds/Artist.md",
+                "file": "Soulburner Handbook/1-Design Characters/Brandon's Second Build.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Artist"
+              "title": "Brandon's Second Build"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soulburner Handbook/1-Design Characters/Brandon Build 1-7-25.md",
+                "file": "Soulburner Handbook/1-Design Characters/Brandon Build 2-1-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brandon Build 1-7-25"
+              "title": "Brandon Build 2-1-25"
             }
           },
           {
@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soulburner Handbook/1-Design Characters/Brandon Build 1-7-25.md",
+                "file": "Soulburner Handbook/Character Creation/Races/Gnome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brandon Build 1-7-25"
+              "title": "Gnome"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,19 +217,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d28d8ec4f5a2be3",
+  "active": "a20013ed62ae5f91",
   "lastOpenFiles": [
-    "Soulburner Handbook/1-Design Characters/Ella the Needle Knight.md",
+    "Soulburner Handbook/1-Design Characters/Brandon Build 2-1-25.md",
+    "Soulburner Handbook/1-Design Characters/Brandon's Second Build.md",
+    "Soulburner Handbook/Gear/Armor/Light Armor/Light Armor Training Overview.md",
+    "Soulburner Handbook/Character Creation/Races/Gnome.md",
+    "Soulburner Handbook/Character Creation/Races/Voa.md",
+    "Soulburner Handbook/Character Creation/Races/Human.md",
     "Soulburner Handbook/1-Design Characters/Maric the Rouge.md",
-    "Soulburner Handbook/1-Design Characters/Brandon Build 1-7-25.md",
+    "Soulburner Handbook/1-Design Characters/Fred build 1-5-25.md",
+    "Soulburner Handbook/1-Design Characters/Ella the Needle Knight.md",
+    "Soulburner Handbook/Character Creation/Backgrounds/Artist.md",
+    "2025-02-05.md",
+    "README.md",
+    "Brandon Second Character",
     "Soulburner Handbook/Character Creation/Classes/Illusionist/-Illusionist Overview.md",
     "Soulburner Handbook/Character Creation/Classes/Fighter/-Fighter Overview.md",
-    "Soulburner Handbook/1-Design Characters/Fred build 1-5-25.md",
     "Soulburner Handbook/Character Creation/Classes/Fighter/Attack of Opportunity.md",
     "Soulburner Handbook/Weapon Quality.canvas",
     "Soulburner Handbook/Notes/Fighter Notes from Goblin Slayer.md",
     "Soulburner Handbook/Notes/Brandon.md",
-    "Soulburner Handbook/Character Creation/Backgrounds/Artist.md",
     "Soulburner Handbook/Character Creation/Backgrounds/Bounty Hunter.md",
     "Soulburner Handbook/Writing for Ideas/Stromcoast/The Forge the Heart of a People/Nature of a Strom Forge.md",
     "Soulburner Handbook/Writing for Ideas/The Lost Village/Set Dressing the Environment and Shit idk.md",
@@ -256,14 +264,6 @@
     "Soulburner Handbook/z-Images/Dahmor - Peter Mohrbacher's Dumah.png",
     "Soulburner Handbook/z-Images/Breath in Squire (Youtube).png",
     "Soulburner Handbook/z-Images",
-    "Soulburner Handbook/Gear/Melee/Swords/Rapier  - From Ella.md",
-    "Soulburner Handbook/Gear/Melee/Swords/0-Swords Training Overview.md",
-    "Soulburner Handbook/Gear/Melee/Knives/Dagger.md",
-    "Soulburner Handbook/Gear/Melee/Knives/Dagger - from Fred.md",
-    "Soulburner Handbook/Gear/Melee/Knives/Dagger - from Alex.md",
-    "Soulburner Handbook/Gear/Melee/Knives/0-Knives Training Overview.md",
-    "Soulburner Handbook/Gear/Melee/Great Weapon/Greatsword.md",
-    "Soulburner Handbook/1-Design Characters",
     "Soulburner Handbook/0-Images/Manoizy (Peter Mohrbacher).png"
   ]
 }
