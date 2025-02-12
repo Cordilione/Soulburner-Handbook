@@ -52,7 +52,8 @@ corvid totem
 lighter foci
 military pack
 3 temp 1d6 healing potions
-## Combat Actions --- 
+## Combat Actions 
+--- 
 **Weapon Strike** - *(General/Untrained)* 
 	AP cost <><> 
 	You perform a strike with your weapon on a target within its range. Unless you are trained in the weapons type this strike will not gain any modifiers from your stats or abilities. 

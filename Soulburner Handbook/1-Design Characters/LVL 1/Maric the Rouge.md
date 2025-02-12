@@ -81,7 +81,6 @@ Roguish toys
 	Cherry Popper
 	Flash bang/powder
 	Smoke Bomb
-	Bolus
 
 Plotting
 	At the cost of a Short rest
