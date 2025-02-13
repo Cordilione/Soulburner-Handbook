@@ -12,7 +12,7 @@ Spear:
 	<><>
 	1d20 + Str
 	1d6/1d8 + Str
-Woodworking: 
+Woodworking: +3 (Wis)
 # Character 
 ___
 Race: Dwarf
