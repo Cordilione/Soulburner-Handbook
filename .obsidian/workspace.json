@@ -22,34 +22,63 @@
             }
           },
           {
-            "id": "58e5ee405185d9a6",
+            "id": "cd21ba790d1c79dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soulburner Handbook/Gear/Melee/Knives/Dagger - from Fred.md",
+                "file": "Soulburner Handbook/weapon vibes/Work knife.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dagger - from Fred"
+              "title": "Work knife"
             }
           },
           {
-            "id": "bc0671fb17707487",
+            "id": "54e9ca286a9f6e95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soulburner Handbook/Gear/Melee/Swords/Rapier - From Fred.md",
+                "file": "Soulburner Handbook/weapon vibes/Knife.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rapier - From Fred"
+              "title": "Knife"
+            }
+          },
+          {
+            "id": "67c301fa4fc41e41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soulburner Handbook/weapon vibes/Stiletto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stiletto"
+            }
+          },
+          {
+            "id": "6317de09ae920d69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soulburner Handbook/1-Design Characters/Danmous Rubyhelm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Danmous Rubyhelm"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -202,12 +231,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "786e24e0be424b98",
+  "active": "6317de09ae920d69",
   "lastOpenFiles": [
+    "Soulburner Handbook/1-Design Characters/Old/Fred 2 (2.4.25).md",
+    "Soulburner Handbook/1-Design Characters/Old/Fred Layla/Clean Fred (Layla).md",
+    "Soulburner Handbook/1-Design Characters/Danmous Rubyhelm.md",
+    "Soulburner Handbook/weapon vibes/Short Spear.md",
+    "Soulburner Handbook/weapon vibes/Work knife.md",
+    "Soulburner Handbook/9-Old Ideas/Gear/Traits/Versatile.md",
+    "Soulburner Handbook/weapon vibes",
+    "Soulburner Handbook/weapon vibes/Stiletto.md",
+    "Soulburner Handbook/weapon vibes/Knife.md",
+    "Halberd.md",
+    "Soulburner Handbook/Gear/Melee/Knives/Dagger - from Fred.md",
     "Soulburner Handbook/z-Images/Pasted image 20250211120355.png",
     "Soulburner Handbook/1-Design Characters/Old",
-    "Soulburner Handbook/1-Design Characters/Old/Fred 2 (2.4.25).md",
-    "Soulburner Handbook/1-Design Characters/Danmous Rubyhelm.md",
     "Soulburner Handbook/1-Design Characters/Old/Fred Layla/Fred build 1-5-25.md",
     "Soulburner Handbook/1-Design Characters/Old/Fred Layla/Fred second pass (Jaine).md",
     "conflict-files-obsidian-git.md",
@@ -234,15 +272,7 @@
     "Soulburner Handbook/Notes/Old Notes/Defensive stat Idea.md",
     "Soulburner Handbook/Notes/Old Notes/Brandon.md",
     "Soulburner Handbook/Notes/Old Notes/Armor Notes.canvas",
-    "Soulburner Handbook/Notes/Old Notes/Alex.md",
     "Soulburner Handbook/Notes/Old Notes",
-    "Soulburner Handbook/9-Old Ideas/Gear/Ranged/Shortbows/Shortbow Training Overview.md",
-    "Soulburner Handbook/9-Old Ideas/Gear/Ranged/Heavycrossbows/Heavycrossbows Training Overview.md",
-    "Soulburner Handbook/9-Old Ideas/Gear/Ranged/Longbows/Longbows Training Overview.md",
-    "Soulburner Handbook/9-Old Ideas/Gear/Ranged/Lightcrossbows/Lightcrossbows Training Overview.md",
-    "Soulburner Handbook/9-Old Ideas/Gear/Armor/Medium Armor/Medium Armor Training Overview.md",
-    "Soulburner Handbook/9-Old Ideas/Gear/Armor/Shield/Shield Training Overview.md",
-    "Soulburner Handbook/9-Old Ideas/Gear/Ranged/Shortbows",
     "Soulburner Handbook/z-Images/Pasted image 20250204202008.png",
     "Soulburner Handbook/z-Images/The Aftermath Environment (Leartes Studios).png",
     "Soulburner Handbook/z-Images/Short Sword - Spartan Lakonia Strongblade.png",
@@ -252,7 +282,6 @@
     "Soulburner Handbook/z-Images/Ivatight Sword - Nuuskapeke47.png",
     "Soulburner Handbook/z-Images/Dahmor - Peter Mohrbacher's Dumah.png",
     "Soulburner Handbook/z-Images/Breath in Squire (Youtube).png",
-    "Soulburner Handbook/Weapon Quality.canvas",
-    "Soulburner Handbook/0-Images/Manoizy (Peter Mohrbacher).png"
+    "Soulburner Handbook/Weapon Quality.canvas"
   ]
 }
