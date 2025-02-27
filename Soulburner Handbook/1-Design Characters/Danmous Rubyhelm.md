@@ -6,13 +6,20 @@ Con: 3
 Int: 0
 Wis: 2
 Cha: 1
-Soul: 0
+Soul: 0 
 # Other
+Defensive:
+	AC: 13
+	HP: 25
+	Resistances: Blunt -2
 Spear:
 	<><>
 	1d20 + Str
 	1d6/1d8 + Str
 Woodworking: +3 (Wis)
+44 soul-tin
+2 Din
+
 # Character 
 ___
 Race: Dwarf
