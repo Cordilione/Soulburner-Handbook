@@ -17,8 +17,9 @@ Spear:
 	1d20 + Str
 	1d6/1d8 + Str
 Woodworking: +3 (Wis)
-44 soul-tin
-2 Din
+Persuasion: +3 (Cha) 
+33 soul-tin
+7 Din
 
 # Character 
 ___
