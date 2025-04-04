@@ -7,19 +7,32 @@ Int: 0
 Wis: 2
 Cha: 1
 Soul: 0 
+# Strikes
+General spear:
+	<><>
+	1d20 + Str
+	1d6 + Str
+Spear strike:
+	<><>
+	1d20 + Str
+	1d6 + Str or 1d8 + Str P
+(Need to learn) !!Back strike:
+	<>
+	1d20 + Str
+	1 + Str B
+	On Crit push target back 5ft, target must be your size or smaller
+
 # Other
 Defensive:
 	AC: 13
 	HP: 25
 	Resistances: Blunt -2
-Spear:
-	<><>
-	1d20 + Str
-	1d6/1d8 + Str
-Woodworking: +3 (Wis)
+!!Woodworking: +3 (Wis)
 Persuasion: +3 (Cha) 
-33 soul-tin
-7 Din
+25 soul-tin
+19 Lazerin
+20 Din
+100 Din in bag
 
 # Character 
 ___
