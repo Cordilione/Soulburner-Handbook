@@ -4,38 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a09b37ce2cbdde5f",
+        "id": "69b619eb75aa8879",
         "type": "tabs",
         "children": [
           {
-            "id": "6cf4bde338dc633c",
+            "id": "19132094754328dd",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0-GamePlay/Example MD Character Sheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Example MD Character Sheet"
-            }
-          },
-          {
-            "id": "64fa4f47ccb42afc",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1-Game Rules/Combat/Gear/Gear Condition.canvas",
+                "file": "Notes/Elemental Projectiles.canvas",
                 "viewState": {
-                  "x": -175,
-                  "y": 240,
-                  "zoom": -2.574908836057233
+                  "x": 1401.1724400877379,
+                  "y": 518.7170827020764,
+                  "zoom": -0.4402485372498454
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Gear Condition"
+              "title": "Elemental Projectiles"
             }
           }
         ]
@@ -57,7 +43,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -187,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,56 +187,56 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cf4bde338dc633c",
+  "active": "19132094754328dd",
   "lastOpenFiles": [
-
+    "0-GamePlay/Level 1 Testing/Clean Alex.md",
+    "1-Design Characters/LVL 1/Fred build 1-5-25.md",
+    "0-GamePlay/Level 1 Testing/Layla lv1 (Fred).md",
+    "Notes/Elemental Projectiles.canvas",
+    "Pasted image 20250429233858.png",
+    "Pasted image 20250429233849.png",
+    "Pasted image 20250429233841.png",
+    "Pasted image 20250429233831.png",
+    "Pasted image 20250429233818.png",
+    "Pasted image 20250429233804.png",
+    "Pasted image 20250429233726.png",
+    "Notes/Alen Notes/Daramir as a Soul burner Character.md",
+    "9-Old Ideas/Gear/Ranged/Shortbows/Shortbow Training Overview.md",
+    "9-Old Ideas/Gear/Melee/Great Weapon/Great Sword.md",
+    "9-Old Ideas/Gear/Melee/Great Weapon/Great Weapons Training Overview.md",
+    "9-Old Ideas/Gear/Melee/Knives/0-Knives Training Overview.md",
+    "9-Old Ideas/Gear/Melee/Staves/Staves Training Overview.md",
+    "9-Old Ideas/Gear/Melee/Swords/0-Swords Training Overview.md",
+    "9-Old Ideas/Gear/Melee/Thrown/Thrown Training Overview.md",
+    "9-Old Ideas/Gear/Melee/Swords/Rapier.md",
+    "9-Old Ideas/Gear/Melee/Polearms/Polearms Training Overview.md",
+    "9-Old Ideas/Gear/Ranged/Lightcrossbows/Lightcrossbows Training Overview.md",
+    "9-Old Ideas/Gear/Ranged/Heavycrossbows/Heavycrossbows Training Overview.md",
+    "9-Old Ideas/Gear/Ranged/Longbows/Longbows Training Overview.md",
+    "9-Old Ideas/Gear/Melee/Blunt/Blunt Training Overview.md",
+    "9-Old Ideas/Gear/Melee/Axes/Axes Training Overview.md",
+    "Mace.md",
+    "1-Game Rules/Leveling/Magic Growth, Training, and Learning.md",
+    "Notes/Old Notes/Armor Notes.canvas",
     "1-Game Rules/Combat/Gear/Gear Condition.canvas",
-    "1-Game Rules/Combat/Gear/Armor/Leather Armor.md",
+    "Vibes with Fred 2-12-25.md",
     "0-GamePlay/Example MD Character Sheet.md",
-    "1-Game Rules/Combat/Damage Types.md",
-    "1-Game Rules/Items/Totems/Communication Raven Totem.md",
-    "1-Design Characters/Brandon Build 1-7-25.md",
-    "1-Design Characters/Maric the Rouge.md",
-    "9-Old Ideas/Character Creation/Classes/Rouge/-Rouge Overview.md",
-    "9-Old Ideas/Character Creation/Classes/Rouge/Surprise Attack.md",
+    "1-Design Characters/LVL 1/Fred second pass (Jaine).md",
+    "1-Design Characters/LVL 1/Maric the Rouge.md",
+    "1-Game Rules/Leveling",
+    "Notes/New Game Feel.md",
+    "1-Design Characters/LVL 1",
+    "0-Refocus",
+    "0-GamePlay/Level 1 Testing",
+    "8-Lore Stuff/Dwarves",
+    "8-Lore Stuff",
+    "1-Design Characters/More Samples",
     "1-Game Rules/Items/Totems",
     "1-Game Rules/Items",
-    "1-Design Characters/Ella the Needle Knight.md",
-    "Notes/Old Notes/Armor Notes.canvas",
     "Notes/Old Notes",
-    "9-Old Ideas/Game Systems/Materials/Ivatight  - From Ella.md",
-    "1-Game Rules/Combat/Gear/Weapons/Short sword - From Ella.md",
-    "1-Game Rules/Combat/Gear/Weapons/Rapier  - From Ella.md",
     "Notes/Old Notes/Weapon Quality.canvas",
-    "Ivatight.md",
-    "Condition.md",
-    "1-Game Rules/Combat/Gear/Foci",
-    "1-Game Rules/Combat/Gear/Charms",
-    "1-Game Rules/Combat/Gear/Weapons",
-    "1-Game Rules/Combat/Gear/Armor",
-    "1-Game Rules/Combat/Gear",
-    "1-Game Rules/Monsters",
-    "1-Game Rules/Character",
-    "Dream State.md",
-    "Dreams-of-Future.md",
-    "Dreams.md",
-    "0-.md",
-    "Kolbold Warrior.md",
     "Pasted image 20250121162409.png",
-    "Notes/Old Notes/Markus Stat Spread.md",
-    "1-Design Characters/Fred build 1-5-25.md",
-    "9-Old Ideas/Character Creation/Classes/Fighter/Attack of Opportunity.md",
-    "Notes/Old Notes/Full Plate Armor.md",
-    "Notes/Old Notes/Scale Armor.md",
-    "Notes/Old Notes/Defensive stat Idea.md",
     "z-Images/Short Sword - Spartan Lakonia Strongblade.png",
-    "z-Images/The Aftermath Environment (Leartes Studios).png",
-    "z-Images/Rapier - Jesse Belsky Stage blades.png",
-    "z-Images/Manoizy - Peter Mohrbacher.png",
-    "z-Images/Needle Knight- Asner Boi.png",
-    "z-Images/Ivatight Sword - Nuuskapeke47.png",
-    "z-Images/Dahmor - Peter Mohrbacher's Dumah.png",
-    "z-Images/Breath in Squire (Youtube).png",
-    "0-Images/Needle Knight- Asner Boi.png"
+    "z-Images/The Aftermath Environment (Leartes Studios).png"
   ]
 }

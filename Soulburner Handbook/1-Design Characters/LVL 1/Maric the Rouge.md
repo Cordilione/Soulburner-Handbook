@@ -59,7 +59,7 @@ Risky blow (Go for the legs he missed me)
 	ap Reaction
 	Tiger Engaged target misses a melee attack against you
 	Roguish flair cost: 7
-	Make a strike on that target with a +2 to hit. on a failed attack the targets attack counts as a hit.
+	Make a strike on that target with a -2 to hit. on a failed attack the targets attack counts as a hit.
 sneak attack small
 	ap 1
 	Roguish flair cost: 4
@@ -81,7 +81,6 @@ Roguish toys
 	Cherry Popper
 	Flash bang/powder
 	Smoke Bomb
-	Bolus
 
 Plotting
 	At the cost of a Short rest
