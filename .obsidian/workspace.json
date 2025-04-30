@@ -4,24 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "bf8beb16a8572609",
+        "id": "1725664000bb3f81",
         "type": "tabs",
         "children": [
           {
-            "id": "122a1be9cc8e8d63",
+            "id": "7b2335839180a524",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soulburner Handbook/1-Design Characters/Danmous Rubyhelm.md",
+                "file": "Soulburner Handbook/1-Design Characters/Maric QRS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Danmous Rubyhelm"
+
+              "title": "Maric QRS"
+            }
+          },
+          {
+            "id": "1acfff182a290bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attribute Training.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Attribute Training"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,57 +190,63 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "122a1be9cc8e8d63",
+  "active": "1acfff182a290bc1",
   "lastOpenFiles": [
-    "Soulburner Handbook/1-Game Rules/Combat/Gear/Armor/Leather Armor.md",
-    "Soulburner Handbook/1-Game Rules/Combat/Damage Types.md",
-    "Soulburner Handbook/1-Design Characters/Danmous Rubyhelm.md",
-    "Soulburner Handbook/0-GamePlay/Example MD Character Sheet.md",
-    "README.md",
-    "Skills.md",
-    "Soulburner Handbook/9-Old Ideas/Gear/Spear from Alex.md",
-    "Soulburner Handbook/weapon vibes/Short Spear.md",
-    "Soulburner Handbook/weapon vibes/Work knife.md",
-    "Soulburner Handbook/weapon vibes/Knife.md",
-    "Soulburner Handbook/weapon vibes/Stiletto.md",
-    "Soulburner Handbook/Notes/Old Notes/Weapon Quality.canvas",
-    "Soulburner Handbook/1-Design Characters/Old/Fred 2 (2.4.25).md",
-    "Soulburner Handbook/1-Design Characters/Old/Fred Layla/Clean Fred (Layla).md",
-    "Soulburner Handbook/9-Old Ideas/Gear/Traits/Versatile.md",
-    "Soulburner Handbook/weapon vibes",
-    "Halberd.md",
-    "Soulburner Handbook/Gear/Melee/Knives/Dagger - from Fred.md",
-    "Soulburner Handbook/z-Images/Pasted image 20250211120355.png",
-    "Soulburner Handbook/1-Design Characters/Old",
-    "Soulburner Handbook/1-Design Characters/Old/Fred Layla/Fred build 1-5-25.md",
-    "Soulburner Handbook/1-Design Characters/Old/Fred Layla/Fred second pass (Jaine).md",
-    "conflict-files-obsidian-git.md",
-    "Soulburner Handbook/1-Design Characters/Old/Maric the Rouge.md",
-    "Soulburner Handbook/1-Game Rules/Combat/Gear/Weapons/Rapier  - From Ella.md",
-    "Soulburner Handbook/1-Game Rules/Combat/Gear/Weapons/Short sword - From Ella.md",
-    "Soulburner Handbook/1-Game Rules/Combat/Gear/Armor",
-    "Soulburner Handbook/1-Game Rules/Items/Totems/Communication Raven Totem.md",
-    "Soulburner Handbook/1-Game Rules/Combat/Gear/Gear Condition.canvas",
-    "Soulburner Handbook/1-Game Rules/Combat/Gear/Weapons",
-    "Soulburner Handbook/1-Game Rules/Items/Totems",
-    "Soulburner Handbook/1-Game Rules/Combat/Gear",
-    "Soulburner Handbook/1-Game Rules/Items",
-    "Soulburner Handbook/1-Game Rules/Combat",
-    "Soulburner Handbook/1-Game Rules",
-    "Soulburner Handbook/Notes/Old Notes/Damage Res idea.md",
-    "Soulburner Handbook/Notes/Old Notes/Scale Armor.md",
+    "Soulburner Handbook/1-Design Characters/Maric QRS.md",
+    "Attribute Training.md",
     "Soulburner Handbook/Notes/Old Notes/Fighter Notes from Goblin Slayer.md",
+    "Soulburner Handbook/Notes/Old Notes/Damage Res idea.md",
+    "Soulburner Handbook/1-Design Characters/Fred build 1-5-25.md",
+    "Leather Armor.md",
+    "Soulburner Handbook/Notes/Old Notes/Scale Armor.md",
+    "Soulburner Handbook/1-Game Rules/Combat/Gear/Armor/Leather Armor.md",
+    "Soulburner Handbook/1-Design Characters/Brandon Build 1-7-25.md",
+    "Soulburner Handbook/1-Design Characters/Clean Fred (Layla).md",
+    "Soulburner Handbook/9-Old Ideas/Magic/Combustion Spell Base draft 2.md",
+    "Soulburner Handbook/Notes/Old Notes/Markus Stat Spread.md",
     "Soulburner Handbook/Notes/Old Notes/Armor Notes.canvas",
+    "Soulburner Handbook/Notes/Old Notes/Brandon.md",
+    "Soulburner Handbook/Notes/Old Notes/Alex.md",
+    "Soulburner Handbook/9-Old Ideas/Magic/Mana Burn.md",
+    "Soulburner Handbook/9-Old Ideas/Magic/Restoration Spell Bases/Stolen Vigor.md",
+    "Soulburner Handbook/9-Old Ideas/Magic/Personal Bases/Guarding Spirit.md",
+    "Soulburner Handbook/9-Old Ideas/Character Creation/Classes/Evocation Magic/Untitled.md",
+    "Soulburner Handbook/9-Old Ideas/Character Creation/Classes/Evocation Magic/-Evocation Overview.md",
+    "Soulburner Handbook/9-Old Ideas/Character Creation/Classes/Illusionist/-Illusionist Overview.md",
+    "Soulburner Handbook/1-Design Characters/Fred second pass (Jaine).md",
+    "Soulburner Handbook/1-Design Characters/Ella the Needle Knight.md",
+    "Soulburner Handbook/9-Old Ideas/Magic/Combustion Spell Base.md",
+    "Soulburner Handbook/Notes/Old Notes/Weapon Quality.canvas",
+    "Soulburner Handbook/Notes/Old Notes/Full Plate Armor.md",
+    "Soulburner Handbook/Notes/Old Notes/Defensive stat Idea.md",
+    "Soulburner Handbook/Gear/Melee/Swords/Rapier - From Fred.md",
     "Soulburner Handbook/Notes/Old Notes",
-    "Soulburner Handbook/z-Images/Pasted image 20250204202008.png",
+    "Soulburner Handbook/Character Creation/Classes/Alchemist",
+    "Soulburner Handbook/9-Old Ideas/Gear/Ranged/Shortbows",
+    "Soulburner Handbook/9-Old Ideas/Gear/Ranged/Longbows",
+    "Soulburner Handbook/9-Old Ideas/Gear/Ranged/Lightcrossbows",
+    "Soulburner Handbook/9-Old Ideas/Gear/Ranged/Heavycrossbows",
+    "Soulburner Handbook/9-Old Ideas/Gear/Melee/Unarmed",
+    "Soulburner Handbook/9-Old Ideas/Gear/Melee/Thrown",
+    "Soulburner Handbook/9-Old Ideas/Gear/Melee/Swords",
+    "Soulburner Handbook/9-Old Ideas/Gear/Melee/Staves",
+    "Soulburner Handbook/1-Game Rules/Combat/Gear/Gear Condition.canvas",
+    "Soulburner Handbook/Weapon Quality.canvas",
+
     "Soulburner Handbook/z-Images/The Aftermath Environment (Leartes Studios).png",
     "Soulburner Handbook/z-Images/Short Sword - Spartan Lakonia Strongblade.png",
     "Soulburner Handbook/z-Images/Rapier - Jesse Belsky Stage blades.png",
     "Soulburner Handbook/z-Images/Needle Knight- Asner Boi.png",
+
     "Soulburner Handbook/z-Images/Manoizy - Peter Mohrbacher.png",
     "Soulburner Handbook/z-Images/Ivatight Sword - Nuuskapeke47.png",
-    "Soulburner Handbook/z-Images/Dahmor - Peter Mohrbacher's Dumah.png",
     "Soulburner Handbook/z-Images/Breath in Squire (Youtube).png",
+
     "Soulburner Handbook/Weapon Quality.canvas"
+
+    "Soulburner Handbook/z-Images/Manoizy - Peter Mohrbacher.png",
+    "Soulburner Handbook/z-Images/Dahmor - Peter Mohrbacher's Dumah.png",
+    "Soulburner Handbook/0-Images/Manoizy (Peter Mohrbacher).png"
+
   ]
 }

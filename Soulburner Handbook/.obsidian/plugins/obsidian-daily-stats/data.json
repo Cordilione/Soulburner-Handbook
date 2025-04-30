@@ -1,38 +1,11 @@
 {
   "dayCounts": {
-    "2024/9/22": 0,
-    "2024/9/23": 3,
-    "2024/11/7": 498,
-    "2024/11/9": 731,
-    "2024/11/14": 123,
-    "2024/11/15": 320,
-    "2024/11/16": 270,
-    "2024/11/18": 70,
-    "2024/11/22": 23,
-    "2024/11/23": 76,
-    "2025/0/2": 939,
-    "2025/0/3": 29,
-    "2025/0/5": 0,
-    "2025/0/7": 1347,
-    "2025/0/8": 0,
-    "2025/0/12": 238,
-    "2025/0/15": 151,
-    "2025/0/18": 60,
-    "2025/0/21": 8,
-    "2025/0/29": 892
+    "2025/3/24": 262
   },
   "todaysWordCount": {
-    "0-GamePlay/Example MD Character Sheet.md": {
-      "initial": 20,
-      "current": 685
-    },
-    "1-Game Rules/Combat/Damage Types.md": {
-      "initial": 0,
-      "current": 157
-    },
-    "1-Game Rules/Items/Totems/Recon Raven Totem.md": {
+    "Notes/Alen Notes/Daramir as a Soul burner Character.md": {
       "initial": 1,
-      "current": 71
+      "current": 263
     }
   }
 }
