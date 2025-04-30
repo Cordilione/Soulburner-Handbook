@@ -16,16 +16,23 @@
     "2025/0/7": 1347,
     "2025/0/8": 0,
     "2025/0/12": 238,
-    "2025/0/15": 151
+    "2025/0/15": 151,
+    "2025/0/18": 60,
+    "2025/0/21": 8,
+    "2025/0/29": 892
   },
   "todaysWordCount": {
-    "1-Design Characters/Ella the Needle Knight.md": {
-      "initial": 828,
-      "current": 979
+    "0-GamePlay/Example MD Character Sheet.md": {
+      "initial": 20,
+      "current": 685
     },
-    "Untitled.md": {
-      "initial": 358,
-      "current": 0
+    "1-Game Rules/Combat/Damage Types.md": {
+      "initial": 0,
+      "current": 157
+    },
+    "1-Game Rules/Items/Totems/Recon Raven Totem.md": {
+      "initial": 1,
+      "current": 71
     }
   }
 }

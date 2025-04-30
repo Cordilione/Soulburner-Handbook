@@ -36,6 +36,74 @@
             }
           },
           {
+            "id": "81c8da56e1847acb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soulburner Handbook/1-Design Characters/Brandon's Second Build.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brandon's Second Build"
+            }
+          },
+          {
+            "id": "140c8ebec03a7b68",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
+            "id": "8b617377aa69c60b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soulburner Handbook/1-Design Characters/Brandon's Second Build.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brandon's Second Build"
+            }
+          },
+          {
+            "id": "48077cb93badec98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soulburner Handbook/1-Design Characters/Brandon's Second Build.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brandon's Second Build"
+            }
+          },
+          {
+            "id": "a75894eff3f80f91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soulburner Handbook/1-Design Characters/Brandon's Second Build.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brandon's Second Build"
+            }
+          },
+          {
             "id": "1daf19243805805c",
             "type": "leaf",
             "state": {
@@ -48,23 +116,9 @@
               "icon": "lucide-file",
               "title": "Brandon Build 2-1-25"
             }
-          },
-          {
-            "id": "4d28d8ec4f5a2be3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Soulburner Handbook/Character Creation/Races/Gnome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gnome"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -217,44 +271,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a20013ed62ae5f91",
+  "active": "a75894eff3f80f91",
   "lastOpenFiles": [
-    "Soulburner Handbook/1-Design Characters/Brandon Build 2-1-25.md",
-    "Soulburner Handbook/1-Design Characters/Brandon's Second Build.md",
-    "Soulburner Handbook/Gear/Armor/Light Armor/Light Armor Training Overview.md",
-    "Soulburner Handbook/Character Creation/Races/Gnome.md",
-    "Soulburner Handbook/Character Creation/Races/Voa.md",
-    "Soulburner Handbook/Character Creation/Races/Human.md",
-    "Soulburner Handbook/1-Design Characters/Maric the Rouge.md",
     "Soulburner Handbook/1-Design Characters/Fred build 1-5-25.md",
     "Soulburner Handbook/1-Design Characters/Ella the Needle Knight.md",
-    "Soulburner Handbook/Character Creation/Backgrounds/Artist.md",
-    "2025-02-05.md",
-    "README.md",
-    "Brandon Second Character",
-    "Soulburner Handbook/Character Creation/Classes/Illusionist/-Illusionist Overview.md",
-    "Soulburner Handbook/Character Creation/Classes/Fighter/-Fighter Overview.md",
-    "Soulburner Handbook/Character Creation/Classes/Fighter/Attack of Opportunity.md",
+    "Soulburner Handbook/1-Design Characters/Maric the Rouge.md",
+    "Soulburner Handbook/1-Design Characters/Fred second pass (Jaine).md",
+    "Soulburner Handbook/1-Design Characters/Clean Fred (Layla).md",
+    "Soulburner Handbook/1-Design Characters/Brandon's Second Build.md",
+    "conflict-files-obsidian-git.md",
+    "Soulburner Handbook/1-Design Characters/Brandon Build 2-1-25.md",
+    "Soulburner Handbook/Character Creation/Classes/Alchemist/-Alchemist Overview.md",
+    "Soulburner Handbook/Character Creation/Classes/Alchemist",
+    "Soulburner Handbook/1-Game Rules/Combat/Gear/Weapons/Short sword - From Ella.md",
+    "Soulburner Handbook/1-Game Rules/Combat/Gear/Weapons/Rapier  - From Ella.md",
+    "Soulburner Handbook/1-Game Rules/Combat/Gear/Armor/Leather Armor.md",
+    "Soulburner Handbook/1-Game Rules/Items/Totems/Communication Raven Totem.md",
+    "Soulburner Handbook/1-Game Rules/Combat/Gear/Weapons",
+    "Soulburner Handbook/1-Game Rules/Combat/Gear/Gear Condition.canvas",
+    "Soulburner Handbook/1-Game Rules/Combat/Gear/Armor",
+    "Soulburner Handbook/1-Game Rules/Items/Totems",
+    "Soulburner Handbook/1-Game Rules/Combat/Gear",
+    "Soulburner Handbook/1-Game Rules/Combat/Damage Types.md",
+    "Soulburner Handbook/1-Game Rules/Items",
+    "Soulburner Handbook/1-Game Rules/Combat",
+    "Soulburner Handbook/1-Game Rules",
+    "Soulburner Handbook/0-GamePlay/Example MD Character Sheet.md",
+    "Soulburner Handbook/0-GamePlay",
+    "Soulburner Handbook/Notes/Old Notes/Markus Stat Spread.md",
+    "Soulburner Handbook/Notes/Old Notes/Scale Armor.md",
+    "Soulburner Handbook/Notes/Old Notes/Weapon Quality.canvas",
+    "Soulburner Handbook/Notes/Old Notes/Full Plate Armor.md",
+    "Soulburner Handbook/Notes/Old Notes/Fighter Notes from Goblin Slayer.md",
+    "Soulburner Handbook/Notes/Old Notes/Damage Res idea.md",
+    "Soulburner Handbook/Notes/Old Notes/Defensive stat Idea.md",
+    "Soulburner Handbook/Notes/Old Notes/Brandon.md",
+    "Soulburner Handbook/Notes/Old Notes/Armor Notes.canvas",
+    "Soulburner Handbook/Notes/Old Notes/Alex.md",
+    "Soulburner Handbook/Notes/Old Notes",
+    "Soulburner Handbook/9-Old Ideas/Gear/Ranged/Shortbows/Shortbow Training Overview.md",
+    "Soulburner Handbook/9-Old Ideas/Gear/Ranged/Longbows/Longbows Training Overview.md",
+    "Soulburner Handbook/9-Old Ideas/Gear/Ranged/Lightcrossbows/Lightcrossbows Training Overview.md",
     "Soulburner Handbook/Weapon Quality.canvas",
-    "Soulburner Handbook/Notes/Fighter Notes from Goblin Slayer.md",
-    "Soulburner Handbook/Notes/Brandon.md",
-    "Soulburner Handbook/Character Creation/Backgrounds/Bounty Hunter.md",
-    "Soulburner Handbook/Writing for Ideas/Stromcoast/The Forge the Heart of a People/Nature of a Strom Forge.md",
-    "Soulburner Handbook/Writing for Ideas/The Lost Village/Set Dressing the Environment and Shit idk.md",
-    "Soulburner Handbook/Writing for Ideas/Stromcoast/The Forge the Heart of a People",
-    "Soulburner Handbook/Writing for Ideas/The Lost Village",
-    "Soulburner Handbook/Writing for Ideas/Stromcoast",
-    "Soulburner Handbook/Writing for Ideas",
-    "Soulburner Handbook/Magic/Gods/Dahmor  - From Ella.md",
-    "Soulburner Handbook/Magic/Gods",
-    "Soulburner Handbook/Gear/Traits/Versatile.md",
-    "Soulburner Handbook/Gear/Traits/Light.md",
-    "Soulburner Handbook/Gear/Traits/Finesse.md",
-    "Soulburner Handbook/Gear/Traits/Agile.md",
-    "Soulburner Handbook/Gear/Traits",
-    "Soulburner Handbook/Character Creation/Feats/General/Duel Wielding.md",
-    "Soulburner Handbook/Character Creation/Feats/General",
-    "Soulburner Handbook/Character Creation/Feats",
     "Soulburner Handbook/z-Images/The Aftermath Environment (Leartes Studios).png",
     "Soulburner Handbook/z-Images/Short Sword - Spartan Lakonia Strongblade.png",
     "Soulburner Handbook/z-Images/Needle Knight- Asner Boi.png",
@@ -263,7 +321,6 @@
     "Soulburner Handbook/z-Images/Ivatight Sword - Nuuskapeke47.png",
     "Soulburner Handbook/z-Images/Dahmor - Peter Mohrbacher's Dumah.png",
     "Soulburner Handbook/z-Images/Breath in Squire (Youtube).png",
-    "Soulburner Handbook/z-Images",
     "Soulburner Handbook/0-Images/Manoizy (Peter Mohrbacher).png"
   ]
 }

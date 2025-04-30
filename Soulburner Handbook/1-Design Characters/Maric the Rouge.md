@@ -11,7 +11,7 @@
 
 ### Attributes and Saving Throws
 **Fortitude:** +1 
-**Reflex:** +4
+**Reflex:** +6
 **Willpower:** +2
 
 **Strength:** 1
@@ -60,6 +60,10 @@ Risky blow (Go for the legs he missed me)
 	Tiger Engaged target misses a melee attack against you
 	Roguish flair cost: 7
 	Make a strike on that target with a +2 to hit. on a failed attack the targets attack counts as a hit.
+sneak attack small
+	ap 1
+	Roguish flair cost: 4
+	base weapon damage +1d4 core
 
 
 ## Abilities
@@ -105,7 +109,7 @@ Reach
 **Stats**
 Hit 1d20+1+dex
 Damage 1d4+2+dex/str P/S
-versatile
+versatile, agile, light, finesse
 
 #### Focoi/Magic tools
 Magic Lighter
