@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"4975139d54958330","type":"file","file":"Pasted image 20250429233726.png","x":-660,"y":-380,"width":400,"height":164},
-		{"id":"372241644ec02c4f","type":"file","file":"Pasted image 20250429233818.png","x":-660,"y":-140,"width":400,"height":232},
-		{"id":"9ce37120c9740a7d","type":"file","file":"Pasted image 20250429233841.png","x":-180,"y":-140,"width":400,"height":398},
-		{"id":"84fb766f3d4d4934","type":"file","file":"Pasted image 20250429233849.png","x":-660,"y":120,"width":196,"height":400},
-		{"id":"742a37c4e81c9296","type":"file","file":"Pasted image 20250429233858.png","x":-440,"y":300,"width":400,"height":372},
+		{"id":"4975139d54958330","type":"file","file":"z-Images/Screen grab Dev/Pasted image 20250429233726.png","x":-660,"y":-380,"width":400,"height":164},
+		{"id":"372241644ec02c4f","type":"file","file":"z-Images/Screen grab Dev/Pasted image 20250429233818.png","x":-660,"y":-140,"width":400,"height":232},
+		{"id":"9ce37120c9740a7d","type":"file","file":"z-Images/Screen grab Dev/Pasted image 20250429233841.png","x":-180,"y":-140,"width":400,"height":398},
+		{"id":"84fb766f3d4d4934","type":"file","file":"z-Images/Screen grab Dev/Pasted image 20250429233849.png","x":-660,"y":120,"width":196,"height":400},
+		{"id":"742a37c4e81c9296","type":"file","file":"z-Images/Screen grab Dev/Pasted image 20250429233858.png","x":-440,"y":300,"width":400,"height":372},
 		{"id":"8ae6cc304680130f","type":"text","text":"Frost Bolt\n\n2 AP\n1d6+Sou Cold, 15-60ft\nRAR\n6 Mana","x":340,"y":-140,"width":280,"height":188},
 		{"id":"0ccf379c6b52c7b3","type":"text","text":"Base Cost: 1","x":355,"y":92,"width":250,"height":60},
 		{"id":"4a113e2ea639f71e","type":"text","text":"Hit Type Cost: 0","x":355,"y":180,"width":250,"height":60},
@@ -57,7 +57,7 @@
 		{"id":"06001a95fb504a12","type":"text","text":"Is fine as Min 1","x":896,"y":861,"width":250,"height":60,"color":"3"},
 		{"id":"7f5ae05b1c91887f","type":"text","text":"DO this by adding base cost for 1d4's and 30ft","x":1351,"y":742,"width":250,"height":101},
 		{"id":"167da320d5c0ad77","type":"text","text":"Acid Drop\n\n2 AP\n1+Sou Acid, 15-20ft\nRAR\n1 Mana","x":1400,"y":898,"width":280,"height":188},
-		{"id":"62c07d90af5f27ec","type":"file","file":"Pasted image 20250429233804.png","x":-240,"y":-420,"width":400,"height":171}
+		{"id":"62c07d90af5f27ec","type":"file","file":"z-Images/Screen grab Dev/Pasted image 20250429233804.png","x":-240,"y":-420,"width":400,"height":171}
 	],
 	"edges":[
 		{"id":"0ad4249bcd585744","fromNode":"8ae6cc304680130f","fromSide":"bottom","toNode":"0ccf379c6b52c7b3","toSide":"top"},
