@@ -1,11 +1,25 @@
 {
   "dayCounts": {
-    "2025/3/24": 262
+    "2025/3/24": 262,
+    "2025/4/10": 1,
+    "2025/4/11": 41
   },
   "todaysWordCount": {
-    "Notes/Alen Notes/Daramir as a Soul burner Character.md": {
+    "1-Game Rules/Combat/Gear/Armor/Shield Ideas/Round Shield.md": {
       "initial": 1,
-      "current": 263
+      "current": 19
+    },
+    "1-Game Rules/Combat/Gear/Armor/Shield Ideas/Buckler.md": {
+      "initial": 11,
+      "current": 17
+    },
+    "1-Game Rules/Combat/Gear/Armor/Shield Ideas/Kite Shield.md": {
+      "initial": 11,
+      "current": 19
+    },
+    "1-Game Rules/Combat/Gear/Armor/Shield Ideas/Tower Shield.md": {
+      "initial": 11,
+      "current": 20
     }
   }
 }
