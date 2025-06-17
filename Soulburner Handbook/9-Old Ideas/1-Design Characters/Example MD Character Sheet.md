@@ -94,6 +94,6 @@ All actions performed to meat the direct end of this characters dream receive a 
 Character has Deathless until they meat their pact dream. When failing a mental check or dropping to or bellow 15hp you can enter a state of blind divine passion. While in this state it is impossible to fail further Mental checks and all actions are considered as in the effort of your dream and the boost of Divine Dream is upped to +2. Each turn of combat in this state cost you 3 Mana to upkeep. The state can only last as long as the current event to triggered the state. When leaving this state take a level of Exhaustion and need to perform a long rest before you can renter your state of divine passion.
 *While in this state the golden glow of Dahmor is visible in your eyes* 
 ## Gear
-[[Leather Armor]]
+[[Notes/Alex Notes/Leather Armor]]
 [[Short sword - From Ella|Short Sword]]
 [[Gear Condition.canvas|Ruined]] [[Ivatight  - From Ella|Ivatight]] [[Rapier  - From Ella|Rapier]]

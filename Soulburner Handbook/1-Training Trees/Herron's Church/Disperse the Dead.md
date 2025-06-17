@@ -1,0 +1,1 @@
+Target a fresh corpse within 60ft of you. You rend the soul fromcorpse and send its remains to the wind. The corpse can no be used as the target for other magic effects needing its soul. Some examples are Reresection, Totem Craft, and Deathweaves.

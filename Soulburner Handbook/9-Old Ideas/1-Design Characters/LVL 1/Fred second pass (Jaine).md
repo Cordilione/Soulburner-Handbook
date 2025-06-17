@@ -53,7 +53,7 @@ Merge similar foci: <><> see desc
 ## Gear
 ---
 #### Armor
-[[Clothing]]
+[[Sigaled Garb]]
 [[assessory cloak]]
 #### Weapons
 [[Dagger - from Fred | Dagger]]
