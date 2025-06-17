@@ -15,9 +15,9 @@
               "state": {
                 "file": "1-Training Trees/Herron's Church/-Herron's Church.canvas",
                 "viewState": {
-                  "x": 2435,
-                  "y": 0,
-                  "zoom": -1.9184701145034018
+                  "x": 2695.2268844882096,
+                  "y": -81.08008557307755,
+                  "zoom": -1.2518034478367353
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd44aebd31464d28",
@@ -189,15 +190,15 @@
   },
   "active": "40065828cf53833b",
   "lastOpenFiles": [
-    "1-Training Trees/Herron's Church/Words of the Saved.md",
+    "1-Training Trees/Herron's Church/Power from Loss.md",
     "1-Training Trees/Herron's Church/-Herron's Church.canvas",
+    "1-Training Trees/Herron's Church/Words of the Saved.md",
     "Word of the Passed.md",
     "1-Training Trees/Herron's Church/Magic's true Cost.md",
     "1-Training Trees/Herron's Church/A Familure Flow.md",
     "1-Training Trees/Herron's Church/Disperse the Dead.md",
     "1-Training Trees/Herron's Church/Loved Souls.md",
     "1-Training Trees/Herron's Church/True Totem Ritual.md",
-    "1-Training Trees/Herron's Church/Power from Loss.md",
     "Notes/Stat Spread.canvas",
     "1-Training Trees/Herron's Church",
     "1-Training Trees",
