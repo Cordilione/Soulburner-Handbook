@@ -1,0 +1,3 @@
+*Often mainly covering ones lower sections leaving the chest on full show for for both genders. Often uses Pelts instead of fibers*
+
+Yognarian Dress is focused less on defending or covering ones self and more as a Show peace of ones body and capabilities. With different pelts and fibers representing ones accomplishments and rolls. The wears of these clothes gain a +1 to Intimidation and Performance rolls as well as using **STR** instead of DEX as their defensive stat. 

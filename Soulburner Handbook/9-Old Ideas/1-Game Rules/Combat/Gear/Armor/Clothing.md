@@ -1,0 +1,2 @@
+*The basics of what one wears weather it is the Fibers of the eves or the attire of the plains*
+Clothing offers the basics of defense and no additional gains to the wearer. Most Adventures quickly move into something else however the truly Legendary as said to win any fight in even less.  

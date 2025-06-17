@@ -1,0 +1,1 @@
+Totems can be worth more than just their form. Often their insight or company can be enough. You can maintain communication with your totem at the mana cost of 5 for every level higher than you the totem is (Min of 5).

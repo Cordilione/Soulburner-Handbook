@@ -1,0 +1,505 @@
+{
+  "edges": [
+    {
+      "fromNode": "712875d35ed59c1e",
+      "fromSide": "left",
+      "id": "fb299e4c2799adc9",
+      "toNode": "c7a9d0be6b471337",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "712875d35ed59c1e",
+      "fromSide": "right",
+      "id": "14107c558bfc11e4",
+      "toNode": "a05dd923d4ad2d7a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4d44ef14d85cd6f0",
+      "fromSide": "right",
+      "id": "57fa4956216580ce",
+      "toNode": "bea52ee003a3a740",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4d44ef14d85cd6f0",
+      "fromSide": "bottom",
+      "id": "c9d6024a9c285a21",
+      "toNode": "3033b9ef3956895f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a05dd923d4ad2d7a",
+      "fromSide": "bottom",
+      "id": "4a89bef19b6367b2",
+      "toNode": "4d44ef14d85cd6f0",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3033b9ef3956895f",
+      "fromSide": "right",
+      "id": "46f6dc1469b1043d",
+      "toNode": "84324efd7d6b6023",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a05dd923d4ad2d7a",
+      "fromSide": "right",
+      "id": "3cbc0fe26da4b723",
+      "toNode": "9972251adf6e5315",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "01a9100725f5eec7",
+      "fromSide": "left",
+      "id": "bb5c803818bc77ba",
+      "toNode": "e4709f40cb8827e9",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "01a9100725f5eec7",
+      "fromSide": "bottom",
+      "id": "73dc4264578b81af",
+      "toNode": "6889ab2630d9499f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c7a9d0be6b471337",
+      "fromSide": "bottom",
+      "id": "3ff091b269f0b45b",
+      "toNode": "01a9100725f5eec7",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c7a9d0be6b471337",
+      "fromSide": "left",
+      "id": "f9db6e9847d3b92c",
+      "toNode": "cb39ff5d3362c422",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "6889ab2630d9499f",
+      "fromSide": "left",
+      "id": "c5832b63e8c21eba",
+      "toNode": "e62ca3161a3a3464",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "a8c4e8b3fcaa99b9",
+      "fromSide": "left",
+      "id": "ef1eb4f15af1b7ae",
+      "toNode": "20ee558ac87cbafb",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a8c4e8b3fcaa99b9",
+      "fromSide": "right",
+      "id": "913ec6d0a5b6f946",
+      "toNode": "595a4bbd234cd21b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "20ee558ac87cbafb",
+      "fromSide": "bottom",
+      "id": "fe5cc245a280ac45",
+      "toNode": "11903be3dcb9935d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "20ee558ac87cbafb",
+      "fromSide": "left",
+      "id": "8a95034a9f69d1f9",
+      "toNode": "6f81ef1f1741121e",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "3a1d030e503c7949",
+      "fromSide": "left",
+      "id": "b488de4c8ae07fd0",
+      "toNode": "3b44384bfbd681b2",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "11903be3dcb9935d",
+      "fromSide": "bottom",
+      "id": "e78fe703b2238c80",
+      "toNode": "3a1d030e503c7949",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "595a4bbd234cd21b",
+      "fromSide": "bottom",
+      "id": "5ce3c2e8384f1fe2",
+      "toNode": "955a30dfeba545fd",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "595a4bbd234cd21b",
+      "fromSide": "right",
+      "id": "221fd6ba3a0edaef",
+      "toNode": "cbfadc883f40d644",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "955a30dfeba545fd",
+      "fromSide": "bottom",
+      "id": "168023b48ef7e05e",
+      "toNode": "c90a96b0ad865b05",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "955a30dfeba545fd",
+      "fromSide": "right",
+      "id": "b8c124d21dc6c796",
+      "toNode": "8fc9cadc5a04df12",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "11903be3dcb9935d",
+      "fromSide": "left",
+      "id": "dd9205aeb88cd134",
+      "toNode": "a80ef8a624f642b5",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "c90a96b0ad865b05",
+      "fromSide": "right",
+      "id": "5b5075a86e2c659b",
+      "toNode": "d398809c0285435a",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 240,
+      "id": "0946ee81464d6a10",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 250,
+      "x": -280,
+      "y": -320
+    },
+    {
+      "height": 50,
+      "id": "712875d35ed59c1e",
+      "styleAttributes": {
+      },
+      "text": "Base",
+      "type": "text",
+      "width": 115,
+      "x": 405,
+      "y": 495
+    },
+    {
+      "height": 60,
+      "id": "e4709f40cb8827e9",
+      "styleAttributes": {
+      },
+      "text": "-2 Core Damage",
+      "type": "text",
+      "width": 250,
+      "x": -120,
+      "y": 665
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "01a9100725f5eec7",
+      "styleAttributes": {
+      },
+      "text": "Poor",
+      "type": "text",
+      "width": 250,
+      "x": 155,
+      "y": 665
+    },
+    {
+      "height": 60,
+      "id": "cb39ff5d3362c422",
+      "styleAttributes": {
+      },
+      "text": "-1 to hit",
+      "type": "text",
+      "width": 250,
+      "x": -120,
+      "y": 585
+    },
+    {
+      "height": 60,
+      "id": "e62ca3161a3a3464",
+      "styleAttributes": {
+      },
+      "text": "Subtract all Core Damage Die",
+      "type": "text",
+      "width": 250,
+      "x": -115,
+      "y": 740
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "6889ab2630d9499f",
+      "styleAttributes": {
+      },
+      "text": "Ruined",
+      "type": "text",
+      "width": 250,
+      "x": 155,
+      "y": 740
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "c7a9d0be6b471337",
+      "styleAttributes": {
+      },
+      "text": "Shabby",
+      "type": "text",
+      "width": 250,
+      "x": 155,
+      "y": 585
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "4d44ef14d85cd6f0",
+      "styleAttributes": {
+      },
+      "text": "Grand",
+      "type": "text",
+      "width": 250,
+      "x": 520,
+      "y": 660
+    },
+    {
+      "height": 60,
+      "id": "bea52ee003a3a740",
+      "styleAttributes": {
+      },
+      "text": "+2 Core Damage",
+      "type": "text",
+      "width": 250,
+      "x": 800,
+      "y": 660
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "a05dd923d4ad2d7a",
+      "styleAttributes": {
+      },
+      "text": "Fine",
+      "type": "text",
+      "width": 250,
+      "x": 520,
+      "y": 580
+    },
+    {
+      "height": 50,
+      "id": "9972251adf6e5315",
+      "styleAttributes": {
+      },
+      "text": "+1 to hit",
+      "type": "text",
+      "width": 250,
+      "x": 800,
+      "y": 585
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "3033b9ef3956895f",
+      "styleAttributes": {
+      },
+      "text": "Masterwork",
+      "type": "text",
+      "width": 250,
+      "x": 520,
+      "y": 735
+    },
+    {
+      "height": 60,
+      "id": "84324efd7d6b6023",
+      "styleAttributes": {
+      },
+      "text": "add 1 Core Damage Die",
+      "type": "text",
+      "width": 260,
+      "x": 800,
+      "y": 735
+    },
+    {
+      "height": 60,
+      "id": "007cc4082b0a4fc2",
+      "styleAttributes": {
+      },
+      "text": "Weapons",
+      "type": "text",
+      "width": 143,
+      "x": 391,
+      "y": 400
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "20ee558ac87cbafb",
+      "styleAttributes": {
+      },
+      "text": "Shabby",
+      "type": "text",
+      "width": 250,
+      "x": -1110,
+      "y": 585
+    },
+    {
+      "height": 60,
+      "id": "6f81ef1f1741121e",
+      "styleAttributes": {
+      },
+      "text": "Decrease Stat cap by 1",
+      "type": "text",
+      "width": 270,
+      "x": -1410,
+      "y": 585
+    },
+    {
+      "height": 60,
+      "id": "a80ef8a624f642b5",
+      "styleAttributes": {
+      },
+      "text": "Add 1 Physical Vul",
+      "type": "text",
+      "width": 250,
+      "x": -1400,
+      "y": 665
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "11903be3dcb9935d",
+      "styleAttributes": {
+      },
+      "text": "Poor",
+      "type": "text",
+      "width": 250,
+      "x": -1110,
+      "y": 665
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "595a4bbd234cd21b",
+      "styleAttributes": {
+      },
+      "text": "Fine",
+      "type": "text",
+      "width": 250,
+      "x": -777,
+      "y": 585
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "955a30dfeba545fd",
+      "styleAttributes": {
+      },
+      "text": "Grand",
+      "type": "text",
+      "width": 250,
+      "x": -777,
+      "y": 665
+    },
+    {
+      "height": 60,
+      "id": "cbfadc883f40d644",
+      "styleAttributes": {
+      },
+      "text": "Increase Stat cap by 1",
+      "type": "text",
+      "width": 260,
+      "x": -487,
+      "y": 585
+    },
+    {
+      "height": 60,
+      "id": "8fc9cadc5a04df12",
+      "styleAttributes": {
+      },
+      "text": "Add 1 Physical Res",
+      "type": "text",
+      "width": 250,
+      "x": -487,
+      "y": 665
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "c90a96b0ad865b05",
+      "styleAttributes": {
+      },
+      "text": "Masterwork",
+      "type": "text",
+      "width": 250,
+      "x": -777,
+      "y": 740
+    },
+    {
+      "height": 60,
+      "id": "d398809c0285435a",
+      "styleAttributes": {
+      },
+      "text": "Reduce all Wounds by 1 Level",
+      "type": "text",
+      "width": 250,
+      "x": -487,
+      "y": 740
+    },
+    {
+      "height": 60,
+      "id": "3b44384bfbd681b2",
+      "styleAttributes": {
+      },
+      "text": "AC -3",
+      "type": "text",
+      "width": 250,
+      "x": -1400,
+      "y": 740
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "3a1d030e503c7949",
+      "styleAttributes": {
+      },
+      "text": "Ruined",
+      "type": "text",
+      "width": 250,
+      "x": -1110,
+      "y": 740
+    },
+    {
+      "height": 50,
+      "id": "a8c4e8b3fcaa99b9",
+      "styleAttributes": {
+      },
+      "text": "Base",
+      "type": "text",
+      "width": 117,
+      "x": -880,
+      "y": 500
+    },
+    {
+      "height": 60,
+      "id": "3e1ca72b06ce6ab0",
+      "styleAttributes": {
+      },
+      "text": "Armors",
+      "type": "text",
+      "width": 125,
+      "x": -884,
+      "y": 400
+    }
+  ]
+}

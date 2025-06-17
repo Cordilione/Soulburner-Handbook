@@ -42,7 +42,7 @@ magic bonding for the application of a sigil to a target
 ## Gear
 ---
 #### Armor
-[[Clothing]]
+[[Sigaled Garb]]
 [[assessory cloak]]
 #### Weapons
 [[Dagger - from Fred | Dagger]]

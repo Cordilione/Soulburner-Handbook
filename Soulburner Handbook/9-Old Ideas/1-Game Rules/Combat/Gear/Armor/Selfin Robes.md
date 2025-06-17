@@ -1,0 +1,1 @@
+Robes made from a fibber only acquired through trade with the Elves. Selfin is known for its exceptional strength for a fiber however it comes at the cost of its flammability. The Material catches flame quickly and burns fast. This clothing gives 1 ac however any Fire Damage will reduce the armors quality by 1. 

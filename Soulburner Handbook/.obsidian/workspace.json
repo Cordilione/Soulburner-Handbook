@@ -8,36 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19132094754328dd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "z-Images/Screen grab Dev/Pasted image 20250429233726.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250429233726"
-            }
-          },
-          {
             "id": "40065828cf53833b",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Notes/Alen Notes/Elemental Projectiles.canvas",
+                "file": "1-Training Trees/Herron's Church/-Herron's Church.canvas",
                 "viewState": {
-                  "x": -1022.8234175313511,
-                  "y": 636.3514343659614,
-                  "zoom": -0.3333333333333332
+                  "x": 2695.2268844882096,
+                  "y": -81.08008557307755,
+                  "zoom": -1.2518034478367353
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Elemental Projectiles"
+              "title": "-Herron's Church"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd44aebd31464d28",
@@ -202,56 +190,60 @@
   },
   "active": "40065828cf53833b",
   "lastOpenFiles": [
-    "1-Design Characters/Example MD Character Sheet.md",
-    "1-Design Characters/Maric QRS.md",
-    "1-Design Characters/Danmous Rubyhelm.md",
-    "Notes/Alen Notes/Daramir as a Soul burner Character.md",
+    "1-Training Trees/Herron's Church/Power from Loss.md",
+    "1-Training Trees/Herron's Church/-Herron's Church.canvas",
+    "1-Training Trees/Herron's Church/Words of the Saved.md",
+    "Word of the Passed.md",
+    "1-Training Trees/Herron's Church/Magic's true Cost.md",
+    "1-Training Trees/Herron's Church/A Familure Flow.md",
+    "1-Training Trees/Herron's Church/Disperse the Dead.md",
+    "1-Training Trees/Herron's Church/Loved Souls.md",
+    "1-Training Trees/Herron's Church/True Totem Ritual.md",
+    "Notes/Stat Spread.canvas",
+    "1-Training Trees/Herron's Church",
+    "1-Training Trees",
+    "z-Images/Mock Stats/as.sav",
+    "9-Old Ideas/1-Design Characters/Level 1 Testing/Clean Alex.md",
+    "Mock Stats.md",
+    "z-Images/Mock Stats/Screenshot 2025-06-04 140116.png",
+    "z-Images/Mock Stats/Screenshot 2025-06-04 135951.png",
+    "z-Images/Mock Stats",
+    "9-Old Ideas/1-Game Rules/Character/Trainings/Aramid Church/Aramid.canvas",
     "Notes/Alen Notes/Elemental Projectiles.canvas",
-    "Notes/Alex Notes/Attribute Training.md",
-    "Notes/Alex Notes/Skills.md",
-    "Notes/Alex Notes/New Game Feel.md",
-    "Notes/Alex Notes/Leather Armor.md",
-    "Notes/Skills.md",
-    "Notes/Leather Armor.md",
-    "Notes/Attribute Training.md",
-    "Notes/Alex Notes",
-    "Notes/New folder",
-    "Leather Armor.md",
-    "Attribute Training.md",
-    "Skills.md",
-    "z-Images/Screen grab Dev/Pasted image 20250429233726.png",
-    "conflict-files-obsidian-git.md",
+    "Notes/Alen Notes/Untitled.canvas",
+    "z-Images/The Aftermath Environment (Leartes Studios).png",
+    "z-Images/Short Sword - Spartan Lakonia Strongblade.png",
+    "z-Images/Rapier - Jesse Belsky Stage blades.png",
+    "z-Images/Path Armor Table - Nethys.png",
     "z-Images/Pasted image 20250211120355.png",
     "z-Images/Pasted image 20250204202008.png",
-    "weapon vibes/Work knife.md",
-    "weapon vibes/Stiletto.md",
-    "weapon vibes/Short Spear.md",
-    "weapon vibes/Knife.md",
-    "weapon vibes",
-    "1-Design Characters/Old/Fred Layla/Fred build 1-5-25.md",
-    "1-Design Characters/Old/Fred Layla/Fred second pass (Jaine).md",
-    "1-Design Characters/Old/Fred Layla/Clean Fred (Layla).md",
-    "1-Design Characters/Old/Maric the Rouge.md",
-    "1-Design Characters/Old/Fred Layla",
-    "1-Design Characters/Old/Fred 2 (2.4.25).md",
-    "1-Design Characters/Old/Brandon Build 1-7-25.md",
-    "1-Design Characters/Old/Ella the Needle Knight.md",
-    "1-Design Characters/Old",
-    "z-Images/Screen grab Dev",
-    "z-Images/Screen grab Dev/Pasted image 20250429233804.png",
-    "Notes/Elemental Projectiles.canvas",
-    "z-Images/Screen grab Dev/Pasted image 20250429233858.png",
-    "z-Images/Screen grab Dev/Pasted image 20250429233849.png",
-    "z-Images/Screen grab Dev/Pasted image 20250429233841.png",
-    "z-Images/Screen grab Dev/Pasted image 20250429233831.png",
-    "z-Images/Screen grab Dev/Pasted image 20250429233818.png",
+    "z-Images/Needle Knight- Asner Boi.png",
+    "z-Images/Dahmor - Peter Mohrbacher's Dumah.png",
+    "Swashbuckler.canvas",
+    "9-Old Ideas/1-Game Rules/Character/Trainings/Aramid Church",
+    "9-Old Ideas/1-Game Rules/Character/Trainings",
+    "9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Yognarian Dress.md",
+    "9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Armor and Shields.canvas",
+    "9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Selfin Robes.md",
+    "9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Selfin & Gryphon Gambeson.md",
+    "9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Fur Armor.md",
+    "9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Gambesons.md",
+    "9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Padded.md",
+    "9-Old Ideas/1-Game Rules/Combat/Gear/Gear Condition.canvas",
+    "9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Clothing.md",
+    "9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Fine Clothing.md",
+    "9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Forest Marching Set.md",
+    "9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Explorer's Clothing.md",
+    "9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Sigaled Garb.md",
+    "9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Round Shield Post Talk.md",
+    "9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Kite Shield Post Talk.md",
+    "9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Tower Shield Post Talk.md",
+    "9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Buckler Post Talk.md",
+    "9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas",
     "Notes/Old Notes/Armor Notes.canvas",
-    "1-Game Rules/Combat/Gear/Gear Condition.canvas",
-    "1-Game Rules/Leveling",
-    "1-Design Characters/LVL 1",
-    "0-Refocus",
-    "1-Design Characters/Level 1 Testing",
     "Notes/Old Notes/Weapon Quality.canvas",
-    "Pasted image 20250121162409.png"
+    "Notes/Alex Notes",
+    "Notes/New folder",
+    "weapon vibes"
   ]
 }

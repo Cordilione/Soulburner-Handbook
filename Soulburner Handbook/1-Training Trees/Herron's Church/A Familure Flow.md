@@ -1,0 +1,1 @@
+Continuous Spells have a similar nature to a dyeing souls. This similarity allow you try and break its shape. You can spend 1 AP and up to 20 Mana to try and break a Continuous spell being maintained around you. The Caster must spend the same amount or have the spell break.
