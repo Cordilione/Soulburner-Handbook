@@ -1,0 +1,1 @@
+Padded Armors are wildly soft armors made from a range of materials in a range of styles. Harder protective parts of the armor are common ranging from gauntlets to boots. The main use for these armors are the use of softer material and their often cheaper costs.

@@ -1,0 +1,1 @@
+The most common style of Padded armor. Made of simple fabrics and stuffing materials. Gambesons offer additional bludgeoning  resistant over other forms of Padded armors giving those in it a resistance of 1.
