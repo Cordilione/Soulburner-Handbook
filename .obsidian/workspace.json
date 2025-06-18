@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "56ec7b5423b70151",
+        "id": "2da93abc65a206d7",
         "type": "tabs",
         "children": [
           {
-            "id": "50bd236144d95669",
+            "id": "7dc70197be379af0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Soulburner Handbook/Notes/Alen Notes/Elemental Projectiles.canvas",
-                "viewState": {
-                  "x": 26.317257653123875,
-                  "y": 74.62093103380761,
-                  "zoom": -1.407235407511869
-                }
+                "file": "Soulburner Handbook/1-Training Trees/Herron's Church/A Familure Flow.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Elemental Projectiles"
+              "icon": "lucide-file",
+              "title": "A Familure Flow"
             }
           }
         ]
@@ -182,14 +179,60 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50bd236144d95669",
+  "active": "7dc70197be379af0",
   "lastOpenFiles": [
-    "Soulburner Handbook/Notes/Alen Notes/Daramir as a Soul burner Character.md",
-    "Soulburner Handbook/Notes/Alex Notes/New Game Feel.md",
-    "Soulburner Handbook/Notes/Alex Notes/Leather Armor.md",
-    "Soulburner Handbook/Notes/Alex Notes/Attribute Training.md",
+    "Soulburner Handbook/1-Training Trees/Herron's Church/-Herron's Church.canvas",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Character/Trainings/Aramid Church/Aramid.canvas",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Armor and Shields.canvas",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Gear Condition.canvas",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Items/Totems/Communication Raven Totem.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Leveling/Magic Growth, Training, and Learning.md",
+    "Soulburner Handbook/9-Old Ideas/Character Creation/Classes/Illusionist/-Illusionist Overview.md",
+    "Soulburner Handbook/9-Old Ideas/Character Creation/Classes/Manoizy's Pack/-Manoizy's Pack Overview.md",
+    "Soulburner Handbook/9-Old Ideas/Character Creation/Classes/Manoizy's Pack/Communion with Manoizy.md",
+    "Soulburner Handbook/9-Old Ideas/Character Creation/Classes/Manoizy's Pack/Numbing Madness.md",
+    "Soulburner Handbook/9-Old Ideas/Magic/Combustion Spell Base draft 2.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Buckler.md",
+    "Soulburner Handbook/9-Old Ideas/1-Design Characters/Level 1 Testing/Clean Alex.md",
+    "Soulburner Handbook/z-Images/The Aftermath Environment (Leartes Studios).png",
+    "Soulburner Handbook/z-Images/Path Armor Table - Nethys.png",
+    "Soulburner Handbook/z-Images/Mock Stats/Screenshot 2025-06-04 140116.png",
+    "Soulburner Handbook/z-Images/Mock Stats/Screenshot 2025-06-04 135951.png",
+    "Soulburner Handbook/z-Images/Mock Stats",
+    "Soulburner Handbook/z-Images/DND Armor Table - roll 20.png",
+    "Soulburner Handbook/Notes/Stat Spread.canvas",
+    "Soulburner Handbook/Notes/Old Notes/Breastplate.md",
+    "Soulburner Handbook/Notes/Alen Notes/Untitled.canvas",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Tower Shield.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Tower Shield Post Talk.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Sigaled Garb.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Round Shield Post Talk.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Round Shield.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Kite Shield.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Kite Shield Post Talk.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Explorer's Clothing.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Buckler Post Talk.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Weapons/Short sword - From Ella.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Weapons/Rapier  - From Ella.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Yognarian Dress.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Selfin Robes.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Selfin & Gryphon Gambeson.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Padded.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Weapons",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Character/Trainings/Aramid Church",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Items/Totems",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Character/Trainings",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Leveling",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Items",
     "Soulburner Handbook/Notes/Alen Notes/Elemental Projectiles.canvas",
-    "Soulburner Handbook/1-Design Characters/Maric QRS.md",
-    "Soulburner Handbook/1-Design Characters/Danmous Rubyhelm.md"
+    "Soulburner Handbook/Notes/Old Notes/Weapon Quality.canvas",
+    "Soulburner Handbook/z-Images/Short Sword - Spartan Lakonia Strongblade.png",
+    "Soulburner Handbook/z-Images/Rapier - Jesse Belsky Stage blades.png",
+    "Soulburner Handbook/z-Images/Pasted image 20250204202008.png",
+    "Soulburner Handbook/z-Images/Ivatight Sword - Nuuskapeke47.png",
+    "Soulburner Handbook/z-Images/Manoizy - Peter Mohrbacher.png"
   ]
 }
