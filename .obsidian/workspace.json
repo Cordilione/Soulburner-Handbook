@@ -33,6 +33,7 @@
                 "source": false
               },
               "icon": "lucide-file",
+
               "title": "Attribute Training"
             }
           }
@@ -178,6 +179,7 @@
     ],
     "direction": "horizontal",
     "width": 200
+
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,6 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
+
   "active": "1acfff182a290bc1",
   "lastOpenFiles": [
     "Soulburner Handbook/1-Design Characters/Maric QRS.md",
@@ -233,6 +236,7 @@
     "Soulburner Handbook/1-Game Rules/Combat/Gear/Gear Condition.canvas",
     "Soulburner Handbook/Weapon Quality.canvas",
 
+
     "Soulburner Handbook/z-Images/The Aftermath Environment (Leartes Studios).png",
     "Soulburner Handbook/z-Images/Short Sword - Spartan Lakonia Strongblade.png",
     "Soulburner Handbook/z-Images/Rapier - Jesse Belsky Stage blades.png",
@@ -242,10 +246,12 @@
     "Soulburner Handbook/z-Images/Ivatight Sword - Nuuskapeke47.png",
     "Soulburner Handbook/z-Images/Breath in Squire (Youtube).png",
 
+
     "Soulburner Handbook/Weapon Quality.canvas"
 
     "Soulburner Handbook/z-Images/Manoizy - Peter Mohrbacher.png",
     "Soulburner Handbook/z-Images/Dahmor - Peter Mohrbacher's Dumah.png",
+
     "Soulburner Handbook/0-Images/Manoizy (Peter Mohrbacher).png"
 
   ]
