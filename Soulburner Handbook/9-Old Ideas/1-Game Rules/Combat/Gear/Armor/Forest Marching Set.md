@@ -1,0 +1,2 @@
+*A set of Spiked Boots and leather gloves set this style of explorer's gear apart from the rest*
+The wearer is able to climb 5 * their **STR** ft up trees without needing a safety or athletics check. In addition Damage from thorns, sharp rocks, and similar effects is ignored.

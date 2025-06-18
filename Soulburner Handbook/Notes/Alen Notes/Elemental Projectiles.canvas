@@ -1,1197 +1,1697 @@
 {
-	"edges":[
-		{"fromNode":"8ae6cc304680130f","fromSide":"bottom","id":"0ad4249bcd585744","toNode":"0ccf379c6b52c7b3","toSide":"top"},
-		{"fromNode":"0ccf379c6b52c7b3","fromSide":"bottom","id":"ab184b4b52007b81","toNode":"4a113e2ea639f71e","toSide":"top"},
-		{"fromNode":"4a113e2ea639f71e","fromSide":"bottom","id":"8f659ced0dfb2f38","toNode":"e008f1495c8bfb0e","toSide":"top"},
-		{"fromNode":"e008f1495c8bfb0e","fromSide":"bottom","id":"d833ab3d31a48f2f","toNode":"9dc03ea86903f273","toSide":"top"},
-		{"fromNode":"9dc03ea86903f273","fromSide":"bottom","id":"fe870d544e420c5c","toNode":"804f4dc131c9e38f","toSide":"top"},
-		{"fromNode":"804f4dc131c9e38f","fromSide":"bottom","id":"a1229ad73b5cc2eb","toNode":"dff0553b190f8039","toSide":"top"},
-		{"fromNode":"dff0553b190f8039","fromSide":"bottom","id":"a46f6750f30ee7ee","toNode":"537937812feaf715","toSide":"top"},
-		{"fromNode":"c2f02b13a6ebc9a7","fromSide":"bottom","id":"32302bc3502cf6fa","toNode":"a2b9587dd4904c61","toSide":"top"},
-		{"fromNode":"a2b9587dd4904c61","fromSide":"bottom","id":"d82e8e3677d88579","toNode":"eabceb55cf9259a0","toSide":"top"},
-		{"fromNode":"eabceb55cf9259a0","fromSide":"bottom","id":"4ed63ac3b2fc2046","toNode":"4f9989b977831ba7","toSide":"top"},
-		{"fromNode":"4f9989b977831ba7","fromSide":"bottom","id":"0906768b0d6c6ce4","toNode":"73b60b875f57e10f","toSide":"top"},
-		{"fromNode":"73b60b875f57e10f","fromSide":"bottom","id":"2d8244ad5e08299c","toNode":"782828bc492c0d49","toSide":"top"},
-		{"fromNode":"782828bc492c0d49","fromSide":"bottom","id":"92fcae0581993286","toNode":"d263968b3ff61b4d","toSide":"top"},
-		{"fromNode":"5816f6915ba6d2b4","fromSide":"bottom","id":"ec359e5ac8957bd3","toNode":"c2f02b13a6ebc9a7","toSide":"top"},
-		{"fromNode":"d3f70591d192067b","fromSide":"bottom","id":"49fa3ffbebf7a29a","toNode":"2877bc0113f8d1b5","toSide":"top"},
-		{"fromNode":"ae12cd6ff39da867","fromSide":"bottom","id":"d523cbe3df55ad0b","toNode":"d3f70591d192067b","toSide":"top"},
-		{"fromNode":"2877bc0113f8d1b5","fromSide":"bottom","id":"098d595fd82775e0","toNode":"e46a593615148210","toSide":"top"},
-		{"fromNode":"e46a593615148210","fromSide":"bottom","id":"69ee1cf8694289ee","toNode":"5830a6aa34857a85","toSide":"top"},
-		{"fromNode":"5830a6aa34857a85","fromSide":"bottom","id":"36489b646acdb229","toNode":"f1bc75b15fb25937","toSide":"top"},
-		{"fromNode":"f1bc75b15fb25937","fromSide":"bottom","id":"2282709722e615b5","toNode":"6b3893023296d45d","toSide":"top"},
-		{"fromNode":"7a6e7c7326b29702","fromSide":"bottom","id":"96832fe1fc628117","toNode":"ae12cd6ff39da867","toSide":"top"},
-		{"color":"3","fromNode":"5830a6aa34857a85","fromSide":"left","id":"3d51a3be62a3ba68","toNode":"238fb5d3771de4b1","toSide":"top"},
-		{"fromNode":"fa1501ef297b70e1","fromSide":"bottom","id":"ca4c8459ddf978ed","toNode":"62e3eaea2b377a68","toSide":"top"},
-		{"fromNode":"62e3eaea2b377a68","fromSide":"bottom","id":"36250ad0a9d6f612","toNode":"c06b8a52d4c04f2e","toSide":"top"},
-		{"fromNode":"c06b8a52d4c04f2e","fromSide":"bottom","id":"c8ef155edd280481","toNode":"59d281f2c16443cb","toSide":"top"},
-		{"fromNode":"59d281f2c16443cb","fromSide":"bottom","id":"bdd8870584f16310","toNode":"fdd5892b3420b2a4","toSide":"top"},
-		{"fromNode":"fdd5892b3420b2a4","fromSide":"bottom","id":"e17cb4c42a8287ce","toNode":"59d6708669381f12","toSide":"top"},
-		{"fromNode":"59d6708669381f12","fromSide":"bottom","id":"8b26e0798310e4a0","toNode":"c90626d4d866ce3f","toSide":"top"},
-		{"fromNode":"c90626d4d866ce3f","fromSide":"bottom","id":"986aeef38a92f882","toNode":"c4f072eb3094e93a","toSide":"top"},
-		{"color":"3","fromNode":"59d281f2c16443cb","fromSide":"left","id":"7fd8e566180174cc","toNode":"2e372f2ec9e789a0","toSide":"top"},
-		{"fromNode":"18ed6e35ed433cd8","fromSide":"bottom","id":"d5f474196a8f4b24","toNode":"70daecd7574ab6e4","toSide":"top"},
-		{"fromNode":"70daecd7574ab6e4","fromSide":"bottom","id":"a430b7e8f2c864e5","toNode":"71da4c7f3c6c7bc0","toSide":"top"},
-		{"fromNode":"71da4c7f3c6c7bc0","fromSide":"bottom","id":"f27c808fe9b76b12","toNode":"89673c0b49f5d003","toSide":"top"},
-		{"fromNode":"89673c0b49f5d003","fromSide":"bottom","id":"b2e46de7b680116a","toNode":"9f2cd6f27445ed89","toSide":"top"},
-		{"fromNode":"9f2cd6f27445ed89","fromSide":"bottom","id":"3b6d54e117ee0f49","toNode":"ea6ae5f57f0a6ccc","toSide":"top"},
-		{"fromNode":"ea6ae5f57f0a6ccc","fromSide":"bottom","id":"d2d9c29d775b9f2f","toNode":"32bad77750eab4b8","toSide":"top"},
-		{"fromNode":"32bad77750eab4b8","fromSide":"bottom","id":"e05b40142f41fa55","toNode":"9e7b1d19bd34634c","toSide":"top"},
-		{"color":"3","fromNode":"782828bc492c0d49","fromSide":"left","id":"0adffae3beae89c2","toNode":"e26b2294b5a2bcc1","toSide":"top"},
-		{"color":"3","fromNode":"18ed6e35ed433cd8","fromSide":"right","id":"20a9905ff94aaf04","toNode":"cec6253f1bb4225a","toSide":"left"},
-		{"color":"3","fromNode":"18ed6e35ed433cd8","fromSide":"right","id":"750239366dca1f33","toNode":"06001a95fb504a12","toSide":"left"},
-		{"fromNode":"cec6253f1bb4225a","fromSide":"right","id":"4fd9af575bf7efd3","toNode":"7f5ae05b1c91887f","toSide":"left"},
-		{"fromNode":"cec6253f1bb4225a","fromSide":"right","id":"e6c41794e0122a79","label":"New Min 1","toNode":"167da320d5c0ad77","toSide":"left"},
-		{
-			"fromNode":"06527923d1f54746",
-			"fromSide":"bottom",
-			"id":"ce5731efef650b09",
-			"styleAttributes":{},
-			"toNode":"c9d28f76358cefd8",
-			"toSide":"top"
-		},
-		{
-			"fromNode":"467d3441d1d99887",
-			"fromSide":"bottom",
-			"id":"fb4be4f5eaf77028",
-			"styleAttributes":{},
-			"toNode":"06527923d1f54746",
-			"toSide":"top"
-		},
-		{
-			"fromNode":"c9d28f76358cefd8",
-			"fromSide":"bottom",
-			"id":"2d9a276b0d322356",
-			"styleAttributes":{},
-			"toNode":"dc4576913fb1b06b",
-			"toSide":"top"
-		},
-		{
-			"fromNode":"06527923d1f54746",
-			"fromSide":"right",
-			"id":"fafc6740366a3c2c",
-			"styleAttributes":{},
-			"toNode":"01d74d2728ee282e",
-			"toSide":"left"
-		},
-		{
-			"fromNode":"01d74d2728ee282e",
-			"fromSide":"right",
-			"id":"c626a9e5e1a54e91",
-			"styleAttributes":{},
-			"toNode":"82ea064376f66ab7",
-			"toSide":"left"
-		},
-		{
-			"fromNode":"c9d28f76358cefd8",
-			"fromSide":"right",
-			"id":"98cf6a7ba23e1779",
-			"styleAttributes":{},
-			"toNode":"d08fc7f074349b04",
-			"toSide":"left"
-		},
-		{
-			"fromNode":"d08fc7f074349b04",
-			"fromSide":"right",
-			"id":"4701f0e7c522bfec",
-			"styleAttributes":{},
-			"toNode":"dcbf78ba8a3cfe03",
-			"toSide":"left"
-		},
-		{
-			"fromNode":"dc4576913fb1b06b",
-			"fromSide":"right",
-			"id":"ef4fb8d668053e6b",
-			"styleAttributes":{},
-			"toNode":"4c79af6c901343f5",
-			"toSide":"left"
-		},
-		{
-			"fromNode":"4c79af6c901343f5",
-			"fromSide":"right",
-			"id":"8d7c25031038270d",
-			"styleAttributes":{},
-			"toNode":"3b99179d5258fd6c",
-			"toSide":"left"
-		},
-		{
-			"fromNode":"4c79af6c901343f5",
-			"fromSide":"left",
-			"id":"8eb651c9b6119a5c",
-			"styleAttributes":{},
-			"toNode":"dc4576913fb1b06b",
-			"toSide":"right"
-		},
-		{
-			"fromNode":"dc4576913fb1b06b",
-			"fromSide":"top",
-			"id":"0465ecb668a9ffb2",
-			"styleAttributes":{},
-			"toNode":"c9d28f76358cefd8",
-			"toSide":"bottom"
-		},
-		{
-			"fromNode":"c9d28f76358cefd8",
-			"fromSide":"top",
-			"id":"dc4332d6680046f8",
-			"styleAttributes":{},
-			"toNode":"06527923d1f54746",
-			"toSide":"bottom"
-		},
-		{
-			"fromNode":"d08fc7f074349b04",
-			"fromSide":"left",
-			"id":"46db68b5e9965993",
-			"styleAttributes":{},
-			"toNode":"c9d28f76358cefd8",
-			"toSide":"right"
-		},
-		{
-			"fromNode":"01d74d2728ee282e",
-			"fromSide":"left",
-			"id":"c04a245d12529f84",
-			"styleAttributes":{},
-			"toNode":"06527923d1f54746",
-			"toSide":"right"
-		},
-		{
-			"fromNode":"82ea064376f66ab7",
-			"fromSide":"left",
-			"id":"5aa20265236b235c",
-			"styleAttributes":{},
-			"toNode":"01d74d2728ee282e",
-			"toSide":"right"
-		},
-		{
-			"fromNode":"dcbf78ba8a3cfe03",
-			"fromSide":"left",
-			"id":"33d5b4e4929d5485",
-			"styleAttributes":{},
-			"toNode":"d08fc7f074349b04",
-			"toSide":"right"
-		},
-		{
-			"fromNode":"3b99179d5258fd6c",
-			"fromSide":"left",
-			"id":"7572fb97298984d8",
-			"styleAttributes":{},
-			"toNode":"4c79af6c901343f5",
-			"toSide":"right"
-		},
-		{
-			"fromNode":"68d928a8e07ce09e",
-			"fromSide":"bottom",
-			"id":"45b4e5b59acd2e53",
-			"styleAttributes":{},
-			"toNode":"da304667f67accaa",
-			"toSide":"top"
-		},
-		{
-			"fromNode":"da304667f67accaa",
-			"fromSide":"bottom",
-			"id":"73392553e9eb9288",
-			"styleAttributes":{},
-			"toNode":"9c9132e69db8588d",
-			"toSide":"top"
-		},
-		{
-			"fromNode":"9c9132e69db8588d",
-			"fromSide":"bottom",
-			"id":"dbb2169f57fd523e",
-			"styleAttributes":{},
-			"toNode":"53d2549fae65f28c",
-			"toSide":"top"
-		},
-		{
-			"fromNode":"da304667f67accaa",
-			"fromSide":"top",
-			"id":"39075a40f35bf62f",
-			"styleAttributes":{},
-			"toNode":"68d928a8e07ce09e",
-			"toSide":"bottom"
-		},
-		{
-			"fromNode":"9c9132e69db8588d",
-			"fromSide":"top",
-			"id":"e8d0593dba99a70b",
-			"styleAttributes":{},
-			"toNode":"da304667f67accaa",
-			"toSide":"bottom"
-		},
-		{
-			"fromNode":"53d2549fae65f28c",
-			"fromSide":"top",
-			"id":"9b59dcf5f74d5e8c",
-			"styleAttributes":{},
-			"toNode":"9c9132e69db8588d",
-			"toSide":"bottom"
-		},
-		{
-			"fromNode":"42c55ce50c6378f6",
-			"fromSide":"bottom",
-			"id":"1649ec92f5ffbded",
-			"styleAttributes":{},
-			"toNode":"c53cfef9a8acdd57",
-			"toSide":"top"
-		},
-		{
-			"fromNode":"c53cfef9a8acdd57",
-			"fromSide":"top",
-			"id":"e1e164a127057b06",
-			"styleAttributes":{},
-			"toNode":"42c55ce50c6378f6",
-			"toSide":"bottom"
-		},
-		{
-			"fromNode":"0eb9a5aaee60fc4f",
-			"fromSide":"bottom",
-			"id":"a38f822e8dadd669",
-			"styleAttributes":{},
-			"toNode":"039dcd4326767e8c",
-			"toSide":"top"
-		},
-		{
-			"fromNode":"039dcd4326767e8c",
-			"fromSide":"top",
-			"id":"be573bfcaf1c68ab",
-			"styleAttributes":{},
-			"toNode":"0eb9a5aaee60fc4f",
-			"toSide":"bottom"
-		},
-		{
-			"fromNode":"11965148eeb8b6ed",
-			"fromSide":"right",
-			"id":"fc9de7b6a8cad000",
-			"styleAttributes":{},
-			"toNode":"4b9f717ebea8f9ad",
-			"toSide":"left"
-		}
-	],
-	"nodes":[
-		{"height":1928,"id":"af1f26c349c7f608","label":"Exsample Spells","type":"group","width":2320,"x":-400,"y":-840},
-		{"height":960,"id":"6122904f469fae25","label":"Screen Grabs","type":"group","width":1120,"x":-1720,"y":-1040},
-		{"color":"3","height":300,"id":"3ac0e21c149b55ec","label":"Multiple Projectile Cost","type":"group","width":970,"x":-1400,"y":60},
-		{"height":450,"id":"068496956b42e347","label":"Damage Dice","type":"group","width":590,"x":-1020,"y":480},
-		{"height":210,"id":"f9886c5083e8f5c6","label":"Action Costs","type":"group","width":560,"x":-1600,"y":840},
-		{"color":"3","height":190,"id":"87bd27ecb8e276c9","label":"Hit Types","type":"group","width":558,"x":-1880,"y":360},
-		{"height":190,"id":"b370c963b6fc2a39","label":"Damage Types","type":"group","width":510,"x":-1820,"y":600},
-		{"height":200,"id":"02ff7c35b84f4d13","label":"Idea 2","type":"group","width":480,"x":-935,"y":110},
-		{"height":200,"id":"9be78246ed5eca34","label":"Idea 1","type":"group","width":420,"x":-1371,"y":110},
-		{
-			"height":340,
-			"id":"b69695563fe5730b",
-			"label":"Range",
-			"styleAttributes":{
-				"border":null
-			},
-			"type":"group",
-			"width":240,
-			"x":-1280,
-			"y":480
-		},
-		{
-			"file":"z-Images/Screen grab Dev/Pasted image 20250429233726.png",
-			"height":164,
-			"id":"4975139d54958330",
-			"styleAttributes":{},
-			"type":"file",
-			"width":400,
-			"x":-1680,
-			"y":-550
-		},
-		{
-			"file":"z-Images/Screen grab Dev/Pasted image 20250429233804.png",
-			"height":171,
-			"id":"62c07d90af5f27ec",
-			"styleAttributes":{},
-			"type":"file",
-			"width":400,
-			"x":-1680,
-			"y":-285
-		},
-		{
-			"file":"z-Images/Screen grab Dev/Pasted image 20250429233858.png",
-			"height":372,
-			"id":"742a37c4e81c9296",
-			"styleAttributes":{},
-			"type":"file",
-			"width":400,
-			"x":-1440,
-			"y":-1006
-		},
-		{
-			"file":"z-Images/Screen grab Dev/Pasted image 20250429233841.png",
-			"height":398,
-			"id":"9ce37120c9740a7d",
-			"styleAttributes":{},
-			"type":"file",
-			"width":400,
-			"x":-1240,
-			"y":-598
-		},
-		{
-			"file":"z-Images/Screen grab Dev/Pasted image 20250429233818.png",
-			"height":232,
-			"id":"372241644ec02c4f",
-			"styleAttributes":{},
-			"type":"file",
-			"width":400,
-			"x":-1040,
-			"y":-956
-		},
-		{
-			"height":60,
-			"id":"70daecd7574ab6e4",
-			"styleAttributes":{},
-			"text":"Base Cost: 1",
-			"type":"text",
-			"width":250,
-			"x":-337,
-			"y":369
-		},
-		{
-			"height":60,
-			"id":"71da4c7f3c6c7bc0",
-			"styleAttributes":{},
-			"text":"Hit Type Cost: 0",
-			"type":"text",
-			"width":250,
-			"x":-337,
-			"y":457
-		},
-		{
-			"height":60,
-			"id":"89673c0b49f5d003",
-			"styleAttributes":{},
-			"text":"Damage Die Cost: 0",
-			"type":"text",
-			"width":250,
-			"x":-337,
-			"y":547
-		},
-		{
-			"height":77,
-			"id":"3162fd72a028f15b",
-			"styleAttributes":{},
-			"text":"Craft Total: 1 Mana",
-			"type":"text",
-			"width":180,
-			"x":-52,
-			"y":320
-		},
-		{
-			"height":60,
-			"id":"9f2cd6f27445ed89",
-			"styleAttributes":{},
-			"text":"Range: 0",
-			"type":"text",
-			"width":250,
-			"x":-337,
-			"y":637
-		},
-		{
-			"height":56,
-			"id":"ea6ae5f57f0a6ccc",
-			"styleAttributes":{},
-			"text":"Multi Projectile Cost: 0",
-			"type":"text",
-			"width":265,
-			"x":-344,
-			"y":735
-		},
-		{
-			"height":60,
-			"id":"32bad77750eab4b8",
-			"styleAttributes":{},
-			"text":"Damage Type Cost: 0",
-			"type":"text",
-			"width":250,
-			"x":-336,
-			"y":817
-		},
-		{
-			"height":60,
-			"id":"9e7b1d19bd34634c",
-			"styleAttributes":{},
-			"text":"Action Cost: 0",
-			"type":"text",
-			"width":250,
-			"x":-337,
-			"y":897
-		},
-		{
-			"height":60,
-			"id":"537937812feaf715",
-			"styleAttributes":{},
-			"text":"Action Cost: 0",
-			"type":"text",
-			"width":250,
-			"x":-345,
-			"y":-3
-		},
-		{
-			"color":"3",
-			"height":60,
-			"id":"e26b2294b5a2bcc1",
-			"styleAttributes":{},
-			"text":"Type cost should be check",
-			"type":"text",
-			"width":250,
-			"x":-72,
-			"y":8
-		},
-		{
-			"height":60,
-			"id":"d263968b3ff61b4d",
-			"styleAttributes":{},
-			"text":"Action Cost: 0",
-			"type":"text",
-			"width":250,
-			"x":195,
-			"y":8
-		},
-		{
-			"color":"3",
-			"height":188,
-			"id":"18ed6e35ed433cd8",
-			"styleAttributes":{},
-			"text":"Acid Drop\n\n2 AP\n1d4+Sou Acid, 15-30ft\nRAR\n1 Mana",
-			"type":"text",
-			"width":280,
-			"x":-352,
-			"y":137
-		},
-		{
-			"height":60,
-			"id":"f1bc75b15fb25937",
-			"styleAttributes":{},
-			"text":"Damage Type Cost: 0",
-			"type":"text",
-			"width":250,
-			"x":776,
-			"y":-72
-		},
-		{
-			"height":60,
-			"id":"6b3893023296d45d",
-			"styleAttributes":{},
-			"text":"Action Cost: 0",
-			"type":"text",
-			"width":250,
-			"x":775,
-			"y":8
-		},
-		{
-			"height":101,
-			"id":"7f5ae05b1c91887f",
-			"styleAttributes":{},
-			"text":"DO this by adding base cost for 1d4's and 30ft",
-			"type":"text",
-			"width":250,
-			"x":651,
-			"y":119
-		},
-		{
-			"height":188,
-			"id":"167da320d5c0ad77",
-			"styleAttributes":{},
-			"text":"Acid Drop\n\n2 AP\n1+Sou Acid, 15-20ft\nRAR\n1 Mana",
-			"type":"text",
-			"width":280,
-			"x":700,
-			"y":275
-		},
-		{
-			"height":60,
-			"id":"782828bc492c0d49",
-			"styleAttributes":{},
-			"text":"Damage Type Cost: 0",
-			"type":"text",
-			"width":250,
-			"x":196,
-			"y":-72
-		},
-		{
-			"color":"3",
-			"height":60,
-			"id":"06001a95fb504a12",
-			"styleAttributes":{},
-			"text":"Is fine as Min 1",
-			"type":"text",
-			"width":250,
-			"x":196,
-			"y":238
-		},
-		{
-			"color":"3",
-			"height":60,
-			"id":"cec6253f1bb4225a",
-			"styleAttributes":{},
-			"text":"SHould be moved to MIn 3 ",
-			"type":"text",
-			"width":250,
-			"x":204,
-			"y":119
-		},
-		{
-			"color":"3",
-			"height":110,
-			"id":"238fb5d3771de4b1",
-			"styleAttributes":{},
-			"text":"Cost comes from: a Damage die based cost",
-			"type":"text",
-			"width":250,
-			"x":510,
-			"y":-72
-		},
-		{
-			"height":188,
-			"id":"8ae6cc304680130f",
-			"styleAttributes":{},
-			"text":"Frost Bolt\n\n2 AP\n1d6+Sou Cold, 15-60ft\nRAR\n6 Mana",
-			"type":"text",
-			"width":280,
-			"x":-360,
-			"y":-763
-		},
-		{
-			"height":188,
-			"id":"5816f6915ba6d2b4",
-			"styleAttributes":{},
-			"text":"Fire Bolt\n\n2 AP\n1d6+Sou Fire, 15-60ft\nRAR\n5 Mana",
-			"type":"text",
-			"width":280,
-			"x":180,
-			"y":-752
-		},
-		{
-			"height":77,
-			"id":"fc0b6ffa6650e182",
-			"styleAttributes":{},
-			"text":"Craft Total: 7 Mana",
-			"type":"text",
-			"width":180,
-			"x":-60,
-			"y":-580
-		},
-		{
-			"height":60,
-			"id":"c2f02b13a6ebc9a7",
-			"styleAttributes":{},
-			"text":"Base Cost: 1",
-			"type":"text",
-			"width":250,
-			"x":195,
-			"y":-520
-		},
-		{
-			"height":60,
-			"id":"a2b9587dd4904c61",
-			"styleAttributes":{},
-			"text":"Hit Type Cost: 0",
-			"type":"text",
-			"width":250,
-			"x":195,
-			"y":-432
-		},
-		{
-			"height":56,
-			"id":"804f4dc131c9e38f",
-			"styleAttributes":{},
-			"text":"Multi Projectile Cost: 0",
-			"type":"text",
-			"width":265,
-			"x":-352,
-			"y":-165
-		},
-		{
-			"height":60,
-			"id":"0ccf379c6b52c7b3",
-			"styleAttributes":{},
-			"text":"Base Cost: 1",
-			"type":"text",
-			"width":250,
-			"x":-345,
-			"y":-531
-		},
-		{
-			"height":60,
-			"id":"4a113e2ea639f71e",
-			"styleAttributes":{},
-			"text":"Hit Type Cost: 0",
-			"type":"text",
-			"width":250,
-			"x":-345,
-			"y":-443
-		},
-		{
-			"height":60,
-			"id":"d3f70591d192067b",
-			"styleAttributes":{},
-			"text":"Hit Type Cost: 0",
-			"type":"text",
-			"width":250,
-			"x":775,
-			"y":-432
-		},
-		{
-			"height":60,
-			"id":"2877bc0113f8d1b5",
-			"styleAttributes":{},
-			"text":"Damage Die Cost: 6",
-			"type":"text",
-			"width":250,
-			"x":775,
-			"y":-342
-		},
-		{
-			"height":77,
-			"id":"66d5d275766fdcbc",
-			"styleAttributes":{},
-			"text":"Craft Total: 25 Mana",
-			"type":"text",
-			"width":180,
-			"x":1060,
-			"y":-575
-		},
-		{
-			"color":"3",
-			"height":60,
-			"id":"2e372f2ec9e789a0",
-			"styleAttributes":{},
-			"text":"Might be to low as 1d10 is max solo die",
-			"type":"text",
-			"width":250,
-			"x":1080,
-			"y":-252
-		},
-		{
-			"height":188,
-			"id":"fa1501ef297b70e1",
-			"styleAttributes":{},
-			"text":"Frozen Return\n\nReaction on enemy cast\n2d6+Sou Cold, 15-60ft\nSave\n20 Mana",
-			"type":"text",
-			"width":280,
-			"x":1380,
-			"y":-780
-		},
-		{
-			"height":60,
-			"id":"e46a593615148210",
-			"styleAttributes":{},
-			"text":"Range: 2 Mana",
-			"type":"text",
-			"width":250,
-			"x":775,
-			"y":-252
-		},
-		{
-			"height":60,
-			"id":"ae12cd6ff39da867",
-			"styleAttributes":{},
-			"text":"Base Cost: 1",
-			"type":"text",
-			"width":250,
-			"x":775,
-			"y":-520
-		},
-		{
-			"height":77,
-			"id":"79b6c5ed3c1a3d2f",
-			"styleAttributes":{},
-			"text":"Craft Total: 6 Mana",
-			"type":"text",
-			"width":180,
-			"x":480,
-			"y":-575
-		},
-		{
-			"height":199,
-			"id":"7a6e7c7326b29702",
-			"styleAttributes":{},
-			"text":"Scorching Ray\n\n2 AP\n3x(1d8+Sou Fire), 15-60ft\nRAR\n20 Mana",
-			"type":"text",
-			"width":300,
-			"x":750,
-			"y":-763
-		},
-		{
-			"color":"3",
-			"height":56,
-			"id":"5830a6aa34857a85",
-			"styleAttributes":{},
-			"text":"Multi Projectile Cost: 16",
-			"type":"text",
-			"width":265,
-			"x":768,
-			"y":-154
-		},
-		{
-			"height":60,
-			"id":"c4f072eb3094e93a",
-			"styleAttributes":{},
-			"text":"Action Cost: 7",
-			"type":"text",
-			"width":250,
-			"x":1395,
-			"y":-20
-		},
-		{
-			"height":56,
-			"id":"59d6708669381f12",
-			"styleAttributes":{},
-			"text":"Multi Projectile Cost: 0",
-			"type":"text",
-			"width":265,
-			"x":1388,
-			"y":-182
-		},
-		{
-			"height":60,
-			"id":"62e3eaea2b377a68",
-			"styleAttributes":{},
-			"text":"Base Cost: 1",
-			"type":"text",
-			"width":250,
-			"x":1395,
-			"y":-548
-		},
-		{
-			"height":60,
-			"id":"c06b8a52d4c04f2e",
-			"styleAttributes":{},
-			"text":"Hit Type Cost: 5",
-			"type":"text",
-			"width":250,
-			"x":1395,
-			"y":-460
-		},
-		{
-			"height":77,
-			"id":"ca8ee9f4ed8b591c",
-			"styleAttributes":{},
-			"text":"Craft Total: 25 Mana",
-			"type":"text",
-			"width":180,
-			"x":1680,
-			"y":-597
-		},
-		{
-			"height":60,
-			"id":"59d281f2c16443cb",
-			"styleAttributes":{},
-			"text":"Damage Die Cost: 9",
-			"type":"text",
-			"width":250,
-			"x":1395,
-			"y":-370
-		},
-		{
-			"height":60,
-			"id":"fdd5892b3420b2a4",
-			"styleAttributes":{},
-			"text":"Range: 2 Mana",
-			"type":"text",
-			"width":250,
-			"x":1395,
-			"y":-280
-		},
-		{
-			"height":56,
-			"id":"73b60b875f57e10f",
-			"styleAttributes":{},
-			"text":"Multi Projectile Cost: 0",
-			"type":"text",
-			"width":265,
-			"x":188,
-			"y":-154
-		},
-		{
-			"height":60,
-			"id":"eabceb55cf9259a0",
-			"styleAttributes":{},
-			"text":"Damage Die Cost: 3",
-			"type":"text",
-			"width":250,
-			"x":195,
-			"y":-342
-		},
-		{
-			"height":60,
-			"id":"4f9989b977831ba7",
-			"styleAttributes":{},
-			"text":"Range: 2 Mana",
-			"type":"text",
-			"width":250,
-			"x":195,
-			"y":-252
-		},
-		{
-			"height":60,
-			"id":"c90626d4d866ce3f",
-			"styleAttributes":{},
-			"text":"Damage Type Cost: 1",
-			"type":"text",
-			"width":250,
-			"x":1396,
-			"y":-100
-		},
-		{
-			"height":60,
-			"id":"e008f1495c8bfb0e",
-			"styleAttributes":{},
-			"text":"Damage Die Cost: 3",
-			"type":"text",
-			"width":250,
-			"x":-345,
-			"y":-353
-		},
-		{
-			"height":60,
-			"id":"9dc03ea86903f273",
-			"styleAttributes":{},
-			"text":"Range: 2 Mana",
-			"type":"text",
-			"width":250,
-			"x":-345,
-			"y":-263
-		},
-		{
-			"height":60,
-			"id":"dff0553b190f8039",
-			"styleAttributes":{},
-			"text":"Damage Type Cost: 1",
-			"type":"text",
-			"width":250,
-			"x":-344,
-			"y":-83
-		},
-		{
-			"height":60,
-			"id":"06527923d1f54746",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"1d6 -- Cost 3",
-			"type":"text",
-			"width":160,
-			"x":-1000,
-			"y":680
-		},
-		{
-			"height":60,
-			"id":"01d74d2728ee282e",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"2d4 -- Cost ??",
-			"type":"text",
-			"width":160,
-			"x":-820,
-			"y":680
-		},
-		{
-			"height":60,
-			"id":"c9d28f76358cefd8",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"1d8 -- Cost 6",
-			"type":"text",
-			"width":160,
-			"x":-1000,
-			"y":760
-		},
-		{
-			"height":60,
-			"id":"dc4576913fb1b06b",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"1d10-- Cost ??",
-			"type":"text",
-			"width":160,
-			"x":-1000,
-			"y":840
-		},
-		{
-			"height":60,
-			"id":"d08fc7f074349b04",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"2d6 -- Cost 9",
-			"type":"text",
-			"width":160,
-			"x":-820,
-			"y":760
-		},
-		{
-			"height":60,
-			"id":"4c79af6c901343f5",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"2d8 -- Cost ??",
-			"type":"text",
-			"width":160,
-			"x":-820,
-			"y":840
-		},
-		{
-			"color":"#ac9173",
-			"height":60,
-			"id":"3a7ff6412de5a29e",
-			"styleAttributes":{},
-			"text":"Arrows only Training Req",
-			"type":"text",
-			"width":280,
-			"x":-1000,
-			"y":500
-		},
-		{
-			"color":"#e5bf94",
-			"height":110,
-			"id":"dc39c6d5b76e0cf7",
-			"styleAttributes":{},
-			"text":"Cost is Mana Cost on spell NOT NUMBER OF TRAINNGS NEEDED",
-			"type":"text",
-			"width":240,
-			"x":-700,
-			"y":505
-		},
-		{
-			"height":60,
-			"id":"467d3441d1d99887",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"1d4 -- Cost 0",
-			"type":"text",
-			"width":160,
-			"x":-1000,
-			"y":600
-		},
-		{
-			"height":60,
-			"id":"82ea064376f66ab7",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"3d4 -- Cost ??",
-			"type":"text",
-			"width":160,
-			"x":-640,
-			"y":680
-		},
-		{
-			"height":60,
-			"id":"dcbf78ba8a3cfe03",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"3d6 -- Cost ??",
-			"type":"text",
-			"width":160,
-			"x":-640,
-			"y":760
-		},
-		{
-			"height":60,
-			"id":"3b99179d5258fd6c",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"3d8 -- Cost ??",
-			"type":"text",
-			"width":160,
-			"x":-640,
-			"y":840
-		},
-		{
-			"file":"z-Images/Screen grab Dev/Pasted image 20250429233849.png",
-			"height":400,
-			"id":"84fb766f3d4d4934",
-			"styleAttributes":{},
-			"type":"file",
-			"width":196,
-			"x":-1676,
-			"y":-1006
-		},
-		{
-			"height":60,
-			"id":"53d2549fae65f28c",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"120ft Max -- Cost ??",
-			"type":"text",
-			"width":200,
-			"x":-1260,
-			"y":740
-		},
-		{
-			"height":60,
-			"id":"9c9132e69db8588d",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"90ft Max -- Cost ??",
-			"type":"text",
-			"width":200,
-			"x":-1260,
-			"y":660
-		},
-		{
-			"height":60,
-			"id":"da304667f67accaa",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"60ft Max -- Cost 2",
-			"type":"text",
-			"width":200,
-			"x":-1260,
-			"y":580
-		},
-		{
-			"height":60,
-			"id":"68d928a8e07ce09e",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"30ft Max -- Cost 0",
-			"type":"text",
-			"width":200,
-			"x":-1260,
-			"y":500
-		},
-		{
-			"height":60,
-			"id":"178ccbffaa912659",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"Lightning Damage -- Cost 1",
-			"type":"text",
-			"width":235,
-			"x":-1800,
-			"y":700
-		},
-		{
-			"height":60,
-			"id":"4f75b84d0443385a",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"Fire Damage -- Cost 0",
-			"type":"text",
-			"width":235,
-			"x":-1800,
-			"y":630
-		},
-		{
-			"height":60,
-			"id":"29534e1222b6cddc",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"Acid Damage -- Cost 0",
-			"type":"text",
-			"width":235,
-			"x":-1557,
-			"y":630
-		},
-		{
-			"height":60,
-			"id":"523b8f8bea9a1b44",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"Cold Damage -- Cost 1",
-			"type":"text",
-			"width":235,
-			"x":-1557,
-			"y":700
-		},
-		{
-			"height":60,
-			"id":"0eb9a5aaee60fc4f",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"2 AP -- Cost 0",
-			"type":"text",
-			"width":175,
-			"x":-1590,
-			"y":870
-		},
-		{
-			"height":60,
-			"id":"42c55ce50c6378f6",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"Reaction to Melee Hit -- Cost ??",
-			"type":"text",
-			"width":350,
-			"x":-1400,
-			"y":870
-		},
-		{
-			"height":60,
-			"id":"039dcd4326767e8c",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"3 AP -- Cost - ??",
-			"type":"text",
-			"width":175,
-			"x":-1590,
-			"y":970
-		},
-		{
-			"height":60,
-			"id":"c53cfef9a8acdd57",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"Reaction to Spell cast in 60ft -- Cost 7",
-			"type":"text",
-			"width":350,
-			"x":-1400,
-			"y":970
-		},
-		{
-			"height":90,
-			"id":"d22aae80afae9a6d",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"text":"Pay per Dice of the projectile but has a ramping cost past 2 projectiles",
-			"type":"text",
-			"width":380,
-			"x":-915,
-			"y":130
-		},
-		{
-			"height":60,
-			"id":"51119607acf4a25b",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"Ranged Attack Roll -- Cost 0",
-			"type":"text",
-			"width":260,
-			"x":-1867,
-			"y":390
-		},
-		{
-			"color":"#ffea00",
-			"height":120,
-			"id":"4b9f717ebea8f9ad",
-			"styleAttributes":{},
-			"text":"Could be DC or Challenge but is basically the not AC spell hit",
-			"type":"text",
-			"width":200,
-			"x":-1557,
-			"y":390
-		},
-		{
-			"height":60,
-			"id":"11965148eeb8b6ed",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"Spell Save -- Cost 5?",
-			"type":"text",
-			"width":260,
-			"x":-1867,
-			"y":475
-		},
-		{
-			"height":60,
-			"id":"a556738618f85555",
-			"styleAttributes":{},
-			"text":"Each projectile past the second adds 2 Mana Cost",
-			"type":"text",
-			"width":300,
-			"x":-915,
-			"y":230
-		},
-		{
-			"height":90,
-			"id":"26d4bd298e83a4a1",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"text":"A cost set per die the projectile uses at a flat rate with no cost ramp",
-			"type":"text",
-			"width":380,
-			"x":-1357,
-			"y":130
-		},
-		{
-			"height":60,
-			"id":"06c3b8dbd1fab16c",
-			"styleAttributes":{"textAlign":"center"},
-			"text":"1d8 -- Cost 8 per Projectile",
-			"type":"text",
-			"width":260,
-			"x":-1357,
-			"y":230
-		}
-	]
+  "edges": [
+    {
+      "fromNode": "8ae6cc304680130f",
+      "fromSide": "bottom",
+      "id": "0ad4249bcd585744",
+      "toNode": "0ccf379c6b52c7b3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0ccf379c6b52c7b3",
+      "fromSide": "bottom",
+      "id": "ab184b4b52007b81",
+      "toNode": "4a113e2ea639f71e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4a113e2ea639f71e",
+      "fromSide": "bottom",
+      "id": "8f659ced0dfb2f38",
+      "toNode": "e008f1495c8bfb0e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e008f1495c8bfb0e",
+      "fromSide": "bottom",
+      "id": "d833ab3d31a48f2f",
+      "toNode": "9dc03ea86903f273",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9dc03ea86903f273",
+      "fromSide": "bottom",
+      "id": "fe870d544e420c5c",
+      "toNode": "804f4dc131c9e38f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "804f4dc131c9e38f",
+      "fromSide": "bottom",
+      "id": "a1229ad73b5cc2eb",
+      "toNode": "dff0553b190f8039",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "dff0553b190f8039",
+      "fromSide": "bottom",
+      "id": "a46f6750f30ee7ee",
+      "toNode": "537937812feaf715",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c2f02b13a6ebc9a7",
+      "fromSide": "bottom",
+      "id": "32302bc3502cf6fa",
+      "toNode": "a2b9587dd4904c61",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a2b9587dd4904c61",
+      "fromSide": "bottom",
+      "id": "d82e8e3677d88579",
+      "toNode": "eabceb55cf9259a0",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "eabceb55cf9259a0",
+      "fromSide": "bottom",
+      "id": "4ed63ac3b2fc2046",
+      "toNode": "4f9989b977831ba7",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4f9989b977831ba7",
+      "fromSide": "bottom",
+      "id": "0906768b0d6c6ce4",
+      "toNode": "73b60b875f57e10f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "73b60b875f57e10f",
+      "fromSide": "bottom",
+      "id": "2d8244ad5e08299c",
+      "toNode": "782828bc492c0d49",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "782828bc492c0d49",
+      "fromSide": "bottom",
+      "id": "92fcae0581993286",
+      "toNode": "d263968b3ff61b4d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5816f6915ba6d2b4",
+      "fromSide": "bottom",
+      "id": "ec359e5ac8957bd3",
+      "toNode": "c2f02b13a6ebc9a7",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d3f70591d192067b",
+      "fromSide": "bottom",
+      "id": "49fa3ffbebf7a29a",
+      "toNode": "2877bc0113f8d1b5",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "ae12cd6ff39da867",
+      "fromSide": "bottom",
+      "id": "d523cbe3df55ad0b",
+      "toNode": "d3f70591d192067b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2877bc0113f8d1b5",
+      "fromSide": "bottom",
+      "id": "098d595fd82775e0",
+      "toNode": "e46a593615148210",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e46a593615148210",
+      "fromSide": "bottom",
+      "id": "69ee1cf8694289ee",
+      "toNode": "5830a6aa34857a85",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5830a6aa34857a85",
+      "fromSide": "bottom",
+      "id": "36489b646acdb229",
+      "toNode": "f1bc75b15fb25937",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f1bc75b15fb25937",
+      "fromSide": "bottom",
+      "id": "2282709722e615b5",
+      "toNode": "6b3893023296d45d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "7a6e7c7326b29702",
+      "fromSide": "bottom",
+      "id": "96832fe1fc628117",
+      "toNode": "ae12cd6ff39da867",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "5830a6aa34857a85",
+      "fromSide": "left",
+      "id": "3d51a3be62a3ba68",
+      "toNode": "238fb5d3771de4b1",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "fa1501ef297b70e1",
+      "fromSide": "bottom",
+      "id": "ca4c8459ddf978ed",
+      "toNode": "62e3eaea2b377a68",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "62e3eaea2b377a68",
+      "fromSide": "bottom",
+      "id": "36250ad0a9d6f612",
+      "toNode": "c06b8a52d4c04f2e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c06b8a52d4c04f2e",
+      "fromSide": "bottom",
+      "id": "c8ef155edd280481",
+      "toNode": "59d281f2c16443cb",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "59d281f2c16443cb",
+      "fromSide": "bottom",
+      "id": "bdd8870584f16310",
+      "toNode": "fdd5892b3420b2a4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "fdd5892b3420b2a4",
+      "fromSide": "bottom",
+      "id": "e17cb4c42a8287ce",
+      "toNode": "59d6708669381f12",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "59d6708669381f12",
+      "fromSide": "bottom",
+      "id": "8b26e0798310e4a0",
+      "toNode": "c90626d4d866ce3f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c90626d4d866ce3f",
+      "fromSide": "bottom",
+      "id": "986aeef38a92f882",
+      "toNode": "c4f072eb3094e93a",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "59d281f2c16443cb",
+      "fromSide": "left",
+      "id": "7fd8e566180174cc",
+      "toNode": "2e372f2ec9e789a0",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "18ed6e35ed433cd8",
+      "fromSide": "bottom",
+      "id": "d5f474196a8f4b24",
+      "toNode": "70daecd7574ab6e4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "70daecd7574ab6e4",
+      "fromSide": "bottom",
+      "id": "a430b7e8f2c864e5",
+      "toNode": "71da4c7f3c6c7bc0",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "71da4c7f3c6c7bc0",
+      "fromSide": "bottom",
+      "id": "f27c808fe9b76b12",
+      "toNode": "89673c0b49f5d003",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "89673c0b49f5d003",
+      "fromSide": "bottom",
+      "id": "b2e46de7b680116a",
+      "toNode": "9f2cd6f27445ed89",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9f2cd6f27445ed89",
+      "fromSide": "bottom",
+      "id": "3b6d54e117ee0f49",
+      "toNode": "ea6ae5f57f0a6ccc",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "ea6ae5f57f0a6ccc",
+      "fromSide": "bottom",
+      "id": "d2d9c29d775b9f2f",
+      "toNode": "32bad77750eab4b8",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "32bad77750eab4b8",
+      "fromSide": "bottom",
+      "id": "e05b40142f41fa55",
+      "toNode": "9e7b1d19bd34634c",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "782828bc492c0d49",
+      "fromSide": "left",
+      "id": "0adffae3beae89c2",
+      "toNode": "e26b2294b5a2bcc1",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "18ed6e35ed433cd8",
+      "fromSide": "right",
+      "id": "20a9905ff94aaf04",
+      "toNode": "cec6253f1bb4225a",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromNode": "18ed6e35ed433cd8",
+      "fromSide": "right",
+      "id": "750239366dca1f33",
+      "toNode": "06001a95fb504a12",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "cec6253f1bb4225a",
+      "fromSide": "right",
+      "id": "4fd9af575bf7efd3",
+      "toNode": "7f5ae05b1c91887f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "cec6253f1bb4225a",
+      "fromSide": "right",
+      "id": "e6c41794e0122a79",
+      "label": "New Min 1",
+      "toNode": "167da320d5c0ad77",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "06527923d1f54746",
+      "fromSide": "bottom",
+      "id": "ce5731efef650b09",
+      "styleAttributes": {
+      },
+      "toNode": "c9d28f76358cefd8",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "467d3441d1d99887",
+      "fromSide": "bottom",
+      "id": "fb4be4f5eaf77028",
+      "styleAttributes": {
+      },
+      "toNode": "06527923d1f54746",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c9d28f76358cefd8",
+      "fromSide": "bottom",
+      "id": "2d9a276b0d322356",
+      "styleAttributes": {
+      },
+      "toNode": "dc4576913fb1b06b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "06527923d1f54746",
+      "fromSide": "right",
+      "id": "fafc6740366a3c2c",
+      "styleAttributes": {
+      },
+      "toNode": "01d74d2728ee282e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "01d74d2728ee282e",
+      "fromSide": "right",
+      "id": "c626a9e5e1a54e91",
+      "styleAttributes": {
+      },
+      "toNode": "82ea064376f66ab7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c9d28f76358cefd8",
+      "fromSide": "right",
+      "id": "98cf6a7ba23e1779",
+      "styleAttributes": {
+      },
+      "toNode": "d08fc7f074349b04",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d08fc7f074349b04",
+      "fromSide": "right",
+      "id": "4701f0e7c522bfec",
+      "styleAttributes": {
+      },
+      "toNode": "dcbf78ba8a3cfe03",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "dc4576913fb1b06b",
+      "fromSide": "right",
+      "id": "ef4fb8d668053e6b",
+      "styleAttributes": {
+      },
+      "toNode": "4c79af6c901343f5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4c79af6c901343f5",
+      "fromSide": "right",
+      "id": "8d7c25031038270d",
+      "styleAttributes": {
+      },
+      "toNode": "3b99179d5258fd6c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4c79af6c901343f5",
+      "fromSide": "left",
+      "id": "8eb651c9b6119a5c",
+      "styleAttributes": {
+      },
+      "toNode": "dc4576913fb1b06b",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "dc4576913fb1b06b",
+      "fromSide": "top",
+      "id": "0465ecb668a9ffb2",
+      "styleAttributes": {
+      },
+      "toNode": "c9d28f76358cefd8",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "c9d28f76358cefd8",
+      "fromSide": "top",
+      "id": "dc4332d6680046f8",
+      "styleAttributes": {
+      },
+      "toNode": "06527923d1f54746",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "d08fc7f074349b04",
+      "fromSide": "left",
+      "id": "46db68b5e9965993",
+      "styleAttributes": {
+      },
+      "toNode": "c9d28f76358cefd8",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "01d74d2728ee282e",
+      "fromSide": "left",
+      "id": "c04a245d12529f84",
+      "styleAttributes": {
+      },
+      "toNode": "06527923d1f54746",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "82ea064376f66ab7",
+      "fromSide": "left",
+      "id": "5aa20265236b235c",
+      "styleAttributes": {
+      },
+      "toNode": "01d74d2728ee282e",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "dcbf78ba8a3cfe03",
+      "fromSide": "left",
+      "id": "33d5b4e4929d5485",
+      "styleAttributes": {
+      },
+      "toNode": "d08fc7f074349b04",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "3b99179d5258fd6c",
+      "fromSide": "left",
+      "id": "7572fb97298984d8",
+      "styleAttributes": {
+      },
+      "toNode": "4c79af6c901343f5",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "68d928a8e07ce09e",
+      "fromSide": "bottom",
+      "id": "45b4e5b59acd2e53",
+      "styleAttributes": {
+      },
+      "toNode": "da304667f67accaa",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "da304667f67accaa",
+      "fromSide": "bottom",
+      "id": "73392553e9eb9288",
+      "styleAttributes": {
+      },
+      "toNode": "9c9132e69db8588d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9c9132e69db8588d",
+      "fromSide": "bottom",
+      "id": "dbb2169f57fd523e",
+      "styleAttributes": {
+      },
+      "toNode": "53d2549fae65f28c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "da304667f67accaa",
+      "fromSide": "top",
+      "id": "39075a40f35bf62f",
+      "styleAttributes": {
+      },
+      "toNode": "68d928a8e07ce09e",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "9c9132e69db8588d",
+      "fromSide": "top",
+      "id": "e8d0593dba99a70b",
+      "styleAttributes": {
+      },
+      "toNode": "da304667f67accaa",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "53d2549fae65f28c",
+      "fromSide": "top",
+      "id": "9b59dcf5f74d5e8c",
+      "styleAttributes": {
+      },
+      "toNode": "9c9132e69db8588d",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "42c55ce50c6378f6",
+      "fromSide": "bottom",
+      "id": "1649ec92f5ffbded",
+      "styleAttributes": {
+      },
+      "toNode": "c53cfef9a8acdd57",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c53cfef9a8acdd57",
+      "fromSide": "top",
+      "id": "e1e164a127057b06",
+      "styleAttributes": {
+      },
+      "toNode": "42c55ce50c6378f6",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "0eb9a5aaee60fc4f",
+      "fromSide": "bottom",
+      "id": "a38f822e8dadd669",
+      "styleAttributes": {
+      },
+      "toNode": "039dcd4326767e8c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "039dcd4326767e8c",
+      "fromSide": "top",
+      "id": "be573bfcaf1c68ab",
+      "styleAttributes": {
+      },
+      "toNode": "0eb9a5aaee60fc4f",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "11965148eeb8b6ed",
+      "fromSide": "right",
+      "id": "fc9de7b6a8cad000",
+      "styleAttributes": {
+      },
+      "toNode": "4b9f717ebea8f9ad",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 1888,
+      "id": "af1f26c349c7f608",
+      "label": "Exsample Spells",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2320,
+      "x": -400,
+      "y": -800
+    },
+    {
+      "height": 1145,
+      "id": "8ded89cbe3071f20",
+      "label": "Mana Burn",
+      "type": "group",
+      "width": 1360,
+      "x": -3360,
+      "y": -440
+    },
+    {
+      "height": 960,
+      "id": "6122904f469fae25",
+      "label": "Screen Grabs",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1120,
+      "x": -1720,
+      "y": -1040
+    },
+    {
+      "color": "3",
+      "height": 300,
+      "id": "3ac0e21c149b55ec",
+      "label": "Multiple Projectile Cost",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 970,
+      "x": -1400,
+      "y": 60
+    },
+    {
+      "height": 450,
+      "id": "068496956b42e347",
+      "label": "Damage Dice",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 590,
+      "x": -1020,
+      "y": 480
+    },
+    {
+      "height": 210,
+      "id": "f9886c5083e8f5c6",
+      "label": "Action Costs",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 560,
+      "x": -1600,
+      "y": 840
+    },
+    {
+      "color": "3",
+      "height": 190,
+      "id": "87bd27ecb8e276c9",
+      "label": "Hit Types",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 558,
+      "x": -1880,
+      "y": 360
+    },
+    {
+      "height": 190,
+      "id": "b370c963b6fc2a39",
+      "label": "Damage Types",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 510,
+      "x": -1820,
+      "y": 600
+    },
+    {
+      "height": 200,
+      "id": "02ff7c35b84f4d13",
+      "isCollapsed": true,
+      "label": "Idea 2",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 480,
+      "x": -935,
+      "y": 110
+    },
+    {
+      "height": 90,
+      "id": "d22aae80afae9a6d",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "Pay per Dice of the projectile but has a ramping cost past 2 projectiles",
+      "type": "text",
+      "width": 380,
+      "x": -915,
+      "y": 130
+    },
+    {
+      "height": 60,
+      "id": "a556738618f85555",
+      "styleAttributes": {
+      },
+      "text": "Each projectile past the second adds 2 Mana Cost",
+      "type": "text",
+      "width": 300,
+      "x": -915,
+      "y": 230
+    },
+    {
+      "height": 200,
+      "id": "9be78246ed5eca34",
+      "label": "Idea 1",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 420,
+      "x": -1371,
+      "y": 110
+    },
+    {
+      "height": 340,
+      "id": "b69695563fe5730b",
+      "label": "Range",
+      "styleAttributes": {
+        "border": null
+      },
+      "type": "group",
+      "width": 240,
+      "x": -1280,
+      "y": 480
+    },
+    {
+      "height": 60,
+      "id": "70daecd7574ab6e4",
+      "styleAttributes": {
+      },
+      "text": "Base Cost: 1",
+      "type": "text",
+      "width": 250,
+      "x": -337,
+      "y": 369
+    },
+    {
+      "height": 60,
+      "id": "71da4c7f3c6c7bc0",
+      "styleAttributes": {
+      },
+      "text": "Hit Type Cost: 0",
+      "type": "text",
+      "width": 250,
+      "x": -337,
+      "y": 457
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "e26b2294b5a2bcc1",
+      "styleAttributes": {
+      },
+      "text": "Type cost should be check",
+      "type": "text",
+      "width": 250,
+      "x": -72,
+      "y": 8
+    },
+    {
+      "height": 60,
+      "id": "d263968b3ff61b4d",
+      "styleAttributes": {
+      },
+      "text": "Action Cost: 0",
+      "type": "text",
+      "width": 250,
+      "x": 195,
+      "y": 8
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "06001a95fb504a12",
+      "styleAttributes": {
+      },
+      "text": "Is fine as Min 1",
+      "type": "text",
+      "width": 250,
+      "x": 196,
+      "y": 238
+    },
+    {
+      "height": 60,
+      "id": "e008f1495c8bfb0e",
+      "styleAttributes": {
+      },
+      "text": "Damage Die Cost: 3",
+      "type": "text",
+      "width": 250,
+      "x": -345,
+      "y": -353
+    },
+    {
+      "height": 60,
+      "id": "9dc03ea86903f273",
+      "styleAttributes": {
+      },
+      "text": "Range: 2 Mana",
+      "type": "text",
+      "width": 250,
+      "x": -345,
+      "y": -263
+    },
+    {
+      "height": 77,
+      "id": "3162fd72a028f15b",
+      "styleAttributes": {
+      },
+      "text": "Craft Total: 1 Mana",
+      "type": "text",
+      "width": 180,
+      "x": -52,
+      "y": 320
+    },
+    {
+      "height": 56,
+      "id": "804f4dc131c9e38f",
+      "styleAttributes": {
+      },
+      "text": "Multi Projectile Cost: 0",
+      "type": "text",
+      "width": 265,
+      "x": -352,
+      "y": -165
+    },
+    {
+      "height": 60,
+      "id": "537937812feaf715",
+      "styleAttributes": {
+      },
+      "text": "Action Cost: 0",
+      "type": "text",
+      "width": 250,
+      "x": -345,
+      "y": -3
+    },
+    {
+      "file": "z-Images/Screen grab Dev/Pasted image 20250429233818.png",
+      "height": 232,
+      "id": "372241644ec02c4f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1040,
+      "y": -956
+    },
+    {
+      "height": 60,
+      "id": "89673c0b49f5d003",
+      "styleAttributes": {
+      },
+      "text": "Damage Die Cost: 0",
+      "type": "text",
+      "width": 250,
+      "x": -337,
+      "y": 547
+    },
+    {
+      "height": 60,
+      "id": "9f2cd6f27445ed89",
+      "styleAttributes": {
+      },
+      "text": "Range: 0",
+      "type": "text",
+      "width": 250,
+      "x": -337,
+      "y": 637
+    },
+    {
+      "height": 56,
+      "id": "ea6ae5f57f0a6ccc",
+      "styleAttributes": {
+      },
+      "text": "Multi Projectile Cost: 0",
+      "type": "text",
+      "width": 265,
+      "x": -344,
+      "y": 735
+    },
+    {
+      "height": 60,
+      "id": "32bad77750eab4b8",
+      "styleAttributes": {
+      },
+      "text": "Damage Type Cost: 0",
+      "type": "text",
+      "width": 250,
+      "x": -336,
+      "y": 817
+    },
+    {
+      "height": 60,
+      "id": "dff0553b190f8039",
+      "styleAttributes": {
+      },
+      "text": "Damage Type Cost: 1",
+      "type": "text",
+      "width": 250,
+      "x": -344,
+      "y": -83
+    },
+    {
+      "color": "3",
+      "height": 188,
+      "id": "18ed6e35ed433cd8",
+      "styleAttributes": {
+      },
+      "text": "Acid Drop\n\n2 AP\n1d4+Sou Acid, 15-30ft\nRAR\n1 Mana",
+      "type": "text",
+      "width": 280,
+      "x": -352,
+      "y": 137
+    },
+    {
+      "height": 60,
+      "id": "9e7b1d19bd34634c",
+      "styleAttributes": {
+      },
+      "text": "Action Cost: 0",
+      "type": "text",
+      "width": 250,
+      "x": -337,
+      "y": 897
+    },
+    {
+      "height": 188,
+      "id": "167da320d5c0ad77",
+      "styleAttributes": {
+      },
+      "text": "Acid Drop\n\n2 AP\n1+Sou Acid, 15-20ft\nRAR\n1 Mana",
+      "type": "text",
+      "width": 280,
+      "x": 700,
+      "y": 305
+    },
+    {
+      "file": "z-Images/Screen grab Dev/Pasted image 20250429233849.png",
+      "height": 400,
+      "id": "84fb766f3d4d4934",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 196,
+      "x": -1676,
+      "y": -1006
+    },
+    {
+      "file": "z-Images/Screen grab Dev/Pasted image 20250429233804.png",
+      "height": 171,
+      "id": "62c07d90af5f27ec",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1680,
+      "y": -285
+    },
+    {
+      "file": "z-Images/Screen grab Dev/Pasted image 20250429233858.png",
+      "height": 372,
+      "id": "742a37c4e81c9296",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1440,
+      "y": -1006
+    },
+    {
+      "file": "z-Images/Screen grab Dev/Pasted image 20250429233726.png",
+      "height": 164,
+      "id": "4975139d54958330",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1680,
+      "y": -550
+    },
+    {
+      "height": 60,
+      "id": "4a113e2ea639f71e",
+      "styleAttributes": {
+      },
+      "text": "Hit Type Cost: 0",
+      "type": "text",
+      "width": 250,
+      "x": -345,
+      "y": -443
+    },
+    {
+      "height": 60,
+      "id": "0ccf379c6b52c7b3",
+      "styleAttributes": {
+      },
+      "text": "Base Cost: 1",
+      "type": "text",
+      "width": 250,
+      "x": -345,
+      "y": -531
+    },
+    {
+      "height": 188,
+      "id": "5816f6915ba6d2b4",
+      "styleAttributes": {
+      },
+      "text": "Fire Bolt\n\n2 AP\n1d6+Sou Fire, 15-60ft\nRAR\n5 Mana",
+      "type": "text",
+      "width": 280,
+      "x": 180,
+      "y": -752
+    },
+    {
+      "height": 77,
+      "id": "fc0b6ffa6650e182",
+      "styleAttributes": {
+      },
+      "text": "Craft Total: 7 Mana",
+      "type": "text",
+      "width": 180,
+      "x": -60,
+      "y": -580
+    },
+    {
+      "height": 188,
+      "id": "8ae6cc304680130f",
+      "styleAttributes": {
+      },
+      "text": "Frost Bolt\n\n2 AP\n1d6+Sou Cold, 15-60ft\nRAR\n6 Mana",
+      "type": "text",
+      "width": 280,
+      "x": -360,
+      "y": -763
+    },
+    {
+      "file": "z-Images/Screen grab Dev/Pasted image 20250429233841.png",
+      "height": 398,
+      "id": "9ce37120c9740a7d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1240,
+      "y": -598
+    },
+    {
+      "height": 90,
+      "id": "26d4bd298e83a4a1",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "A cost set per die the projectile uses at a flat rate with no cost ramp",
+      "type": "text",
+      "width": 380,
+      "x": -1357,
+      "y": 130
+    },
+    {
+      "height": 60,
+      "id": "06c3b8dbd1fab16c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "1d8 -- Cost 8 per Projectile",
+      "type": "text",
+      "width": 260,
+      "x": -1357,
+      "y": 230
+    },
+    {
+      "color": "#ffea00",
+      "height": 120,
+      "id": "4b9f717ebea8f9ad",
+      "styleAttributes": {
+      },
+      "text": "Could be DC or Challenge but is basically the not AC spell hit",
+      "type": "text",
+      "width": 200,
+      "x": -1557,
+      "y": 390
+    },
+    {
+      "height": 60,
+      "id": "51119607acf4a25b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Ranged Attack Roll -- Cost 0",
+      "type": "text",
+      "width": 260,
+      "x": -1867,
+      "y": 390
+    },
+    {
+      "height": 60,
+      "id": "11965148eeb8b6ed",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Spell Save -- Cost 5?",
+      "type": "text",
+      "width": 260,
+      "x": -1867,
+      "y": 470
+    },
+    {
+      "height": 60,
+      "id": "dc4576913fb1b06b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "1d10-- Cost ??",
+      "type": "text",
+      "width": 160,
+      "x": -1000,
+      "y": 840
+    },
+    {
+      "height": 60,
+      "id": "c9d28f76358cefd8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "1d8 -- Cost 6",
+      "type": "text",
+      "width": 160,
+      "x": -1000,
+      "y": 760
+    },
+    {
+      "height": 60,
+      "id": "d08fc7f074349b04",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "2d6 -- Cost 9",
+      "type": "text",
+      "width": 160,
+      "x": -820,
+      "y": 760
+    },
+    {
+      "height": 60,
+      "id": "dcbf78ba8a3cfe03",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "3d6 -- Cost ??",
+      "type": "text",
+      "width": 160,
+      "x": -640,
+      "y": 760
+    },
+    {
+      "height": 60,
+      "id": "4c79af6c901343f5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "2d8 -- Cost ??",
+      "type": "text",
+      "width": 160,
+      "x": -820,
+      "y": 840
+    },
+    {
+      "height": 60,
+      "id": "0eb9a5aaee60fc4f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "2 AP -- Cost 0",
+      "type": "text",
+      "width": 175,
+      "x": -1590,
+      "y": 870
+    },
+    {
+      "height": 60,
+      "id": "42c55ce50c6378f6",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Reaction to Melee Hit -- Cost ??",
+      "type": "text",
+      "width": 350,
+      "x": -1400,
+      "y": 870
+    },
+    {
+      "height": 60,
+      "id": "c53cfef9a8acdd57",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Reaction to Spell cast in 60ft -- Cost 7",
+      "type": "text",
+      "width": 350,
+      "x": -1400,
+      "y": 970
+    },
+    {
+      "height": 60,
+      "id": "039dcd4326767e8c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "3 AP -- Cost - ??",
+      "type": "text",
+      "width": 175,
+      "x": -1590,
+      "y": 970
+    },
+    {
+      "height": 60,
+      "id": "3b99179d5258fd6c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "3d8 -- Cost ??",
+      "type": "text",
+      "width": 160,
+      "x": -640,
+      "y": 840
+    },
+    {
+      "color": "#ac9173",
+      "height": 60,
+      "id": "3a7ff6412de5a29e",
+      "styleAttributes": {
+      },
+      "text": "Arrows only Training Req",
+      "type": "text",
+      "width": 280,
+      "x": -1000,
+      "y": 500
+    },
+    {
+      "height": 60,
+      "id": "467d3441d1d99887",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "1d4 -- Cost 0",
+      "type": "text",
+      "width": 160,
+      "x": -1000,
+      "y": 600
+    },
+    {
+      "height": 60,
+      "id": "06527923d1f54746",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "1d6 -- Cost 3",
+      "type": "text",
+      "width": 160,
+      "x": -1000,
+      "y": 680
+    },
+    {
+      "height": 60,
+      "id": "4f75b84d0443385a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Fire Damage -- Cost 0",
+      "type": "text",
+      "width": 235,
+      "x": -1800,
+      "y": 630
+    },
+    {
+      "height": 60,
+      "id": "29534e1222b6cddc",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Acid Damage -- Cost 0",
+      "type": "text",
+      "width": 235,
+      "x": -1557,
+      "y": 630
+    },
+    {
+      "height": 60,
+      "id": "523b8f8bea9a1b44",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Cold Damage -- Cost 1",
+      "type": "text",
+      "width": 235,
+      "x": -1557,
+      "y": 700
+    },
+    {
+      "height": 60,
+      "id": "178ccbffaa912659",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Lightning Damage -- Cost 1",
+      "type": "text",
+      "width": 235,
+      "x": -1800,
+      "y": 700
+    },
+    {
+      "height": 60,
+      "id": "9c9132e69db8588d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "90ft Max -- Cost ??",
+      "type": "text",
+      "width": 200,
+      "x": -1260,
+      "y": 660
+    },
+    {
+      "height": 60,
+      "id": "da304667f67accaa",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "60ft Max -- Cost 2",
+      "type": "text",
+      "width": 200,
+      "x": -1260,
+      "y": 580
+    },
+    {
+      "height": 60,
+      "id": "68d928a8e07ce09e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "30ft Max -- Cost 0",
+      "type": "text",
+      "width": 200,
+      "x": -1260,
+      "y": 500
+    },
+    {
+      "height": 60,
+      "id": "53d2549fae65f28c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "120ft Max -- Cost ??",
+      "type": "text",
+      "width": 200,
+      "x": -1260,
+      "y": 740
+    },
+    {
+      "height": 60,
+      "id": "01d74d2728ee282e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "2d4 -- Cost ??",
+      "type": "text",
+      "width": 160,
+      "x": -820,
+      "y": 680
+    },
+    {
+      "color": "#e5bf94",
+      "height": 110,
+      "id": "dc39c6d5b76e0cf7",
+      "styleAttributes": {
+      },
+      "text": "Cost is Mana Cost on spell NOT NUMBER OF TRAINNGS NEEDED",
+      "type": "text",
+      "width": 240,
+      "x": -700,
+      "y": 505
+    },
+    {
+      "height": 60,
+      "id": "82ea064376f66ab7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "3d4 -- Cost ??",
+      "type": "text",
+      "width": 160,
+      "x": -640,
+      "y": 680
+    },
+    {
+      "height": 56,
+      "id": "59d6708669381f12",
+      "styleAttributes": {
+      },
+      "text": "Multi Projectile Cost: 0",
+      "type": "text",
+      "width": 265,
+      "x": 1388,
+      "y": -182
+    },
+    {
+      "height": 60,
+      "id": "c4f072eb3094e93a",
+      "styleAttributes": {
+      },
+      "text": "Action Cost: 7",
+      "type": "text",
+      "width": 250,
+      "x": 1395,
+      "y": -20
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "2e372f2ec9e789a0",
+      "styleAttributes": {
+      },
+      "text": "Might be to low as 1d10 is max solo die",
+      "type": "text",
+      "width": 250,
+      "x": 1080,
+      "y": -252
+    },
+    {
+      "height": 60,
+      "id": "c90626d4d866ce3f",
+      "styleAttributes": {
+      },
+      "text": "Damage Type Cost: 1",
+      "type": "text",
+      "width": 250,
+      "x": 1396,
+      "y": -100
+    },
+    {
+      "height": 77,
+      "id": "ca8ee9f4ed8b591c",
+      "styleAttributes": {
+      },
+      "text": "Craft Total: 25 Mana",
+      "type": "text",
+      "width": 180,
+      "x": 1680,
+      "y": -597
+    },
+    {
+      "height": 60,
+      "id": "62e3eaea2b377a68",
+      "styleAttributes": {
+      },
+      "text": "Base Cost: 1",
+      "type": "text",
+      "width": 250,
+      "x": 1395,
+      "y": -548
+    },
+    {
+      "height": 60,
+      "id": "c06b8a52d4c04f2e",
+      "styleAttributes": {
+      },
+      "text": "Hit Type Cost: 5",
+      "type": "text",
+      "width": 250,
+      "x": 1395,
+      "y": -460
+    },
+    {
+      "height": 60,
+      "id": "59d281f2c16443cb",
+      "styleAttributes": {
+      },
+      "text": "Damage Die Cost: 9",
+      "type": "text",
+      "width": 250,
+      "x": 1395,
+      "y": -370
+    },
+    {
+      "height": 60,
+      "id": "fdd5892b3420b2a4",
+      "styleAttributes": {
+      },
+      "text": "Range: 2 Mana",
+      "type": "text",
+      "width": 250,
+      "x": 1395,
+      "y": -280
+    },
+    {
+      "height": 60,
+      "id": "d3f70591d192067b",
+      "styleAttributes": {
+      },
+      "text": "Hit Type Cost: 0",
+      "type": "text",
+      "width": 250,
+      "x": 775,
+      "y": -432
+    },
+    {
+      "height": 77,
+      "id": "66d5d275766fdcbc",
+      "styleAttributes": {
+      },
+      "text": "Craft Total: 25 Mana",
+      "type": "text",
+      "width": 180,
+      "x": 1060,
+      "y": -575
+    },
+    {
+      "height": 60,
+      "id": "2877bc0113f8d1b5",
+      "styleAttributes": {
+      },
+      "text": "Damage Die Cost: 6",
+      "type": "text",
+      "width": 250,
+      "x": 775,
+      "y": -342
+    },
+    {
+      "height": 188,
+      "id": "fa1501ef297b70e1",
+      "styleAttributes": {
+      },
+      "text": "Frozen Return\n\nReaction on enemy cast\n2d6+Sou Cold, 15-60ft\nSave\n20 Mana",
+      "type": "text",
+      "width": 280,
+      "x": 1380,
+      "y": -780
+    },
+    {
+      "color": "3",
+      "height": 56,
+      "id": "5830a6aa34857a85",
+      "styleAttributes": {
+      },
+      "text": "Multi Projectile Cost: 16",
+      "type": "text",
+      "width": 265,
+      "x": 768,
+      "y": -154
+    },
+    {
+      "height": 101,
+      "id": "7f5ae05b1c91887f",
+      "styleAttributes": {
+      },
+      "text": "DO this by adding base cost for 1d4's and 30ft",
+      "type": "text",
+      "width": 250,
+      "x": 651,
+      "y": 119
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "cec6253f1bb4225a",
+      "styleAttributes": {
+      },
+      "text": "SHould be moved to MIn 3 ",
+      "type": "text",
+      "width": 250,
+      "x": 204,
+      "y": 119
+    },
+    {
+      "color": "3",
+      "height": 110,
+      "id": "238fb5d3771de4b1",
+      "styleAttributes": {
+      },
+      "text": "Cost comes from: a Damage die based cost",
+      "type": "text",
+      "width": 250,
+      "x": 510,
+      "y": -72
+    },
+    {
+      "height": 60,
+      "id": "6b3893023296d45d",
+      "styleAttributes": {
+      },
+      "text": "Action Cost: 0",
+      "type": "text",
+      "width": 250,
+      "x": 775,
+      "y": 8
+    },
+    {
+      "height": 60,
+      "id": "e46a593615148210",
+      "styleAttributes": {
+      },
+      "text": "Range: 2 Mana",
+      "type": "text",
+      "width": 250,
+      "x": 775,
+      "y": -252
+    },
+    {
+      "height": 60,
+      "id": "ae12cd6ff39da867",
+      "styleAttributes": {
+      },
+      "text": "Base Cost: 1",
+      "type": "text",
+      "width": 250,
+      "x": 775,
+      "y": -520
+    },
+    {
+      "height": 60,
+      "id": "f1bc75b15fb25937",
+      "styleAttributes": {
+      },
+      "text": "Damage Type Cost: 0",
+      "type": "text",
+      "width": 250,
+      "x": 776,
+      "y": -72
+    },
+    {
+      "height": 199,
+      "id": "7a6e7c7326b29702",
+      "styleAttributes": {
+      },
+      "text": "Scorching Ray\n\n2 AP\n3x(1d8+Sou Fire), 15-60ft\nRAR\n20 Mana",
+      "type": "text",
+      "width": 300,
+      "x": 750,
+      "y": -763
+    },
+    {
+      "height": 60,
+      "id": "eabceb55cf9259a0",
+      "styleAttributes": {
+      },
+      "text": "Damage Die Cost: 3",
+      "type": "text",
+      "width": 250,
+      "x": 195,
+      "y": -342
+    },
+    {
+      "height": 60,
+      "id": "4f9989b977831ba7",
+      "styleAttributes": {
+      },
+      "text": "Range: 2 Mana",
+      "type": "text",
+      "width": 250,
+      "x": 195,
+      "y": -252
+    },
+    {
+      "height": 60,
+      "id": "a2b9587dd4904c61",
+      "styleAttributes": {
+      },
+      "text": "Hit Type Cost: 0",
+      "type": "text",
+      "width": 250,
+      "x": 195,
+      "y": -432
+    },
+    {
+      "height": 56,
+      "id": "73b60b875f57e10f",
+      "styleAttributes": {
+      },
+      "text": "Multi Projectile Cost: 0",
+      "type": "text",
+      "width": 265,
+      "x": 188,
+      "y": -154
+    },
+    {
+      "height": 60,
+      "id": "782828bc492c0d49",
+      "styleAttributes": {
+      },
+      "text": "Damage Type Cost: 0",
+      "type": "text",
+      "width": 250,
+      "x": 196,
+      "y": -72
+    },
+    {
+      "height": 77,
+      "id": "79b6c5ed3c1a3d2f",
+      "styleAttributes": {
+      },
+      "text": "Craft Total: 6 Mana",
+      "type": "text",
+      "width": 180,
+      "x": 480,
+      "y": -575
+    },
+    {
+      "height": 60,
+      "id": "c2f02b13a6ebc9a7",
+      "styleAttributes": {
+      },
+      "text": "Base Cost: 1",
+      "type": "text",
+      "width": 250,
+      "x": 195,
+      "y": -520
+    }
+  ]
 }

@@ -1,0 +1,3 @@
+*Clothing made with the Complex patterns of magic woven into their very fabrics. Every cut of cloth must be made custom to the fit of the clothing so that no Sigal line ever breaks.* 
+This clothing as long as it is above Fine quality Grants the caster the ability to cast the spell woven in its design. Every 3rd casting causes the fibers of the Sigal to fade reducing the quality of the armor. Every Slashing or Piecing hit against the wearier of this clothing cases a DC 10 flat check to happen. on a failed result this gear looses 1 quality level. 
+To be repaired after dropping below Fine it must be done be a using both a Sigal and crafting check.

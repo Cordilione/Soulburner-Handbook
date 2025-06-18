@@ -1,4 +1,4 @@
-## Quick Over View
+[](Breastplate.md)[](Breastplate.md)## Quick Over View
 **AC Mod:** 1
 **Defensive Stat:** DEX
 **Max Stat Mod:** +4

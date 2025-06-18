@@ -1,0 +1,1 @@
+When Making a totem you can target the process to capture the recently passed. Increase the Crafting check by 2 (10% harder) and the soul made into a totem can be any recently and locally loss creature.
