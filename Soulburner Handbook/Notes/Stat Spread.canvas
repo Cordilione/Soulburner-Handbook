@@ -1,0 +1,661 @@
+{
+  "edges": [
+    {
+      "fromNode": "5560801b92951297",
+      "fromSide": "bottom",
+      "id": "cf505ddf6ef8972a",
+      "label": "2",
+      "styleAttributes": {
+      },
+      "toNode": "8de8b2baa65f5188",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "ea3ff560cba66ee7",
+      "fromSide": "bottom",
+      "id": "30288e545024ddb2",
+      "label": "5",
+      "styleAttributes": {
+      },
+      "toNode": "1db887ff042a502b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "54ac22f2c9e819c7",
+      "fromSide": "bottom",
+      "id": "de4ac8a09e93285c",
+      "label": "6",
+      "styleAttributes": {
+      },
+      "toNode": "621aa2e4e39ac867",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1c9fb84f90452bbb",
+      "fromSide": "bottom",
+      "id": "eddba8ddf2574e39",
+      "label": "3",
+      "styleAttributes": {
+      },
+      "toNode": "9bc0422fcdc04fa8",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bc7cf050381a5692",
+      "fromSide": "bottom",
+      "id": "db3ffb71c665ac43",
+      "label": "1",
+      "styleAttributes": {
+      },
+      "toNode": "1acd32d13e23135a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1acd32d13e23135a",
+      "fromSide": "bottom",
+      "id": "ab365e710d6542fc",
+      "styleAttributes": {
+      },
+      "toNode": "2db3d102bc018b98",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "8de8b2baa65f5188",
+      "fromSide": "bottom",
+      "id": "0e1d52e5f5f612cd",
+      "styleAttributes": {
+      },
+      "toNode": "ad384acbc90d1d95",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9bc0422fcdc04fa8",
+      "fromSide": "bottom",
+      "id": "e3ad715b3fbda3c6",
+      "styleAttributes": {
+      },
+      "toNode": "7a92d8b68c213dd2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1db887ff042a502b",
+      "fromSide": "bottom",
+      "id": "9982ecae509f7625",
+      "styleAttributes": {
+      },
+      "toNode": "6068e673144ff8b2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "621aa2e4e39ac867",
+      "fromSide": "bottom",
+      "id": "85f27402af5b42cf",
+      "styleAttributes": {
+      },
+      "toNode": "5d9263a97d3adff7",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b4206d7972ce8c76",
+      "fromSide": "bottom",
+      "id": "aa150f4addf199b1",
+      "label": "4",
+      "styleAttributes": {
+      },
+      "toNode": "07c3ad7581cf3034",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "07c3ad7581cf3034",
+      "fromSide": "bottom",
+      "id": "6fff73ee6eb27bd0",
+      "styleAttributes": {
+      },
+      "toNode": "2f7de4df4cfa9cdb",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4277393bd24502fa",
+      "fromSide": "bottom",
+      "id": "486f68cb529dac86",
+      "styleAttributes": {
+      },
+      "toNode": "b02e4b0255c79155",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "94f2a33653607ec9",
+      "fromSide": "bottom",
+      "id": "e3c39d0b1027316c",
+      "styleAttributes": {
+      },
+      "toNode": "b02e4b0255c79155",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4277393bd24502fa",
+      "fromSide": "right",
+      "id": "d411c9d49b15ee21",
+      "styleAttributes": {
+      },
+      "toNode": "9f51ea2e15eb2b48",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4277393bd24502fa",
+      "fromSide": "right",
+      "id": "5629ca5ec1ad1447",
+      "styleAttributes": {
+      },
+      "toNode": "97665bedf41b1b76",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "94f2a33653607ec9",
+      "fromSide": "bottom",
+      "id": "1535aa5b22909842",
+      "styleAttributes": {
+      },
+      "toNode": "6d6ec100c8a7021f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4277393bd24502fa",
+      "fromSide": "right",
+      "id": "55db2cff5ac32112",
+      "styleAttributes": {
+      },
+      "toNode": "eb25be4f152c31a9",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "4",
+      "height": 80,
+      "id": "b4206d7972ce8c76",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "A Spread Based Holding closer to Previous Soul burner results",
+      "type": "text",
+      "width": 300,
+      "x": -450,
+      "y": -480
+    },
+    {
+      "color": "3",
+      "height": 80,
+      "id": "ea3ff560cba66ee7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "A spread that Expands the High and Lows while keeping a Burner Spread",
+      "type": "text",
+      "width": 300,
+      "x": -240,
+      "y": -380
+    },
+    {
+      "color": "3",
+      "height": 200,
+      "id": "1db887ff042a502b",
+      "styleAttributes": {
+      },
+      "text": "**STR:** -2\n**DEX:** 5\n**CON:** 2\n**SOL:** 3\n**INT:** -1\n**WIS:** 0\n**CHA:** 4",
+      "type": "text",
+      "width": 140,
+      "x": -160,
+      "y": -160
+    },
+    {
+      "color": "2",
+      "height": 80,
+      "id": "54ac22f2c9e819c7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "A spread that Expands the High while keeping a Burner Spread",
+      "type": "text",
+      "width": 300,
+      "x": -20,
+      "y": -480
+    },
+    {
+      "color": "4",
+      "height": 200,
+      "id": "07c3ad7581cf3034",
+      "styleAttributes": {
+      },
+      "text": "**STR:** -1\n**DEX:** 4\n**CON:** 2\n**SOL:** 2\n**INT:** -1\n**WIS:** 1\n**CHA:** 3",
+      "type": "text",
+      "width": 140,
+      "x": -370,
+      "y": -260
+    },
+    {
+      "color": "2",
+      "height": 200,
+      "id": "621aa2e4e39ac867",
+      "styleAttributes": {
+      },
+      "text": "**STR:** -1\n**DEX:** 5\n**CON:** 2\n**SOL:** 3\n**INT:** 0\n**WIS:** 1\n**CHA:** 3",
+      "type": "text",
+      "width": 140,
+      "x": 60,
+      "y": -260
+    },
+    {
+      "color": "1",
+      "height": 200,
+      "id": "9bc0422fcdc04fa8",
+      "styleAttributes": {
+      },
+      "text": "**STR:** -1\n**DEX:** 4\n**CON:** 1\n**SOL:** 1\n**INT:** -1\n**WIS:** -1\n**CHA:** 4",
+      "type": "text",
+      "width": 140,
+      "x": -620,
+      "y": -160
+    },
+    {
+      "color": "1",
+      "height": 80,
+      "id": "1c9fb84f90452bbb",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "A Spread Min Maxed in Pathfinder Styling",
+      "type": "text",
+      "width": 300,
+      "x": -700,
+      "y": -380
+    },
+    {
+      "color": "2",
+      "height": 200,
+      "id": "8de8b2baa65f5188",
+      "styleAttributes": {
+      },
+      "text": "**STR:** -1\n**DEX:** 3\n**CON:** 2\n**SOL:** 2\n**INT:** 0\n**WIS:** 0\n**CHA:** 3",
+      "type": "text",
+      "width": 140,
+      "x": -840,
+      "y": -260
+    },
+    {
+      "color": "2",
+      "height": 80,
+      "id": "5560801b92951297",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "A Spread Based on DND Modifers as done in BG3",
+      "type": "text",
+      "width": 300,
+      "x": -920,
+      "y": -480
+    },
+    {
+      "color": "1",
+      "height": 200,
+      "id": "1acd32d13e23135a",
+      "styleAttributes": {
+      },
+      "text": "**STR:** 0\n**DEX:** 4\n**CON:** 1\n**SOL:** 2\n**INT:** 0\n**WIS:** 1\n**CHA:** 2",
+      "type": "text",
+      "width": 140,
+      "x": -1060,
+      "y": -160
+    },
+    {
+      "color": "1",
+      "height": 80,
+      "id": "bc7cf050381a5692",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "A Spread from Pathfinder with Soul added",
+      "type": "text",
+      "width": 300,
+      "x": -1140,
+      "y": -380
+    },
+    {
+      "height": 120,
+      "id": "319f73bea34a542f",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "text": "#### *All Spreads are made to represent the same character. A Magically capable and smooth talking Swashbuckler.*",
+      "type": "text",
+      "width": 510,
+      "x": -670,
+      "y": -660
+    },
+    {
+      "height": 60,
+      "id": "e033be7c59fdedf0",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "center"
+      },
+      "text": "# Character Stat Spreads",
+      "type": "text",
+      "width": 420,
+      "x": -625,
+      "y": -740
+    },
+    {
+      "height": 120,
+      "id": "2f7de4df4cfa9cdb",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Total Stats: 10\nTotal Negs:-2\nMax:4\nMin:-1",
+      "type": "text",
+      "width": 200,
+      "x": -400,
+      "y": 260
+    },
+    {
+      "height": 120,
+      "id": "6068e673144ff8b2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Total Stats: 11\nTotal Negs:-3\nMax:5\nMin:-2",
+      "type": "text",
+      "width": 200,
+      "x": -190,
+      "y": 360
+    },
+    {
+      "height": 120,
+      "id": "5d9263a97d3adff7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Total Stats: 12\nTotal Negs:-1\nMax:5\nMin:-1",
+      "type": "text",
+      "width": 200,
+      "x": 30,
+      "y": 260
+    },
+    {
+      "height": 120,
+      "id": "2db3d102bc018b98",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Total Stats: 10\nTotal Negs:0\nMax:4\nMin:0",
+      "type": "text",
+      "width": 200,
+      "x": -1090,
+      "y": 360
+    },
+    {
+      "height": 120,
+      "id": "ad384acbc90d1d95",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Total Stats: 9\nTotal Negs:-1\nMax:3\nMin:-1",
+      "type": "text",
+      "width": 200,
+      "x": -870,
+      "y": 260
+    },
+    {
+      "height": 120,
+      "id": "7a92d8b68c213dd2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Total Stats: 7\nTotal Negs:-3\nMax:4\nMin:-1",
+      "type": "text",
+      "width": 200,
+      "x": -650,
+      "y": 360
+    },
+    {
+      "height": 60,
+      "id": "5a6fc4aee2053cd1",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "text": "Observations from just Alen",
+      "type": "text",
+      "width": 280,
+      "x": 340,
+      "y": -220
+    },
+    {
+      "height": 500,
+      "id": "6ab904a7780ab7e7",
+      "styleAttributes": {
+      },
+      "text": "Total Stat Spread ranging to the 10's range (+-2) Feels good as all but the burner base was done without thinking of this number so likely a stat to stick with.\n\nI am in favor to the expanded Range up and down before any talking. This is largely do the diversity in stats allowing for stronger representation in Stat Strength for characters",
+      "type": "text",
+      "width": 260,
+      "x": 360,
+      "y": -140
+    },
+    {
+      "height": 60,
+      "id": "14b552988059ec6e",
+      "styleAttributes": {
+      },
+      "text": "Gradients",
+      "type": "text",
+      "width": 260,
+      "x": 780,
+      "y": -500
+    },
+    {
+      "height": 60,
+      "id": "e9f228929eb0349a",
+      "styleAttributes": {
+      },
+      "text": "Should have a stand Out",
+      "type": "text",
+      "width": 260,
+      "x": 780,
+      "y": -410
+    },
+    {
+      "height": 60,
+      "id": "edb368dd8b44628d",
+      "styleAttributes": {
+      },
+      "text": "Prevent Jack of All",
+      "type": "text",
+      "width": 260,
+      "x": 780,
+      "y": -320
+    },
+    {
+      "height": 60,
+      "id": "262a55de0a11b63b",
+      "styleAttributes": {
+      },
+      "text": "Atleast 1 neg",
+      "type": "text",
+      "width": 260,
+      "x": 780,
+      "y": -230
+    },
+    {
+      "height": 60,
+      "id": "e7168c46668c1f0a",
+      "styleAttributes": {
+      },
+      "text": "Two Neg stats MAx",
+      "type": "text",
+      "width": 260,
+      "x": 780,
+      "y": -140
+    },
+    {
+      "height": 60,
+      "id": "c27cbbf15c94e023",
+      "styleAttributes": {
+      },
+      "text": "Fred",
+      "type": "text",
+      "width": 100,
+      "x": 1520,
+      "y": -690
+    },
+    {
+      "height": 60,
+      "id": "81772caaf281b583",
+      "styleAttributes": {
+      },
+      "text": "Alen",
+      "type": "text",
+      "width": 100,
+      "x": 1880,
+      "y": -690
+    },
+    {
+      "color": "2",
+      "height": 220,
+      "id": "b02e4b0255c79155",
+      "styleAttributes": {
+      },
+      "text": "**STR:** -2\n**DEX:** 4\n**CON:** 1\n**SOL:** 2\n**INT:** -1\n**WIS:** 0\n**CHA:** 3",
+      "type": "text",
+      "width": 140,
+      "x": 1680,
+      "y": -410
+    },
+    {
+      "height": 220,
+      "id": "f7c9450308d50e95",
+      "styleAttributes": {
+      },
+      "text": "**STR:** -2\n**DEX:** 4\n**CON:** 0\n**SOL:** 1\n**INT:** -1\n**WIS:** 0\n**CHA:** 2",
+      "type": "text",
+      "width": 140,
+      "x": 1140,
+      "y": -370
+    },
+    {
+      "height": 60,
+      "id": "38df8ac928888137",
+      "styleAttributes": {
+      },
+      "text": "5 as a power cap is too high",
+      "type": "text",
+      "width": 260,
+      "x": 780,
+      "y": -50
+    },
+    {
+      "height": 220,
+      "id": "cf126a31c19fc073",
+      "styleAttributes": {
+      },
+      "text": "**STR:** -2\n**DEX:** 4\n**CON:** 1\n**SOL:** 2\n**INT:** -1\n**WIS:** 0\n**CHA:** 3",
+      "type": "text",
+      "width": 140,
+      "x": 1140,
+      "y": -120
+    },
+    {
+      "color": "3",
+      "height": 200,
+      "id": "4277393bd24502fa",
+      "styleAttributes": {
+      },
+      "text": "**STR:** -2\n**DEX:** 5\n**CON:** 2\n**SOL:** 3\n**INT:** -1\n**WIS:** 0\n**CHA:** 4",
+      "type": "text",
+      "width": 140,
+      "x": 1880,
+      "y": -690
+    },
+    {
+      "color": "4",
+      "height": 200,
+      "id": "94f2a33653607ec9",
+      "styleAttributes": {
+      },
+      "text": "**STR:** -1\n**DEX:** 4\n**CON:** 2\n**SOL:** 2\n**INT:** -1\n**WIS:** 1\n**CHA:** 3",
+      "type": "text",
+      "width": 140,
+      "x": 1500,
+      "y": -610
+    },
+    {
+      "color": "4",
+      "height": 200,
+      "id": "6d6ec100c8a7021f",
+      "styleAttributes": {
+      },
+      "text": "**STR:** -2\n**DEX:** 4\n**CON:** 2\n**SOL:** 2\n**INT:** -1\n**WIS:** 1\n**CHA:** 3",
+      "type": "text",
+      "width": 140,
+      "x": 1500,
+      "y": -170
+    },
+    {
+      "height": 60,
+      "id": "8e55ea9a2ec69a1a",
+      "styleAttributes": {
+      },
+      "text": "Alex",
+      "type": "text",
+      "width": 100,
+      "x": 2460,
+      "y": -690
+    },
+    {
+      "height": 60,
+      "id": "f92ea1969d118550",
+      "styleAttributes": {
+      },
+      "text": "Bran",
+      "type": "text",
+      "width": 100,
+      "x": 2460,
+      "y": -620
+    },
+    {
+      "color": "3",
+      "height": 200,
+      "id": "eb25be4f152c31a9",
+      "styleAttributes": {
+      },
+      "text": "**STR:** -2\n**DEX:** 4\n**CON:** 2\n**SOL:** 3\n**INT:** -1\n**WIS:** 0\n**CHA:** 3",
+      "type": "text",
+      "width": 129,
+      "x": 2496,
+      "y": -500
+    },
+    {
+      "color": "3",
+      "height": 200,
+      "id": "9f51ea2e15eb2b48",
+      "styleAttributes": {
+      },
+      "text": "**STR:** -2\n**DEX:** 5\n**CON:** 1\n**SOL:** 3\n**INT:** -1\n**WIS:** 0\n**CHA:** 4",
+      "type": "text",
+      "width": 140,
+      "x": 2660,
+      "y": -860
+    },
+    {
+      "color": "6",
+      "height": 200,
+      "id": "97665bedf41b1b76",
+      "styleAttributes": {
+      },
+      "text": "**STR:** -2\n**DEX:** 5\n**CON:** 2\n**SOL:** 3\n**INT:** -1\n**WIS:** 0\n**CHA:** 3",
+      "type": "text",
+      "width": 140,
+      "x": 2180,
+      "y": -250
+    }
+  ]
+}

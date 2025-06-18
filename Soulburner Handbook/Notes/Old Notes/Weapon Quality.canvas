@@ -1,104 +1,918 @@
 {
-	"nodes":[
-		{"id":"62cdb110305fffd9","type":"text","text":"Base","x":-140,"y":-120,"width":250,"height":60},
-		{"id":"69294d0f6ba1cdf7","type":"text","text":"Brandons Ideas","x":-140,"y":-260,"width":250,"height":60},
-		{"id":"85a50eaa04451f84","type":"text","text":"Base","x":-140,"y":340,"width":250,"height":60},
-		{"id":"4ec758deeab18bc9","type":"text","text":"Fine","x":110,"y":450,"width":250,"height":60,"color":"4"},
-		{"id":"e575ec9224c15897","type":"text","text":"Masterwork","x":110,"y":550,"width":250,"height":60,"color":"4"},
-		{"id":"77c5201db2976fe7","type":"text","text":"add 1 Core Damage Die","x":380,"y":550,"width":260,"height":60},
-		{"id":"df691722c6af5982","type":"text","text":"+2 Core Damage","x":380,"y":450,"width":260,"height":60},
-		{"id":"61013d4c891d85a9","type":"text","text":"Not Crafting Possible","x":-120,"y":531,"width":142,"height":98},
-		{"id":"87c327b145fee401","type":"text","text":"Alex Ideas","x":-140,"y":240,"width":250,"height":60},
-		{"id":"e4040860012cd51c","type":"text","text":"-2 Core Damage","x":-660,"y":450,"width":250,"height":60},
-		{"id":"5ad5742561535556","type":"text","text":"Poor","x":-390,"y":450,"width":250,"height":60,"color":"1"},
-		{"id":"b04ace2ef47cd365","type":"text","text":"Subtract all Core Damage Die","x":-660,"y":550,"width":250,"height":60},
-		{"id":"535634f3d0206f33","type":"text","text":"Ruined","x":-390,"y":550,"width":250,"height":60,"color":"1"},
-		{"id":"7afbc423be42ee66","type":"text","text":"Fine","x":110,"y":150,"width":250,"height":60,"color":"4"},
-		{"id":"3f2cb8884358922b","type":"text","text":"+1d6 Core Damage","x":400,"y":150,"width":250,"height":60},
-		{"id":"b0ecac060cdc842a","type":"text","text":"Good","x":110,"y":-20,"width":250,"height":60,"color":"4"},
-		{"id":"4e48febd4e52d464","type":"text","text":"+2 Core Damage","x":400,"y":-15,"width":250,"height":50},
-		{"id":"48748942af2c2765","type":"text","text":"Fare","x":110,"y":60,"width":250,"height":60,"color":"4"},
-		{"id":"86f0b269bb02ac48","type":"text","text":"+1d4 Core Damage","x":400,"y":60,"width":250,"height":60},
-		{"id":"ebed55f7db60b8a4","type":"text","text":"-3 Core Damage","x":-700,"y":-15,"width":250,"height":60},
-		{"id":"a728affd7a53aeef","type":"text","text":"-1d4 Core Damage","x":-700,"y":65,"width":250,"height":60},
-		{"id":"55f88a11477c37fa","type":"text","text":"Damaged","x":-410,"y":-15,"width":250,"height":60,"color":"1"},
-		{"id":"0fad9669c77c00aa","type":"text","text":"Ruff","x":-410,"y":65,"width":250,"height":60,"color":"1"},
-		{"id":"d8272ec91f81eba4","type":"text","text":"-1d6 Core Damage","x":-700,"y":155,"width":250,"height":60},
-		{"id":"effc86181b01be66","type":"text","text":"Poor","x":-410,"y":155,"width":250,"height":60,"color":"1"},
-		{"id":"88f8dd448f68189a","type":"text","text":"Base","x":1325,"y":-15,"width":250,"height":60},
-		{"id":"c67c336fb4ad06f5","type":"text","text":"Fare","x":1575,"y":170,"width":250,"height":60,"color":"4"},
-		{"id":"b25573c9b8938b10","type":"text","text":"+2 Core Damage, +1 to hit","x":1855,"y":170,"width":250,"height":60},
-		{"id":"49b2854bba62eecd","type":"text","text":"Masterwork","x":1575,"y":245,"width":250,"height":60,"color":"4"},
-		{"id":"608a6a8e26f346da","type":"text","text":"add 1 Core Damage Die","x":1855,"y":245,"width":260,"height":60},
-		{"id":"1e07d2cdc0b52e7d","type":"text","text":"Good","x":1575,"y":90,"width":250,"height":60,"color":"4"},
-		{"id":"084b20a2264b1e8d","type":"text","text":"+1 to hit","x":1855,"y":95,"width":250,"height":50},
-		{"id":"3a6ad162ab2b6b9a","type":"text","text":"-2 Core Damage, -1 to hit","x":800,"y":165,"width":250,"height":60},
-		{"id":"8d91b8b43d4c7f9f","type":"text","text":"Ruff","x":1075,"y":165,"width":250,"height":60,"color":"1"},
-		{"id":"5bd27957afa3daf6","type":"text","text":"-1 to hit","x":800,"y":85,"width":250,"height":60},
-		{"id":"d2776dd0e4261447","type":"text","text":"Subtract all Core Damage Die","x":805,"y":240,"width":250,"height":60},
-		{"id":"7f12538f01fc97b3","type":"text","text":"Ruined","x":1075,"y":240,"width":250,"height":60,"color":"1"},
-		{"id":"af9cd83647508704","type":"text","text":"Damaged","x":1075,"y":85,"width":250,"height":60,"color":"1"},
-		{"id":"644fe81a14952834","type":"text","text":"Base","x":1325,"y":400,"width":250,"height":60},
-		{"id":"0e3cc467e75e2441","type":"text","text":"Fare","x":1575,"y":585,"width":250,"height":60,"color":"4"},
-		{"id":"595a5d2779d790a7","type":"text","text":"Resistance 1 to piercing,+1 max stat bonus to ac","x":1855,"y":585,"width":260,"height":60},
-		{"id":"a6f3e36222e6a942","type":"text","text":"reduce the level of wound rolls made against you by 1 ","x":1855,"y":660,"width":260,"height":100},
-		{"id":"bc07b331dac52a83","type":"text","text":"Good","x":1575,"y":505,"width":250,"height":60,"color":"4"},
-		{"id":"c779e98d318a78dd","type":"text","text":"+1 max stat bonus to ac","x":1855,"y":505,"width":260,"height":60},
-		{"id":"dc63cf5612c763b7","type":"text","text":"Weakness 1 to piercing,-1 max stat bonus to ac","x":780,"y":580,"width":270,"height":60},
-		{"id":"e7b894d8093f481f","type":"text","text":"Ruff","x":1075,"y":580,"width":250,"height":60,"color":"1"},
-		{"id":"d8bb0e1e16492469","type":"text","text":"-1 max stat bonus to ac","x":780,"y":500,"width":270,"height":60},
-		{"id":"5ae336b8618c4894","type":"text","text":"Damaged","x":1075,"y":500,"width":250,"height":60,"color":"1"},
-		{"id":"34449e3218ec02d4","type":"text","text":"Masterwork","x":1575,"y":681,"width":250,"height":60,"color":"4"},
-		{"id":"73d4df30d4ebe12a","type":"text","text":"Ruined","x":1075,"y":681,"width":250,"height":60,"color":"1"},
-		{"id":"465b4025ef45c008","type":"text","text":"Increase the level of wound rolls made against you by 1","x":780,"y":660,"width":275,"height":100}
-	],
-	"edges":[
-		{"id":"ed48b939782e45f6","fromNode":"62cdb110305fffd9","fromSide":"left","toNode":"55f88a11477c37fa","toSide":"top"},
-		{"id":"96e6c1d2c38512fd","fromNode":"62cdb110305fffd9","fromSide":"right","toNode":"b0ecac060cdc842a","toSide":"top"},
-		{"id":"d3e2491c269086e0","fromNode":"7afbc423be42ee66","fromSide":"right","toNode":"3f2cb8884358922b","toSide":"left"},
-		{"id":"42df2845d39bbd60","fromNode":"b0ecac060cdc842a","fromSide":"right","toNode":"4e48febd4e52d464","toSide":"left"},
-		{"id":"92d953658c88eed0","fromNode":"55f88a11477c37fa","fromSide":"left","toNode":"ebed55f7db60b8a4","toSide":"right"},
-		{"id":"6e1a9d0f645f830b","fromNode":"effc86181b01be66","fromSide":"left","toNode":"d8272ec91f81eba4","toSide":"right"},
-		{"id":"0f6c534b29a59b44","fromNode":"b0ecac060cdc842a","fromSide":"bottom","toNode":"48748942af2c2765","toSide":"top"},
-		{"id":"d43959c28fb9d888","fromNode":"48748942af2c2765","fromSide":"bottom","toNode":"7afbc423be42ee66","toSide":"top"},
-		{"id":"e6633b8c2cd69e83","fromNode":"48748942af2c2765","fromSide":"right","toNode":"86f0b269bb02ac48","toSide":"left"},
-		{"id":"54272ed18a541b15","fromNode":"0fad9669c77c00aa","fromSide":"left","toNode":"a728affd7a53aeef","toSide":"right"},
-		{"id":"2c072af9f0745913","fromNode":"55f88a11477c37fa","fromSide":"bottom","toNode":"0fad9669c77c00aa","toSide":"top"},
-		{"id":"47d481a1628ac07b","fromNode":"0fad9669c77c00aa","fromSide":"bottom","toNode":"effc86181b01be66","toSide":"top"},
-		{"id":"604cd199cdcdc77f","fromNode":"69294d0f6ba1cdf7","fromSide":"bottom","toNode":"62cdb110305fffd9","toSide":"top"},
-		{"id":"a4854b9cc17067df","fromNode":"87c327b145fee401","fromSide":"bottom","toNode":"85a50eaa04451f84","toSide":"top"},
-		{"id":"bba6bbcdc763ef94","fromNode":"85a50eaa04451f84","fromSide":"right","toNode":"4ec758deeab18bc9","toSide":"top"},
-		{"id":"f389b9513e7f7c67","fromNode":"4ec758deeab18bc9","fromSide":"bottom","toNode":"e575ec9224c15897","toSide":"top"},
-		{"id":"9ee21132fe4f387c","fromNode":"4ec758deeab18bc9","fromSide":"right","toNode":"df691722c6af5982","toSide":"left"},
-		{"id":"e39ce469fcce0597","fromNode":"e575ec9224c15897","fromSide":"right","toNode":"77c5201db2976fe7","toSide":"left"},
-		{"id":"2617780a943a109b","fromNode":"5ad5742561535556","fromSide":"left","toNode":"e4040860012cd51c","toSide":"right"},
-		{"id":"6daf30f819a59bc1","fromNode":"535634f3d0206f33","fromSide":"left","toNode":"b04ace2ef47cd365","toSide":"right"},
-		{"id":"3544c0e4427a16c8","fromNode":"85a50eaa04451f84","fromSide":"left","toNode":"5ad5742561535556","toSide":"top"},
-		{"id":"9e5cc2930d8f4231","fromNode":"5ad5742561535556","fromSide":"bottom","toNode":"535634f3d0206f33","toSide":"top"},
-		{"id":"617d4c74d4820d8e","fromNode":"535634f3d0206f33","fromSide":"right","toNode":"61013d4c891d85a9","toSide":"left"},
-		{"id":"e789c474e42cbabc","fromNode":"1e07d2cdc0b52e7d","fromSide":"right","toNode":"084b20a2264b1e8d","toSide":"left"},
-		{"id":"e8f93840a2381aed","fromNode":"1e07d2cdc0b52e7d","fromSide":"bottom","toNode":"c67c336fb4ad06f5","toSide":"top"},
-		{"id":"8b68da8a3186e426","fromNode":"c67c336fb4ad06f5","fromSide":"right","toNode":"b25573c9b8938b10","toSide":"left"},
-		{"id":"ce41e56fad9b1192","fromNode":"af9cd83647508704","fromSide":"left","toNode":"5bd27957afa3daf6","toSide":"right"},
-		{"id":"3f28ab3c3f5b7093","fromNode":"8d91b8b43d4c7f9f","fromSide":"left","toNode":"3a6ad162ab2b6b9a","toSide":"right"},
-		{"id":"447274c27b444cc1","fromNode":"af9cd83647508704","fromSide":"bottom","toNode":"8d91b8b43d4c7f9f","toSide":"top"},
-		{"id":"f068c253f4761ed0","fromNode":"88f8dd448f68189a","fromSide":"left","toNode":"af9cd83647508704","toSide":"top"},
-		{"id":"91e0ebbeafcdab6c","fromNode":"7f12538f01fc97b3","fromSide":"left","toNode":"d2776dd0e4261447","toSide":"right"},
-		{"id":"1e3b740cafe0714c","fromNode":"8d91b8b43d4c7f9f","fromSide":"bottom","toNode":"7f12538f01fc97b3","toSide":"top"},
-		{"id":"fba4ae218ab3fa8a","fromNode":"49b2854bba62eecd","fromSide":"right","toNode":"608a6a8e26f346da","toSide":"left"},
-		{"id":"b3cc5bb40fcec18e","fromNode":"88f8dd448f68189a","fromSide":"right","toNode":"1e07d2cdc0b52e7d","toSide":"top"},
-		{"id":"627c59aa37f4f3c2","fromNode":"c67c336fb4ad06f5","fromSide":"bottom","toNode":"49b2854bba62eecd","toSide":"top"},
-		{"id":"6e11a8fee242d0fd","fromNode":"644fe81a14952834","fromSide":"left","toNode":"5ae336b8618c4894","toSide":"top"},
-		{"id":"6323da3c4009e1a5","fromNode":"644fe81a14952834","fromSide":"right","toNode":"bc07b331dac52a83","toSide":"top"},
-		{"id":"7ad27d4d953f6f6b","fromNode":"0e3cc467e75e2441","fromSide":"right","toNode":"595a5d2779d790a7","toSide":"left"},
-		{"id":"8f94dc2aa096c735","fromNode":"0e3cc467e75e2441","fromSide":"bottom","toNode":"34449e3218ec02d4","toSide":"top"},
-		{"id":"23b75c38a89c2095","fromNode":"bc07b331dac52a83","fromSide":"bottom","toNode":"0e3cc467e75e2441","toSide":"top"},
-		{"id":"20731970105145fc","fromNode":"34449e3218ec02d4","fromSide":"right","toNode":"a6f3e36222e6a942","toSide":"left"},
-		{"id":"1842fa2104c1ca36","fromNode":"bc07b331dac52a83","fromSide":"right","toNode":"c779e98d318a78dd","toSide":"left"},
-		{"id":"359df9cd892f0d79","fromNode":"e7b894d8093f481f","fromSide":"left","toNode":"dc63cf5612c763b7","toSide":"right"},
-		{"id":"27d5ca126cec078f","fromNode":"e7b894d8093f481f","fromSide":"bottom","toNode":"73d4df30d4ebe12a","toSide":"top"},
-		{"id":"2bf07d76c89d401e","fromNode":"5ae336b8618c4894","fromSide":"bottom","toNode":"e7b894d8093f481f","toSide":"top"},
-		{"id":"55635c50568c8ea0","fromNode":"5ae336b8618c4894","fromSide":"left","toNode":"d8bb0e1e16492469","toSide":"right"},
-		{"id":"c2035342137756fa","fromNode":"73d4df30d4ebe12a","fromSide":"left","toNode":"465b4025ef45c008","toSide":"right"}
-	]
+  "edges": [
+    {
+      "fromNode": "62cdb110305fffd9",
+      "fromSide": "left",
+      "id": "ed48b939782e45f6",
+      "toNode": "55f88a11477c37fa",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "62cdb110305fffd9",
+      "fromSide": "right",
+      "id": "96e6c1d2c38512fd",
+      "toNode": "b0ecac060cdc842a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "7afbc423be42ee66",
+      "fromSide": "right",
+      "id": "d3e2491c269086e0",
+      "toNode": "3f2cb8884358922b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b0ecac060cdc842a",
+      "fromSide": "right",
+      "id": "42df2845d39bbd60",
+      "toNode": "4e48febd4e52d464",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "55f88a11477c37fa",
+      "fromSide": "left",
+      "id": "92d953658c88eed0",
+      "toNode": "ebed55f7db60b8a4",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "effc86181b01be66",
+      "fromSide": "left",
+      "id": "6e1a9d0f645f830b",
+      "toNode": "d8272ec91f81eba4",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "b0ecac060cdc842a",
+      "fromSide": "bottom",
+      "id": "0f6c534b29a59b44",
+      "toNode": "48748942af2c2765",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "48748942af2c2765",
+      "fromSide": "bottom",
+      "id": "d43959c28fb9d888",
+      "toNode": "7afbc423be42ee66",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "48748942af2c2765",
+      "fromSide": "right",
+      "id": "e6633b8c2cd69e83",
+      "toNode": "86f0b269bb02ac48",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0fad9669c77c00aa",
+      "fromSide": "left",
+      "id": "54272ed18a541b15",
+      "toNode": "a728affd7a53aeef",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "55f88a11477c37fa",
+      "fromSide": "bottom",
+      "id": "2c072af9f0745913",
+      "toNode": "0fad9669c77c00aa",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0fad9669c77c00aa",
+      "fromSide": "bottom",
+      "id": "47d481a1628ac07b",
+      "toNode": "effc86181b01be66",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "69294d0f6ba1cdf7",
+      "fromSide": "bottom",
+      "id": "604cd199cdcdc77f",
+      "toNode": "62cdb110305fffd9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "87c327b145fee401",
+      "fromSide": "bottom",
+      "id": "a4854b9cc17067df",
+      "toNode": "85a50eaa04451f84",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "85a50eaa04451f84",
+      "fromSide": "right",
+      "id": "bba6bbcdc763ef94",
+      "toNode": "4ec758deeab18bc9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4ec758deeab18bc9",
+      "fromSide": "bottom",
+      "id": "f389b9513e7f7c67",
+      "toNode": "e575ec9224c15897",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4ec758deeab18bc9",
+      "fromSide": "right",
+      "id": "9ee21132fe4f387c",
+      "toNode": "df691722c6af5982",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e575ec9224c15897",
+      "fromSide": "right",
+      "id": "e39ce469fcce0597",
+      "toNode": "77c5201db2976fe7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5ad5742561535556",
+      "fromSide": "left",
+      "id": "2617780a943a109b",
+      "toNode": "e4040860012cd51c",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "535634f3d0206f33",
+      "fromSide": "left",
+      "id": "6daf30f819a59bc1",
+      "toNode": "b04ace2ef47cd365",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "85a50eaa04451f84",
+      "fromSide": "left",
+      "id": "3544c0e4427a16c8",
+      "toNode": "5ad5742561535556",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5ad5742561535556",
+      "fromSide": "bottom",
+      "id": "9e5cc2930d8f4231",
+      "toNode": "535634f3d0206f33",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "535634f3d0206f33",
+      "fromSide": "right",
+      "id": "617d4c74d4820d8e",
+      "toNode": "61013d4c891d85a9",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1e07d2cdc0b52e7d",
+      "fromSide": "right",
+      "id": "e789c474e42cbabc",
+      "toNode": "084b20a2264b1e8d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1e07d2cdc0b52e7d",
+      "fromSide": "bottom",
+      "id": "e8f93840a2381aed",
+      "toNode": "c67c336fb4ad06f5",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c67c336fb4ad06f5",
+      "fromSide": "right",
+      "id": "8b68da8a3186e426",
+      "toNode": "b25573c9b8938b10",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "af9cd83647508704",
+      "fromSide": "left",
+      "id": "ce41e56fad9b1192",
+      "toNode": "5bd27957afa3daf6",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "8d91b8b43d4c7f9f",
+      "fromSide": "left",
+      "id": "3f28ab3c3f5b7093",
+      "toNode": "3a6ad162ab2b6b9a",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "af9cd83647508704",
+      "fromSide": "bottom",
+      "id": "447274c27b444cc1",
+      "toNode": "8d91b8b43d4c7f9f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "88f8dd448f68189a",
+      "fromSide": "left",
+      "id": "f068c253f4761ed0",
+      "toNode": "af9cd83647508704",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "7f12538f01fc97b3",
+      "fromSide": "left",
+      "id": "91e0ebbeafcdab6c",
+      "toNode": "d2776dd0e4261447",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "8d91b8b43d4c7f9f",
+      "fromSide": "bottom",
+      "id": "1e3b740cafe0714c",
+      "toNode": "7f12538f01fc97b3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "49b2854bba62eecd",
+      "fromSide": "right",
+      "id": "fba4ae218ab3fa8a",
+      "toNode": "608a6a8e26f346da",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "88f8dd448f68189a",
+      "fromSide": "right",
+      "id": "b3cc5bb40fcec18e",
+      "toNode": "1e07d2cdc0b52e7d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c67c336fb4ad06f5",
+      "fromSide": "bottom",
+      "id": "627c59aa37f4f3c2",
+      "toNode": "49b2854bba62eecd",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "644fe81a14952834",
+      "fromSide": "left",
+      "id": "6e11a8fee242d0fd",
+      "toNode": "5ae336b8618c4894",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "644fe81a14952834",
+      "fromSide": "right",
+      "id": "6323da3c4009e1a5",
+      "toNode": "bc07b331dac52a83",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0e3cc467e75e2441",
+      "fromSide": "right",
+      "id": "7ad27d4d953f6f6b",
+      "toNode": "595a5d2779d790a7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0e3cc467e75e2441",
+      "fromSide": "bottom",
+      "id": "8f94dc2aa096c735",
+      "toNode": "34449e3218ec02d4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bc07b331dac52a83",
+      "fromSide": "bottom",
+      "id": "23b75c38a89c2095",
+      "toNode": "0e3cc467e75e2441",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "34449e3218ec02d4",
+      "fromSide": "right",
+      "id": "20731970105145fc",
+      "toNode": "a6f3e36222e6a942",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bc07b331dac52a83",
+      "fromSide": "right",
+      "id": "1842fa2104c1ca36",
+      "toNode": "c779e98d318a78dd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e7b894d8093f481f",
+      "fromSide": "left",
+      "id": "359df9cd892f0d79",
+      "toNode": "dc63cf5612c763b7",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "e7b894d8093f481f",
+      "fromSide": "bottom",
+      "id": "27d5ca126cec078f",
+      "toNode": "73d4df30d4ebe12a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5ae336b8618c4894",
+      "fromSide": "bottom",
+      "id": "2bf07d76c89d401e",
+      "toNode": "e7b894d8093f481f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5ae336b8618c4894",
+      "fromSide": "left",
+      "id": "55635c50568c8ea0",
+      "toNode": "d8bb0e1e16492469",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "73d4df30d4ebe12a",
+      "fromSide": "left",
+      "id": "c2035342137756fa",
+      "toNode": "465b4025ef45c008",
+      "toSide": "right"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "62cdb110305fffd9",
+      "styleAttributes": {
+      },
+      "text": "Base",
+      "type": "text",
+      "width": 250,
+      "x": -140,
+      "y": -120
+    },
+    {
+      "height": 60,
+      "id": "69294d0f6ba1cdf7",
+      "styleAttributes": {
+      },
+      "text": "Brandons Ideas",
+      "type": "text",
+      "width": 250,
+      "x": -140,
+      "y": -260
+    },
+    {
+      "height": 60,
+      "id": "85a50eaa04451f84",
+      "styleAttributes": {
+      },
+      "text": "Base",
+      "type": "text",
+      "width": 250,
+      "x": -140,
+      "y": 340
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "4ec758deeab18bc9",
+      "styleAttributes": {
+      },
+      "text": "Fine",
+      "type": "text",
+      "width": 250,
+      "x": 110,
+      "y": 450
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "e575ec9224c15897",
+      "styleAttributes": {
+      },
+      "text": "Masterwork",
+      "type": "text",
+      "width": 250,
+      "x": 110,
+      "y": 550
+    },
+    {
+      "height": 60,
+      "id": "77c5201db2976fe7",
+      "styleAttributes": {
+      },
+      "text": "add 1 Core Damage Die",
+      "type": "text",
+      "width": 260,
+      "x": 380,
+      "y": 550
+    },
+    {
+      "height": 60,
+      "id": "df691722c6af5982",
+      "styleAttributes": {
+      },
+      "text": "+2 Core Damage",
+      "type": "text",
+      "width": 260,
+      "x": 380,
+      "y": 450
+    },
+    {
+      "height": 98,
+      "id": "61013d4c891d85a9",
+      "styleAttributes": {
+      },
+      "text": "Not Crafting Possible",
+      "type": "text",
+      "width": 142,
+      "x": -120,
+      "y": 531
+    },
+    {
+      "height": 60,
+      "id": "87c327b145fee401",
+      "styleAttributes": {
+      },
+      "text": "Alex Ideas",
+      "type": "text",
+      "width": 250,
+      "x": -140,
+      "y": 240
+    },
+    {
+      "height": 60,
+      "id": "e4040860012cd51c",
+      "styleAttributes": {
+      },
+      "text": "-2 Core Damage",
+      "type": "text",
+      "width": 250,
+      "x": -660,
+      "y": 450
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "5ad5742561535556",
+      "styleAttributes": {
+      },
+      "text": "Poor",
+      "type": "text",
+      "width": 250,
+      "x": -390,
+      "y": 450
+    },
+    {
+      "height": 60,
+      "id": "b04ace2ef47cd365",
+      "styleAttributes": {
+      },
+      "text": "Subtract all Core Damage Die",
+      "type": "text",
+      "width": 250,
+      "x": -660,
+      "y": 550
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "535634f3d0206f33",
+      "styleAttributes": {
+      },
+      "text": "Ruined",
+      "type": "text",
+      "width": 250,
+      "x": -390,
+      "y": 550
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "7afbc423be42ee66",
+      "styleAttributes": {
+      },
+      "text": "Fine",
+      "type": "text",
+      "width": 250,
+      "x": 110,
+      "y": 150
+    },
+    {
+      "height": 60,
+      "id": "3f2cb8884358922b",
+      "styleAttributes": {
+      },
+      "text": "+1d6 Core Damage",
+      "type": "text",
+      "width": 250,
+      "x": 400,
+      "y": 150
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "b0ecac060cdc842a",
+      "styleAttributes": {
+      },
+      "text": "Good",
+      "type": "text",
+      "width": 250,
+      "x": 110,
+      "y": -20
+    },
+    {
+      "height": 50,
+      "id": "4e48febd4e52d464",
+      "styleAttributes": {
+      },
+      "text": "+2 Core Damage",
+      "type": "text",
+      "width": 250,
+      "x": 400,
+      "y": -15
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "48748942af2c2765",
+      "styleAttributes": {
+      },
+      "text": "Fare",
+      "type": "text",
+      "width": 250,
+      "x": 110,
+      "y": 60
+    },
+    {
+      "height": 60,
+      "id": "86f0b269bb02ac48",
+      "styleAttributes": {
+      },
+      "text": "+1d4 Core Damage",
+      "type": "text",
+      "width": 250,
+      "x": 400,
+      "y": 60
+    },
+    {
+      "height": 60,
+      "id": "ebed55f7db60b8a4",
+      "styleAttributes": {
+      },
+      "text": "-3 Core Damage",
+      "type": "text",
+      "width": 250,
+      "x": -700,
+      "y": -15
+    },
+    {
+      "height": 60,
+      "id": "a728affd7a53aeef",
+      "styleAttributes": {
+      },
+      "text": "-1d4 Core Damage",
+      "type": "text",
+      "width": 250,
+      "x": -700,
+      "y": 65
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "55f88a11477c37fa",
+      "styleAttributes": {
+      },
+      "text": "Damaged",
+      "type": "text",
+      "width": 250,
+      "x": -410,
+      "y": -15
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "0fad9669c77c00aa",
+      "styleAttributes": {
+      },
+      "text": "Ruff",
+      "type": "text",
+      "width": 250,
+      "x": -410,
+      "y": 65
+    },
+    {
+      "height": 60,
+      "id": "d8272ec91f81eba4",
+      "styleAttributes": {
+      },
+      "text": "-1d6 Core Damage",
+      "type": "text",
+      "width": 250,
+      "x": -700,
+      "y": 155
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "effc86181b01be66",
+      "styleAttributes": {
+      },
+      "text": "Poor",
+      "type": "text",
+      "width": 250,
+      "x": -410,
+      "y": 155
+    },
+    {
+      "height": 60,
+      "id": "88f8dd448f68189a",
+      "styleAttributes": {
+      },
+      "text": "Base",
+      "type": "text",
+      "width": 250,
+      "x": 1325,
+      "y": -15
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "c67c336fb4ad06f5",
+      "styleAttributes": {
+      },
+      "text": "Fare",
+      "type": "text",
+      "width": 250,
+      "x": 1575,
+      "y": 170
+    },
+    {
+      "height": 60,
+      "id": "b25573c9b8938b10",
+      "styleAttributes": {
+      },
+      "text": "+2 Core Damage, +1 to hit",
+      "type": "text",
+      "width": 250,
+      "x": 1855,
+      "y": 170
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "49b2854bba62eecd",
+      "styleAttributes": {
+      },
+      "text": "Masterwork",
+      "type": "text",
+      "width": 250,
+      "x": 1575,
+      "y": 245
+    },
+    {
+      "height": 60,
+      "id": "608a6a8e26f346da",
+      "styleAttributes": {
+      },
+      "text": "add 1 Core Damage Die",
+      "type": "text",
+      "width": 260,
+      "x": 1855,
+      "y": 245
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "1e07d2cdc0b52e7d",
+      "styleAttributes": {
+      },
+      "text": "Good",
+      "type": "text",
+      "width": 250,
+      "x": 1575,
+      "y": 90
+    },
+    {
+      "height": 50,
+      "id": "084b20a2264b1e8d",
+      "styleAttributes": {
+      },
+      "text": "+1 to hit",
+      "type": "text",
+      "width": 250,
+      "x": 1855,
+      "y": 95
+    },
+    {
+      "height": 60,
+      "id": "3a6ad162ab2b6b9a",
+      "styleAttributes": {
+      },
+      "text": "-2 Core Damage, -1 to hit",
+      "type": "text",
+      "width": 250,
+      "x": 800,
+      "y": 165
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "8d91b8b43d4c7f9f",
+      "styleAttributes": {
+      },
+      "text": "Ruff",
+      "type": "text",
+      "width": 250,
+      "x": 1075,
+      "y": 165
+    },
+    {
+      "height": 60,
+      "id": "5bd27957afa3daf6",
+      "styleAttributes": {
+      },
+      "text": "-1 to hit",
+      "type": "text",
+      "width": 250,
+      "x": 800,
+      "y": 85
+    },
+    {
+      "height": 60,
+      "id": "d2776dd0e4261447",
+      "styleAttributes": {
+      },
+      "text": "Subtract all Core Damage Die",
+      "type": "text",
+      "width": 250,
+      "x": 805,
+      "y": 240
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "7f12538f01fc97b3",
+      "styleAttributes": {
+      },
+      "text": "Ruined",
+      "type": "text",
+      "width": 250,
+      "x": 1075,
+      "y": 240
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "af9cd83647508704",
+      "styleAttributes": {
+      },
+      "text": "Damaged",
+      "type": "text",
+      "width": 250,
+      "x": 1075,
+      "y": 85
+    },
+    {
+      "height": 60,
+      "id": "644fe81a14952834",
+      "styleAttributes": {
+      },
+      "text": "Base",
+      "type": "text",
+      "width": 250,
+      "x": 1325,
+      "y": 400
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "0e3cc467e75e2441",
+      "styleAttributes": {
+      },
+      "text": "Fare",
+      "type": "text",
+      "width": 250,
+      "x": 1575,
+      "y": 585
+    },
+    {
+      "height": 60,
+      "id": "595a5d2779d790a7",
+      "styleAttributes": {
+      },
+      "text": "Resistance 1 to piercing,+1 max stat bonus to ac",
+      "type": "text",
+      "width": 260,
+      "x": 1855,
+      "y": 585
+    },
+    {
+      "height": 100,
+      "id": "a6f3e36222e6a942",
+      "styleAttributes": {
+      },
+      "text": "reduce the level of wound rolls made against you by 1 ",
+      "type": "text",
+      "width": 260,
+      "x": 1855,
+      "y": 660
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "bc07b331dac52a83",
+      "styleAttributes": {
+      },
+      "text": "Good",
+      "type": "text",
+      "width": 250,
+      "x": 1575,
+      "y": 505
+    },
+    {
+      "height": 60,
+      "id": "c779e98d318a78dd",
+      "styleAttributes": {
+      },
+      "text": "+1 max stat bonus to ac",
+      "type": "text",
+      "width": 260,
+      "x": 1855,
+      "y": 505
+    },
+    {
+      "height": 60,
+      "id": "dc63cf5612c763b7",
+      "styleAttributes": {
+      },
+      "text": "Weakness 1 to piercing,-1 max stat bonus to ac",
+      "type": "text",
+      "width": 270,
+      "x": 780,
+      "y": 580
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "e7b894d8093f481f",
+      "styleAttributes": {
+      },
+      "text": "Ruff",
+      "type": "text",
+      "width": 250,
+      "x": 1075,
+      "y": 580
+    },
+    {
+      "height": 60,
+      "id": "d8bb0e1e16492469",
+      "styleAttributes": {
+      },
+      "text": "-1 max stat bonus to ac",
+      "type": "text",
+      "width": 270,
+      "x": 780,
+      "y": 500
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "5ae336b8618c4894",
+      "styleAttributes": {
+      },
+      "text": "Damaged",
+      "type": "text",
+      "width": 250,
+      "x": 1075,
+      "y": 500
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "34449e3218ec02d4",
+      "styleAttributes": {
+      },
+      "text": "Masterwork",
+      "type": "text",
+      "width": 250,
+      "x": 1575,
+      "y": 681
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "73d4df30d4ebe12a",
+      "styleAttributes": {
+      },
+      "text": "Ruined",
+      "type": "text",
+      "width": 250,
+      "x": 1075,
+      "y": 681
+    },
+    {
+      "height": 100,
+      "id": "465b4025ef45c008",
+      "styleAttributes": {
+      },
+      "text": "Increase the level of wound rolls made against you by 1",
+      "type": "text",
+      "width": 275,
+      "x": 780,
+      "y": 660
+    }
+  ]
 }

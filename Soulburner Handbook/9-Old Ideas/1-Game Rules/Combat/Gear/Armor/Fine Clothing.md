@@ -1,0 +1,2 @@
+*Fine Fibers and soft textures, paired with patterns and shapes that show ones wealth for all to see*
+When performing **CHA** rolls with NPC's of a wealthier background add 1 for every quality base or higher the clothing has. However for every level under Base you will loose 1 from the roll.
