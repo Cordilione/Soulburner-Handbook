@@ -32,188 +32,6 @@
       "toSide": "top"
     },
     {
-      "color": "3",
-      "fromNode": "0256f687f33f6f30",
-      "fromSide": "right",
-      "id": "9ac633a3992a77e1",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "3449bee8bad7de00",
-      "toSide": "left"
-    },
-    {
-      "color": "3",
-      "fromNode": "0256f687f33f6f30",
-      "fromSide": "bottom",
-      "id": "d487d552d6da8727",
-      "styleAttributes": {
-        "pathfindingMethod": "square"
-      },
-      "toNode": "f4f92a87cd007997",
-      "toSide": "top"
-    },
-    {
-      "color": "3",
-      "fromNode": "94f011016c7222df",
-      "fromSide": "bottom",
-      "id": "844086de7a85ab4e",
-      "styleAttributes": {
-      },
-      "toNode": "dbe9a4b8146c177c",
-      "toSide": "top"
-    },
-    {
-      "color": "3",
-      "fromNode": "dbe9a4b8146c177c",
-      "fromSide": "bottom",
-      "id": "bca85bf5d8ad55d9",
-      "styleAttributes": {
-      },
-      "toNode": "8eb6f8e019a571e7",
-      "toSide": "top"
-    },
-    {
-      "color": "3",
-      "fromNode": "8eb6f8e019a571e7",
-      "fromSide": "bottom",
-      "id": "e08834013ac5cd78",
-      "styleAttributes": {
-      },
-      "toNode": "ab7a9a5cab090373",
-      "toSide": "top"
-    },
-    {
-      "color": "3",
-      "fromNode": "4582bfc0d7bada0a",
-      "fromSide": "bottom",
-      "id": "6b7cdbb6d14b9ac4",
-      "styleAttributes": {
-      },
-      "toNode": "9d53bc1c1641aa0f",
-      "toSide": "top"
-    },
-    {
-      "color": "3",
-      "fromNode": "f97f17bf63c503f7",
-      "fromSide": "bottom",
-      "id": "1d71dd09718fdf21",
-      "styleAttributes": {
-      },
-      "toNode": "08f6aa8056e24c54",
-      "toSide": "top"
-    },
-    {
-      "color": "3",
-      "fromNode": "ab7a9a5cab090373",
-      "fromSide": "bottom",
-      "id": "6b5f1e446975a965",
-      "styleAttributes": {
-      },
-      "toNode": "236eb3411faa90cb",
-      "toSide": "top"
-    },
-    {
-      "color": "3",
-      "fromNode": "236eb3411faa90cb",
-      "fromSide": "bottom",
-      "id": "29247497cf3dc197",
-      "styleAttributes": {
-      },
-      "toNode": "f98240fd354de771",
-      "toSide": "top"
-    },
-    {
-      "color": "3",
-      "fromNode": "f98240fd354de771",
-      "fromSide": "bottom",
-      "id": "9189ed95fba6f90e",
-      "styleAttributes": {
-      },
-      "toNode": "73d981a74633a2d8",
-      "toSide": "top"
-    },
-    {
-      "color": "3",
-      "fromNode": "a53cb1435188a4a8",
-      "fromSide": "bottom",
-      "id": "38039d09de41db3f",
-      "styleAttributes": {
-      },
-      "toNode": "18a84a01ad7ff21f",
-      "toSide": "top"
-    },
-    {
-      "color": "3",
-      "fromNode": "9d53bc1c1641aa0f",
-      "fromSide": "bottom",
-      "id": "fc85fdf4ab23e540",
-      "styleAttributes": {
-      },
-      "toNode": "a917fe419200f55a",
-      "toSide": "top"
-    },
-    {
-      "color": "3",
-      "fromNode": "08f6aa8056e24c54",
-      "fromSide": "bottom",
-      "id": "e6c77503eeb10adc",
-      "styleAttributes": {
-      },
-      "toNode": "0d49cf6588bce0c9",
-      "toSide": "top"
-    },
-    {
-      "color": "3",
-      "fromNode": "8684242c0a11daaf",
-      "fromSide": "bottom",
-      "id": "12c0e41889712e1e",
-      "styleAttributes": {
-      },
-      "toNode": "7706e28ea1463b8b",
-      "toSide": "top"
-    },
-    {
-      "color": "3",
-      "fromNode": "73d981a74633a2d8",
-      "fromSide": "bottom",
-      "id": "1083e76930e24dec",
-      "styleAttributes": {
-      },
-      "toNode": "b64d614679b315a2",
-      "toSide": "top"
-    },
-    {
-      "color": "3",
-      "fromNode": "18a84a01ad7ff21f",
-      "fromSide": "bottom",
-      "id": "f4ac53509e12069d",
-      "styleAttributes": {
-      },
-      "toNode": "ae90411eebe22001",
-      "toSide": "top"
-    },
-    {
-      "color": "3",
-      "fromNode": "a917fe419200f55a",
-      "fromSide": "bottom",
-      "id": "2a2e417b478f7729",
-      "styleAttributes": {
-      },
-      "toNode": "70f18501a269df31",
-      "toSide": "top"
-    },
-    {
-      "color": "3",
-      "fromNode": "b64d614679b315a2",
-      "fromSide": "bottom",
-      "id": "846d26c12415535a",
-      "styleAttributes": {
-      },
-      "toNode": "be2380e0c20663aa",
-      "toSide": "top"
-    },
-    {
       "fromNode": "3c76f7cd223c4a90",
       "fromSide": "bottom",
       "id": "896de0ae5b5e6ec9",
@@ -496,15 +314,24 @@
       "toSide": "right"
     },
     {
+      "fromNode": "e1510d664fe3b015",
+      "fromSide": "right",
+      "id": "828fe9a299d637b6",
+      "styleAttributes": {
+      },
+      "toNode": "0be27e10d64c4c74",
+      "toSide": "left"
+    },
+    {
       "color": "3",
-      "fromNode": "ae2384ae10d40e4d",
+      "fromNode": "0256f687f33f6f30",
       "fromSide": "bottom",
-      "id": "3232ca217d0d5de7",
+      "id": "d487d552d6da8727",
       "styleAttributes": {
         "pathfindingMethod": "square"
       },
-      "toNode": "2313ac72d4ec18ae",
-      "toSide": "left"
+      "toNode": "f4f92a87cd007997",
+      "toSide": "top"
     },
     {
       "color": "3",
@@ -529,13 +356,186 @@
       "toSide": "top"
     },
     {
-      "fromNode": "e1510d664fe3b015",
+      "color": "3",
+      "fromNode": "0256f687f33f6f30",
       "fromSide": "right",
-      "id": "828fe9a299d637b6",
+      "id": "9ac633a3992a77e1",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "3449bee8bad7de00",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromNode": "ae2384ae10d40e4d",
+      "fromSide": "bottom",
+      "id": "3232ca217d0d5de7",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "2313ac72d4ec18ae",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromNode": "73d981a74633a2d8",
+      "fromSide": "bottom",
+      "id": "1083e76930e24dec",
       "styleAttributes": {
       },
-      "toNode": "0be27e10d64c4c74",
-      "toSide": "left"
+      "toNode": "b64d614679b315a2",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "18a84a01ad7ff21f",
+      "fromSide": "bottom",
+      "id": "f4ac53509e12069d",
+      "styleAttributes": {
+      },
+      "toNode": "ae90411eebe22001",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "a917fe419200f55a",
+      "fromSide": "bottom",
+      "id": "2a2e417b478f7729",
+      "styleAttributes": {
+      },
+      "toNode": "70f18501a269df31",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "b64d614679b315a2",
+      "fromSide": "bottom",
+      "id": "846d26c12415535a",
+      "styleAttributes": {
+      },
+      "toNode": "be2380e0c20663aa",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "94f011016c7222df",
+      "fromSide": "bottom",
+      "id": "844086de7a85ab4e",
+      "styleAttributes": {
+      },
+      "toNode": "dbe9a4b8146c177c",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "dbe9a4b8146c177c",
+      "fromSide": "bottom",
+      "id": "bca85bf5d8ad55d9",
+      "styleAttributes": {
+      },
+      "toNode": "8eb6f8e019a571e7",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "8eb6f8e019a571e7",
+      "fromSide": "bottom",
+      "id": "e08834013ac5cd78",
+      "styleAttributes": {
+      },
+      "toNode": "ab7a9a5cab090373",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "4582bfc0d7bada0a",
+      "fromSide": "bottom",
+      "id": "6b7cdbb6d14b9ac4",
+      "styleAttributes": {
+      },
+      "toNode": "9d53bc1c1641aa0f",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "f97f17bf63c503f7",
+      "fromSide": "bottom",
+      "id": "1d71dd09718fdf21",
+      "styleAttributes": {
+      },
+      "toNode": "08f6aa8056e24c54",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "ab7a9a5cab090373",
+      "fromSide": "bottom",
+      "id": "6b5f1e446975a965",
+      "styleAttributes": {
+      },
+      "toNode": "236eb3411faa90cb",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "236eb3411faa90cb",
+      "fromSide": "bottom",
+      "id": "29247497cf3dc197",
+      "styleAttributes": {
+      },
+      "toNode": "f98240fd354de771",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "f98240fd354de771",
+      "fromSide": "bottom",
+      "id": "9189ed95fba6f90e",
+      "styleAttributes": {
+      },
+      "toNode": "73d981a74633a2d8",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "a53cb1435188a4a8",
+      "fromSide": "bottom",
+      "id": "38039d09de41db3f",
+      "styleAttributes": {
+      },
+      "toNode": "18a84a01ad7ff21f",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "9d53bc1c1641aa0f",
+      "fromSide": "bottom",
+      "id": "fc85fdf4ab23e540",
+      "styleAttributes": {
+      },
+      "toNode": "a917fe419200f55a",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "08f6aa8056e24c54",
+      "fromSide": "bottom",
+      "id": "e6c77503eeb10adc",
+      "styleAttributes": {
+      },
+      "toNode": "0d49cf6588bce0c9",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "8684242c0a11daaf",
+      "fromSide": "bottom",
+      "id": "12c0e41889712e1e",
+      "styleAttributes": {
+      },
+      "toNode": "7706e28ea1463b8b",
+      "toSide": "top"
     }
   ],
   "nodes": [
@@ -587,7 +587,7 @@
       "y": 550
     },
     {
-      "height": 1420,
+      "height": 1340,
       "id": "7d96336fdc487c87",
       "label": "2 Other Trainings",
       "styleAttributes": {
@@ -595,10 +595,10 @@
       "type": "group",
       "width": 440,
       "x": 3340,
-      "y": 300
+      "y": 380
     },
     {
-      "height": 1400,
+      "height": 1330,
       "id": "841aa6a21fabb701",
       "label": "4 Trainings",
       "styleAttributes": {
@@ -606,33 +606,7 @@
       "type": "group",
       "width": 300,
       "x": 3840,
-      "y": 300
-    },
-    {
-      "color": "2",
-      "height": 120,
-      "id": "01a1db655499a0c7",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Skills in Transmutation for Transforming the dead into Tokens to keep (Corpse into Diamonds)",
-      "type": "text",
-      "width": 270,
-      "x": 3480,
-      "y": -1055
-    },
-    {
-      "color": "3",
-      "height": 80,
-      "id": "6b97fcd3215b2df2",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Conversion to a True Totem (Normal to True for the life like visuals at no mana Cost)",
-      "type": "text",
-      "width": 260,
-      "x": 2965,
-      "y": -715
+      "y": 370
     },
     {
       "height": 60,
@@ -644,19 +618,6 @@
       "width": 260,
       "x": 2850,
       "y": -505
-    },
-    {
-      "color": "2",
-      "height": 60,
-      "id": "a6bdfa8116856111",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Butchery and Body break down ",
-      "type": "text",
-      "width": 180,
-      "x": 2180,
-      "y": -905
     },
     {
       "color": "2",
@@ -707,6 +668,108 @@
       "width": 290,
       "x": 2950,
       "y": -815
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "dea085808c30d827",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Counter spell like effects on Continuous  Spells",
+      "type": "text",
+      "width": 240,
+      "x": 1835,
+      "y": -665
+    },
+    {
+      "color": "2",
+      "height": 100,
+      "id": "d156d2f775199865",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Increased Mana Cost for other Casters by pulling Spirit away from them",
+      "type": "text",
+      "width": 228,
+      "x": 2017,
+      "y": -585
+    },
+    {
+      "height": 60,
+      "id": "e84200acd1af698e",
+      "styleAttributes": {
+        "border": "dotted",
+        "textAlign": "center"
+      },
+      "text": "Cards like this are an Idea or Note",
+      "type": "text",
+      "width": 260,
+      "x": 1090,
+      "y": -250
+    },
+    {
+      "height": 320,
+      "id": "81952eded4be314a",
+      "styleAttributes": {
+      },
+      "text": "Groups are for General Requirements\n\nArrows are Targeted Requirements\n\nAll Trainings are additive with Each other\n\nHit the - next to any group to hide it from view",
+      "type": "text",
+      "width": 320,
+      "x": 720,
+      "y": -400
+    },
+    {
+      "height": 220,
+      "id": "09eda74342c792ee",
+      "styleAttributes": {
+        "border": "dotted",
+        "textAlign": "center"
+      },
+      "text": "### This is not the entire Church but instead a target first pass Focused on 1st level and Character interests",
+      "type": "text",
+      "width": 260,
+      "x": 1390,
+      "y": -220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "01a1db655499a0c7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Skills in Transmutation for Transforming the dead into Tokens to keep (Corpse into Diamonds)",
+      "type": "text",
+      "width": 270,
+      "x": 3480,
+      "y": -1055
+    },
+    {
+      "color": "3",
+      "height": 80,
+      "id": "6b97fcd3215b2df2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Conversion to a True Totem (Normal to True for the life like visuals at no mana Cost)",
+      "type": "text",
+      "width": 260,
+      "x": 2965,
+      "y": -715
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "a6bdfa8116856111",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Butchery and Body break down ",
+      "type": "text",
+      "width": 180,
+      "x": 2180,
+      "y": -905
     },
     {
       "color": "2",
@@ -770,17 +833,6 @@
       "y": -1055
     },
     {
-      "height": 100,
-      "id": "9e22a0029b561c39",
-      "styleAttributes": {
-      },
-      "text": "Focus on Totem creation and the effort to hold the dead close.",
-      "type": "text",
-      "width": 280,
-      "x": 3300,
-      "y": -1245
-    },
-    {
       "color": "2",
       "height": 160,
       "id": "ad1c1d5d86c53a14",
@@ -794,18 +846,6 @@
       "y": -915
     },
     {
-      "height": 60,
-      "id": "b1632aee37ca5c99",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Rites of Holding",
-      "type": "text",
-      "width": 200,
-      "x": 3340,
-      "y": -1365
-    },
-    {
       "color": "3",
       "height": 60,
       "id": "201d41bf56dcf85c",
@@ -817,6 +857,29 @@
       "width": 220,
       "x": 2700,
       "y": -815
+    },
+    {
+      "height": 100,
+      "id": "9e22a0029b561c39",
+      "styleAttributes": {
+      },
+      "text": "Focus on Totem creation and the effort to hold the dead close.",
+      "type": "text",
+      "width": 280,
+      "x": 3300,
+      "y": -1245
+    },
+    {
+      "height": 60,
+      "id": "b1632aee37ca5c99",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Rites of Holding",
+      "type": "text",
+      "width": 200,
+      "x": 3340,
+      "y": -1365
     },
     {
       "height": 140,
@@ -879,18 +942,6 @@
       "y": -1105
     },
     {
-      "height": 60,
-      "id": "3cf16bc86c93f18f",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Rites of Spreading",
-      "type": "text",
-      "width": 200,
-      "x": 2030,
-      "y": -1385
-    },
-    {
       "height": 140,
       "id": "877e0394469e0482",
       "styleAttributes": {
@@ -916,111 +967,41 @@
       "y": -905
     },
     {
-      "color": "2",
       "height": 60,
-      "id": "dea085808c30d827",
+      "id": "3cf16bc86c93f18f",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "Counter spell like effects on Continuous  Spells",
+      "text": "Rites of Spreading",
       "type": "text",
-      "width": 240,
-      "x": 1835,
-      "y": -665
-    },
-    {
-      "color": "2",
-      "height": 100,
-      "id": "d156d2f775199865",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Increased Mana Cost for other Casters by pulling Spirit away from them",
-      "type": "text",
-      "width": 228,
-      "x": 2017,
-      "y": -585
+      "width": 200,
+      "x": 2030,
+      "y": -1385
     },
     {
       "height": 60,
-      "id": "5a68d141d56743a3",
-      "styleAttributes": {
-      },
-      "text": "~ DND 7th",
-      "type": "text",
-      "width": 260,
-      "x": 170,
-      "y": 1340
-    },
-    {
-      "height": 60,
-      "id": "236eb3411faa90cb",
-      "styleAttributes": {
-      },
-      "text": "+1 to Death Rite Lore",
-      "type": "text",
-      "width": 260,
-      "x": 640,
-      "y": 570
-    },
-    {
-      "file": "1-Training Trees/Herron's Church/Disperse the Dead.md",
-      "height": 250,
-      "id": "d7f7283f15dd0190",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2870,
-      "y": 0
-    },
-    {
-      "height": 130,
-      "id": "e7790ec3b708b270",
-      "styleAttributes": {
-        "border": "dotted",
-        "textAlign": "center"
-      },
-      "text": "Could remove cap or have cap be a function of AP",
-      "type": "text",
-      "width": 180,
-      "x": 2580,
-      "y": 235
-    },
-    {
-      "file": "1-Training Trees/Herron's Church/Loved Souls.md",
-      "height": 220,
-      "id": "23ceb6e8dfb62c8d",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2340,
-      "y": -20
-    },
-    {
-      "height": 60,
-      "id": "70f18501a269df31",
+      "id": "0be27e10d64c4c74",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "+1 to Totem Craft Skill",
+      "text": "## [[Power from Loss]]",
       "type": "text",
       "width": 300,
-      "x": 920,
-      "y": 1140
+      "x": 2190,
+      "y": -180
     },
     {
-      "height": 140,
-      "id": "69c56706f4fc754c",
+      "color": "3",
+      "height": 180,
+      "id": "6daac1fee0308eb8",
       "styleAttributes": {
-        "border": "dotted"
+        "textAlign": "center"
       },
-      "text": "Currently 2 Trainings due to holdover of wanting 5th for Power of Loss Combining is more than okay",
+      "text": "Allow for Totem telepathic communication to remain even if Totem is not summoned through a far smaller Mana Reservation",
       "type": "text",
-      "width": 300,
-      "x": 3340,
-      "y": 110
+      "width": 310,
+      "x": 2640,
+      "y": -705
     },
     {
       "height": 60,
@@ -1035,37 +1016,24 @@
     },
     {
       "height": 60,
-      "id": "4582bfc0d7bada0a",
+      "id": "b64d614679b315a2",
       "styleAttributes": {
-        "textAlign": "center"
       },
-      "text": "+1 to Totem Craft Skill",
+      "text": "+2 to Death Rite Lore",
       "type": "text",
-      "width": 300,
-      "x": 920,
-      "y": 320
+      "width": 260,
+      "x": 640,
+      "y": 1140
     },
     {
       "height": 60,
-      "id": "f98240fd354de771",
+      "id": "236eb3411faa90cb",
       "styleAttributes": {
       },
       "text": "+1 to Death Rite Lore",
       "type": "text",
       "width": 260,
       "x": 640,
-      "y": 660
-    },
-    {
-      "height": 60,
-      "id": "a917fe419200f55a",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "+1 to Totem Craft Skill",
-      "type": "text",
-      "width": 300,
-      "x": 920,
       "y": 570
     },
     {
@@ -1078,74 +1046,6 @@
       "width": 260,
       "x": 1230,
       "y": 570
-    },
-    {
-      "height": 60,
-      "id": "f97f17bf63c503f7",
-      "styleAttributes": {
-      },
-      "text": "+1 to Butchery Skill",
-      "type": "text",
-      "width": 260,
-      "x": 1230,
-      "y": 320
-    },
-    {
-      "height": 60,
-      "id": "b64d614679b315a2",
-      "styleAttributes": {
-      },
-      "text": "+2 to Death Rite Lore",
-      "type": "text",
-      "width": 260,
-      "x": 640,
-      "y": 1140
-    },
-    {
-      "height": 60,
-      "id": "73d981a74633a2d8",
-      "styleAttributes": {
-      },
-      "text": "+2 to Death Rite Lore",
-      "type": "text",
-      "width": 260,
-      "x": 640,
-      "y": 740
-    },
-    {
-      "height": 60,
-      "id": "9d53bc1c1641aa0f",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "+1 to Totem Craft Skill",
-      "type": "text",
-      "width": 300,
-      "x": 920,
-      "y": 420
-    },
-    {
-      "height": 60,
-      "id": "08f6aa8056e24c54",
-      "styleAttributes": {
-      },
-      "text": "+1 to Butchery Skill",
-      "type": "text",
-      "width": 260,
-      "x": 1230,
-      "y": 420
-    },
-    {
-      "height": 60,
-      "id": "f4f92a87cd007997",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Power from Loss multiplier increase to 20",
-      "type": "text",
-      "width": 260,
-      "x": 3860,
-      "y": 1180
     },
     {
       "height": 60,
@@ -1172,7 +1072,7 @@
     },
     {
       "height": 60,
-      "id": "a53cb1435188a4a8",
+      "id": "ae90411eebe22001",
       "styleAttributes": {
         "textAlign": "center"
       },
@@ -1180,7 +1080,121 @@
       "type": "text",
       "width": 260,
       "x": 1820,
+      "y": 1140
+    },
+    {
+      "height": 60,
+      "id": "5a68d141d56743a3",
+      "styleAttributes": {
+      },
+      "text": "~ DND 7th",
+      "type": "text",
+      "width": 260,
+      "x": 170,
+      "y": 1340
+    },
+    {
+      "height": 60,
+      "id": "4582bfc0d7bada0a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "+1 to Totem Craft Skill",
+      "type": "text",
+      "width": 300,
+      "x": 920,
+      "y": 320
+    },
+    {
+      "height": 60,
+      "id": "9d53bc1c1641aa0f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "+1 to Totem Craft Skill",
+      "type": "text",
+      "width": 300,
+      "x": 920,
       "y": 420
+    },
+    {
+      "height": 60,
+      "id": "ab7a9a5cab090373",
+      "styleAttributes": {
+      },
+      "text": "+1 to Death Rite Lore",
+      "type": "text",
+      "width": 260,
+      "x": 640,
+      "y": 390
+    },
+    {
+      "height": 60,
+      "id": "8eb6f8e019a571e7",
+      "styleAttributes": {
+      },
+      "text": "+1 to Death Rite Lore",
+      "type": "text",
+      "width": 260,
+      "x": 640,
+      "y": 310
+    },
+    {
+      "height": 60,
+      "id": "70f18501a269df31",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "+1 to Totem Craft Skill",
+      "type": "text",
+      "width": 300,
+      "x": 920,
+      "y": 1140
+    },
+    {
+      "height": 60,
+      "id": "f98240fd354de771",
+      "styleAttributes": {
+      },
+      "text": "+1 to Death Rite Lore",
+      "type": "text",
+      "width": 260,
+      "x": 640,
+      "y": 660
+    },
+    {
+      "height": 60,
+      "id": "a917fe419200f55a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "+1 to Totem Craft Skill",
+      "type": "text",
+      "width": 300,
+      "x": 920,
+      "y": 570
+    },
+    {
+      "height": 60,
+      "id": "73d981a74633a2d8",
+      "styleAttributes": {
+      },
+      "text": "+2 to Death Rite Lore",
+      "type": "text",
+      "width": 260,
+      "x": 640,
+      "y": 740
+    },
+    {
+      "file": "1-Training Trees/Herron's Church/Disperse the Dead.md",
+      "height": 250,
+      "id": "d7f7283f15dd0190",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2870,
+      "y": 0
     },
     {
       "file": "1-Training Trees/Herron's Church/True Totem Ritual.md",
@@ -1205,96 +1219,6 @@
       "y": 880
     },
     {
-      "height": 90,
-      "id": "3449bee8bad7de00",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Power from Loss target count increase by 1",
-      "type": "text",
-      "width": 260,
-      "x": 3500,
-      "y": 730
-    },
-    {
-      "file": "1-Training Trees/Herron's Church/Magic's true Cost.md",
-      "height": 300,
-      "id": "d023b5a537ab1ad4",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2270,
-      "y": 1200
-    },
-    {
-      "file": "1-Training Trees/Herron's Church/Power from Loss.md",
-      "height": 240,
-      "id": "0256f687f33f6f30",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2870,
-      "y": 300
-    },
-    {
-      "height": 60,
-      "id": "ae90411eebe22001",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "+1 to (Console) Skill",
-      "type": "text",
-      "width": 260,
-      "x": 1820,
-      "y": 1140
-    },
-    {
-      "height": 60,
-      "id": "8684242c0a11daaf",
-      "styleAttributes": {
-      },
-      "text": "+1 to Survival Skill",
-      "type": "text",
-      "width": 260,
-      "x": 1520,
-      "y": 420
-    },
-    {
-      "height": 60,
-      "id": "ab7a9a5cab090373",
-      "styleAttributes": {
-      },
-      "text": "+1 to Death Rite Lore",
-      "type": "text",
-      "width": 260,
-      "x": 640,
-      "y": 390
-    },
-    {
-      "file": "1-Training Trees/Herron's Church/Words of the Saved.md",
-      "height": 245,
-      "id": "41c24ce21ddb46de",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 2360,
-      "y": 598
-    },
-    {
-      "height": 60,
-      "id": "8eb6f8e019a571e7",
-      "styleAttributes": {
-      },
-      "text": "+1 to Death Rite Lore",
-      "type": "text",
-      "width": 260,
-      "x": 640,
-      "y": 310
-    },
-    {
       "height": 60,
       "id": "94f011016c7222df",
       "styleAttributes": {
@@ -1317,27 +1241,28 @@
       "y": 220
     },
     {
-      "file": "1-Training Trees/Herron's Church/A Familure Flow.md",
-      "height": 260,
-      "id": "ae2384ae10d40e4d",
+      "height": 130,
+      "id": "e7790ec3b708b270",
+      "styleAttributes": {
+        "border": "dotted",
+        "textAlign": "center"
+      },
+      "text": "Could remove cap or have cap be a function of AP",
+      "type": "text",
+      "width": 180,
+      "x": 2580,
+      "y": 235
+    },
+    {
+      "file": "1-Training Trees/Herron's Church/Loved Souls.md",
+      "height": 220,
+      "id": "23ceb6e8dfb62c8d",
       "styleAttributes": {
       },
       "type": "file",
       "width": 400,
-      "x": 2140,
-      "y": 260
-    },
-    {
-      "height": 60,
-      "id": "0be27e10d64c4c74",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "## [[Power from Loss]]",
-      "type": "text",
-      "width": 300,
-      "x": 2190,
-      "y": -180
+      "x": 2340,
+      "y": -20
     },
     {
       "height": 160,
@@ -1353,54 +1278,129 @@
       "y": -80
     },
     {
-      "color": "3",
-      "height": 180,
-      "id": "6daac1fee0308eb8",
+      "file": "1-Training Trees/Herron's Church/Magic's true Cost.md",
+      "height": 300,
+      "id": "d023b5a537ab1ad4",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2270,
+      "y": 1200
+    },
+    {
+      "file": "1-Training Trees/Herron's Church/Words of the Saved.md",
+      "height": 245,
+      "id": "41c24ce21ddb46de",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2360,
+      "y": 598
+    },
+    {
+      "height": 90,
+      "id": "3449bee8bad7de00",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "Allow for Totem telepathic communication to remain even if Totem is not summoned through a far smaller Mana Reservation",
+      "text": "Power from Loss target count increase by 1",
       "type": "text",
-      "width": 310,
-      "x": 2640,
-      "y": -705
+      "width": 260,
+      "x": 3430,
+      "y": 740
     },
     {
       "height": 60,
-      "id": "e84200acd1af698e",
+      "id": "f97f17bf63c503f7",
       "styleAttributes": {
-        "border": "dotted",
-        "textAlign": "center"
       },
-      "text": "Cards like this are an Idea or Note",
+      "text": "+1 to Butchery Skill",
       "type": "text",
       "width": 260,
-      "x": 1090,
-      "y": -250
+      "x": 1230,
+      "y": 320
     },
     {
-      "height": 320,
-      "id": "81952eded4be314a",
+      "height": 60,
+      "id": "08f6aa8056e24c54",
       "styleAttributes": {
       },
-      "text": "Groups are for General Requirements\n\nArrows are Targeted Requirements\n\nAll Trainings are additive with Each other\n\nHit the - next to any group to hide it from view",
-      "type": "text",
-      "width": 320,
-      "x": 720,
-      "y": -400
-    },
-    {
-      "height": 220,
-      "id": "09eda74342c792ee",
-      "styleAttributes": {
-        "border": "dotted",
-        "textAlign": "center"
-      },
-      "text": "### This is not the entire Church but instead a target first pass Focused on 1st level and Character interests",
+      "text": "+1 to Butchery Skill",
       "type": "text",
       "width": 260,
-      "x": 1390,
-      "y": -220
+      "x": 1230,
+      "y": 420
+    },
+    {
+      "height": 60,
+      "id": "f4f92a87cd007997",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Power from Loss multiplier increase to 20",
+      "type": "text",
+      "width": 260,
+      "x": 3860,
+      "y": 1180
+    },
+    {
+      "file": "1-Training Trees/Herron's Church/Power from Loss.md",
+      "height": 240,
+      "id": "0256f687f33f6f30",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2870,
+      "y": 300
+    },
+    {
+      "file": "1-Training Trees/Herron's Church/A Familure Flow.md",
+      "height": 260,
+      "id": "ae2384ae10d40e4d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2140,
+      "y": 260
+    },
+    {
+      "height": 60,
+      "id": "a53cb1435188a4a8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "+1 to (Console) Skill",
+      "type": "text",
+      "width": 260,
+      "x": 1820,
+      "y": 420
+    },
+    {
+      "height": 60,
+      "id": "8684242c0a11daaf",
+      "styleAttributes": {
+      },
+      "text": "+1 to Survival Skill",
+      "type": "text",
+      "width": 260,
+      "x": 1520,
+      "y": 420
+    },
+    {
+      "height": 140,
+      "id": "69c56706f4fc754c",
+      "styleAttributes": {
+        "border": "dotted"
+      },
+      "text": "Currently 2 Trainings due to holdover of wanting 5th for Power of Loss Combining is more than okay",
+      "type": "text",
+      "width": 300,
+      "x": 3380,
+      "y": 55
     }
   ]
 }
