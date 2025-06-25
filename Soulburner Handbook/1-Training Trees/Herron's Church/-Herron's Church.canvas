@@ -1214,5 +1214,13 @@
 			"x":3380,
 			"y":55
 		}
+<<<<<<< HEAD
 	]
+=======
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+>>>>>>> origin/Alex-Dev
 }
