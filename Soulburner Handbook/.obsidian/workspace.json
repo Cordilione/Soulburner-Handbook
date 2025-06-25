@@ -15,8 +15,8 @@
               "state": {
                 "file": "1-Training Trees/Herron's Church/-Herron's Church.canvas",
                 "viewState": {
-                  "x": 2695.2268844882096,
-                  "y": -81.08008557307755,
+                  "x": 2440.673775651964,
+                  "y": 495.1255383453165,
                   "zoom": -1.2518034478367353
                 }
               },
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cd44aebd31464d28",
@@ -188,8 +187,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40065828cf53833b",
+  "active": "0419f554a0dff5cf",
   "lastOpenFiles": [
+    "1-Training Trees/Totem Combat",
     "1-Training Trees/Herron's Church/Power from Loss.md",
     "1-Training Trees/Herron's Church/-Herron's Church.canvas",
     "1-Training Trees/Herron's Church/Words of the Saved.md",
