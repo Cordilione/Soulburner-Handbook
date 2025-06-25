@@ -1,2 +1,2 @@
-You understand that Magic is the use of spirt the final power of the dead. You can pull spirt away from casters to magic their magic a more intensive act to perform.
+You understand that Magic is the use of spirt the final power of the dead. You can pull spirt away from casters to make their magic a more intensive act to perform.
 (Some reactionary system to spend mana to add that cost to another casters spell. Looking for ideas)

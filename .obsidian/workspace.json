@@ -1,24 +1,23 @@
 {
   "main": {
-    "id": "4ae5d5caa0be7fd5",
+    "id": "4e75e3e3f7140a13",
     "type": "split",
     "children": [
       {
-        "id": "1725664000bb3f81",
+        "id": "2da93abc65a206d7",
         "type": "tabs",
         "children": [
           {
-            "id": "7b2335839180a524",
+            "id": "7dc70197be379af0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soulburner Handbook/1-Design Characters/Maric QRS.md",
+                "file": "Soulburner Handbook/1-Training Trees/Herron's Church/Disperse the Dead.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-
               "title": "Maric QRS"
             }
           },
@@ -37,22 +36,21 @@
               "title": "Attribute Training"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d5b530525502d6e1",
+    "id": "132bf451de9791e9",
     "type": "split",
     "children": [
       {
-        "id": "0234171c7f064a7e",
+        "id": "a1a542d9a500345f",
         "type": "tabs",
         "children": [
           {
-            "id": "786e24e0be424b98",
+            "id": "2f4d921f16e4b83b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,7 +63,7 @@
             }
           },
           {
-            "id": "f749e3fd8e18dee7",
+            "id": "6b5eb29b8ff1330e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,7 +80,7 @@
             }
           },
           {
-            "id": "fe2f90ee64254e59",
+            "id": "f2dcd84b57e666f8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,23 +93,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "5c97a701e8b77d24",
+    "id": "c193863b8e5663b9",
     "type": "split",
     "children": [
       {
-        "id": "c3adfa0099241e64",
+        "id": "1336d353c0d6950b",
         "type": "tabs",
         "children": [
           {
-            "id": "9685d5d8d4777a53",
+            "id": "8d8b3de00d51e999",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Soulburner Handbook/Notes/Alen Notes/Elemental Projectiles.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,50 +119,55 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test"
+              "title": "Backlinks for Elemental Projectiles"
             }
           },
           {
-            "id": "4e28a3915f2ac689",
+            "id": "68df4e4f94ac8966",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Soulburner Handbook/Notes/Alen Notes/Elemental Projectiles.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from test"
+              "title": "Outgoing links from Elemental Projectiles"
             }
           },
           {
-            "id": "84a1e47bbd23f748",
+            "id": "337c22d38786611a",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "1bd0fd2b66425c67",
+            "id": "1e639df49f420ff6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Soulburner Handbook/Notes/Alen Notes/Elemental Projectiles.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test"
+              "title": "Outline of Elemental Projectiles"
             }
           },
           {
-            "id": "7cf9ad87c1d882ba",
+            "id": "798fa0096e422aec",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -179,7 +182,6 @@
     ],
     "direction": "horizontal",
     "width": 200
-
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,29 +194,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-
   "active": "1acfff182a290bc1",
   "lastOpenFiles": [
-    "Soulburner Handbook/1-Design Characters/Maric QRS.md",
-    "Attribute Training.md",
-    "Soulburner Handbook/Notes/Old Notes/Fighter Notes from Goblin Slayer.md",
-    "Soulburner Handbook/Notes/Old Notes/Damage Res idea.md",
-    "Soulburner Handbook/1-Design Characters/Fred build 1-5-25.md",
-    "Leather Armor.md",
-    "Soulburner Handbook/Notes/Old Notes/Scale Armor.md",
-    "Soulburner Handbook/1-Game Rules/Combat/Gear/Armor/Leather Armor.md",
-    "Soulburner Handbook/1-Design Characters/Brandon Build 1-7-25.md",
-    "Soulburner Handbook/1-Design Characters/Clean Fred (Layla).md",
-    "Soulburner Handbook/9-Old Ideas/Magic/Combustion Spell Base draft 2.md",
-    "Soulburner Handbook/Notes/Old Notes/Markus Stat Spread.md",
-    "Soulburner Handbook/Notes/Old Notes/Armor Notes.canvas",
-    "Soulburner Handbook/Notes/Old Notes/Brandon.md",
-    "Soulburner Handbook/Notes/Old Notes/Alex.md",
-    "Soulburner Handbook/9-Old Ideas/Magic/Mana Burn.md",
-    "Soulburner Handbook/9-Old Ideas/Magic/Restoration Spell Bases/Stolen Vigor.md",
-    "Soulburner Handbook/9-Old Ideas/Magic/Personal Bases/Guarding Spirit.md",
-    "Soulburner Handbook/9-Old Ideas/Character Creation/Classes/Evocation Magic/Untitled.md",
-    "Soulburner Handbook/9-Old Ideas/Character Creation/Classes/Evocation Magic/-Evocation Overview.md",
+    "Soulburner Handbook/1-Training Trees/Herron's Church/-Herron's Church.canvas",
+    "Soulburner Handbook/1-Training Trees/Herron's Church/Words of the Saved.md",
+    "Soulburner Handbook/1-Training Trees/Herron's Church/True Totem Ritual.md",
+    "Soulburner Handbook/1-Training Trees/Herron's Church/Disperse the Dead.md",
+    "Soulburner Handbook/1-Training Trees/Herron's Church/Power from Loss.md",
+    "Soulburner Handbook/1-Training Trees/Herron's Church/Magic's true Cost.md",
+    "Soulburner Handbook/1-Training Trees/Herron's Church/Loved Souls.md",
+    "Soulburner Handbook/1-Training Trees/Herron's Church/A Familure Flow.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Character/Trainings/Aramid Church/Aramid.canvas",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Armor and Shields.canvas",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Gear Condition.canvas",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Items/Totems/Communication Raven Totem.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Leveling/Magic Growth, Training, and Learning.md",
     "Soulburner Handbook/9-Old Ideas/Character Creation/Classes/Illusionist/-Illusionist Overview.md",
     "Soulburner Handbook/1-Design Characters/Fred second pass (Jaine).md",
     "Soulburner Handbook/1-Design Characters/Ella the Needle Knight.md",
@@ -235,24 +229,42 @@
     "Soulburner Handbook/9-Old Ideas/Gear/Melee/Staves",
     "Soulburner Handbook/1-Game Rules/Combat/Gear/Gear Condition.canvas",
     "Soulburner Handbook/Weapon Quality.canvas",
-
-
     "Soulburner Handbook/z-Images/The Aftermath Environment (Leartes Studios).png",
+    "Soulburner Handbook/z-Images/Path Armor Table - Nethys.png",
+    "Soulburner Handbook/z-Images/Mock Stats/Screenshot 2025-06-04 140116.png",
+    "Soulburner Handbook/z-Images/Mock Stats/Screenshot 2025-06-04 135951.png",
+    "Soulburner Handbook/z-Images/Mock Stats",
+    "Soulburner Handbook/z-Images/DND Armor Table - roll 20.png",
+    "Soulburner Handbook/Notes/Stat Spread.canvas",
+    "Soulburner Handbook/Notes/Old Notes/Breastplate.md",
+    "Soulburner Handbook/Notes/Alen Notes/Untitled.canvas",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Tower Shield.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Tower Shield Post Talk.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Sigaled Garb.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Round Shield Post Talk.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Round Shield.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Kite Shield.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Kite Shield Post Talk.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas/Explorer's Clothing.md",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor/Shield Ideas",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Weapons",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear/Armor",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Character/Trainings/Aramid Church",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Combat/Gear",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Items/Totems",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Character/Trainings",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Leveling",
+    "Soulburner Handbook/9-Old Ideas/1-Game Rules/Items",
+    "Soulburner Handbook/Notes/Alen Notes/Elemental Projectiles.canvas",
+    "Soulburner Handbook/Notes/Old Notes/Weapon Quality.canvas",
     "Soulburner Handbook/z-Images/Short Sword - Spartan Lakonia Strongblade.png",
     "Soulburner Handbook/z-Images/Rapier - Jesse Belsky Stage blades.png",
-    "Soulburner Handbook/z-Images/Needle Knight- Asner Boi.png",
-
-    "Soulburner Handbook/z-Images/Manoizy - Peter Mohrbacher.png",
+    "Soulburner Handbook/z-Images/Pasted image 20250204202008.png",
     "Soulburner Handbook/z-Images/Ivatight Sword - Nuuskapeke47.png",
     "Soulburner Handbook/z-Images/Breath in Squire (Youtube).png",
-
-
     "Soulburner Handbook/Weapon Quality.canvas"
-
     "Soulburner Handbook/z-Images/Manoizy - Peter Mohrbacher.png",
     "Soulburner Handbook/z-Images/Dahmor - Peter Mohrbacher's Dumah.png",
-
     "Soulburner Handbook/0-Images/Manoizy (Peter Mohrbacher).png"
-
   ]
 }
